@@ -1,0 +1,298 @@
+url,address,price,baths,beds,dens,street,neighbourhood,mls_id,city,property_type,date_scraped
+https://toronto.listing.ca/2335-sheppard-ave-9.W8031036.htm#wx-1,2335 Sheppard Ave 9,649000,2,2,0,Sheppard Ave,Humberlea-Pelmo Park W5,W8031036,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/715-lawrence-ave-29.W8031032.htm#wx-2,715 Lawrence Ave 29,589900,2,2,0,Lawrence Ave,Yorkdale-Glen Park,W8031032,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/100-mornelle-crt-2032.E8030972.htm#wx-3,100 Mornelle Crt 2032,549900,2,2,1,Mornelle Crt,Morningside,E8030972,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/36-birch-ave-109.C8031012.htm#wx-4,36 Birch Ave 109,3595000,3,2,0,Birch Ave,Yonge-St. Clair,C8031012,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1017-college-st.C8030690.htm#wx-5,1017 College St,999900,3,3,0,College St,Little Portugal,C8030690,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/44-boston-ave-2.E8030648.htm#wx-6,44 Boston Ave 2,699900,1,1,0,Boston Ave,South Riverdale,E8030648,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/4001-don-mills-rd-322.C8030556.htm#wx-7,4001 Don Mills Rd 322,599000,2,2,1,Don Mills Rd,Hillcrest Village,C8030556,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1881-mcnicoll-ave-515.E8030334.htm#wx-8,1881 Mcnicoll Ave 515,849900,3,3,1,Mcnicoll Ave,Steeles,E8030334,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/89-rock-fern-way.C8030276.htm#wx-9,89 Rock Fern Way,928000,2,3,2,Rock Fern Way,Don Valley Village,C8030276,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1086-bay-st-16.C8029518.htm#wx-a,1086 Bay St 16,2675000,4,3,0,Bay St,Bay Street Corridor,C8029518,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/12-dervock-cres-19.C8029148.htm#wx-b,12 Dervock Cres 19,988800,3,2,0,Dervock Cres,Bayview Village,C8029148,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/85-east-liberty-st-th121.C8028536.htm#wx-c,85 East Liberty St Th121,875000,2,2,0,East Liberty St,Niagara,C8028536,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/6-buddleswood-crt.E8028072.htm#wx-d,6 Buddleswood Crt,799000,2,3,1,Buddleswood Crt,Agincourt North,E8028072,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/12-burdock-lane.C8028110.htm#wx-e,12 Burdock Lane,848000,2,3,0,Burdock Lane,Banbury-Don Mills,C8028110,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/195-redpath-ave-th01.C8028094.htm#wx-f,195 Redpath Ave Th01,1098000,3,2,1,Redpath Ave,Mount Pleasant West,C8028094,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/60-homewood-ave-115.C8027636.htm#wx-g,60 Homewood Ave 115,1100000,4,2,1,Homewood Ave,Cabbagetown-South St. James Town,C8027636,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/17-yellow-birchway.C8026858.htm#wx-h,17 Yellow Birchway,689000,2,3,0,Yellow Birchway,Hillcrest Village,C8026858,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/25-dervock-cres-3.C8026842.htm#wx-i,25 Dervock Cres 3,1688800,4,4,0,Dervock Cres,Bayview Village,C8026842,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/37-four-winds-dr-11.W8026670.htm#wx-j,37 Four Winds Dr 11,630000,1,2,0,Four Winds Dr,York University Heights,W8026670,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/829-richmond-st-202.C8026578.htm#wx-k,829 Richmond St 202,859900,2,3,1,Richmond St,Niagara,C8026578,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/829-richmond-st-201.C8026574.htm#wx-l,829 Richmond St 201,879900,2,3,1,Richmond St,Niagara,C8026574,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/39-drewry-ave-36.C8026458.htm#wx-m,39 Drewry Ave 36,799000,2,2,1,Drewry Ave,Newtonbrook West,C8026458,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/135-antibes-dr-th3.C8026110.htm#wx-n,135 Antibes Dr Th3,1489000,3,4,1,Antibes Dr,Westminster-Branson,C8026110,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/6450-finch-ave-172.W8025716.htm#wx-o,6450 Finch Ave 172,759000,2,3,1,Finch Ave,Mount Olive-Silverstone-Jamestown,W8025716,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/115-long-branch-ave-27.W8024248.htm#wx-p,115 Long Branch Ave 27,949999,3,2,0,Long Branch Ave,Long Branch,W8024248,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/60-winston-park-blvd-66.W8023354.htm#wx-q,60 Winston Park Blvd 66,789000,3,2,1,Winston Park Blvd,Downsview-Roding-CFB,W8023354,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/26-humberwood-blvd-4.W8023334.htm#wx-r,26 Humberwood Blvd #4,888888,3,3,0,Humberwood Blvd,West Humber-Clairville,W8023334,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/140-widdicombe-hill-blvd-624.W8022198.htm#wx-s,140 Widdicombe Hill Blvd 624,779000,2,2,0,Widdicombe Hill Blvd,Willowridge-Martingrove-Richview,W8022198,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/485-logan-ave-202.E8022902.htm#wx-t,485 Logan Ave 202,999000,2,2,1,Logan Ave,South Riverdale,E8022902,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1881-mcnicoll-ave-105.E8022306.htm#wx-u,1881 Mcnicoll Ave 105,899000,3,3,1,Mcnicoll Ave,Steeles,E8022306,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/65-cranborne-ave-207.C8024832.htm#wx-v,65 Cranborne Ave 207,749900,2,3,0,Cranborne Ave,Victoria Village,C8024832,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/264-finch-ave-11.C8023886.htm#wx-w,264 Finch Ave 11,799999,2,2,0,Finch Ave,Newtonbrook East,C8023886,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/15-coneflower-cres-239.C8021760.htm#wx-x,15 Coneflower Cres 239,729900,2,2,1,Coneflower Cres,Westminster-Branson,C8021760,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1947-lawrence-ave-9.W8020152.htm#wx-y,1947 Lawrence Ave 9,625000,2,2,1,Lawrence Ave,Weston,W8020152,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/30-tandridge-cres-861.W8019168.htm#wx-z,30 Tandridge Cres 861,630000,1,3,0,Tandridge Cres,Elms-Old Rexdale,W8019168,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/50-scarborough-golf-rd-99.E8020298.htm#wx-10,50 Scarborough Golf Rd 99,579900,2,3,0,Scarborough Golf Rd,Scarborough Village,E8020298,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1785-markham-rd-204.E8019632.htm#wx-11,1785 Markham Rd 204,699000,2,2,0,Markham Rd,Malvern,E8019632,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/70-hargrave-lane-12.C8021488.htm#wx-12,70 Hargrave Lane 12,999000,3,3,1,Hargrave Lane,Bridle Path-Sunnybrook-York Mills,C8021488,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/100-mornelle-crt-1102.C8021462.htm#wx-13,100 Mornelle Crt 1102,649000,3,5,0,Mornelle Crt,Rosedale-Moore Park,C8021462,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/48-hendon-ave-117.C8021444.htm#wx-14,48 Hendon Ave 117,1449900,3,3,0,Hendon Ave,Newtonbrook West,C8021444,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/48-hendon-ave-126.C8021440.htm#wx-15,48 Hendon Ave 126,1244900,3,2,0,Hendon Ave,Newtonbrook West,C8021440,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/380-hopewell-ave-222.W8018984.htm#wx-16,380 Hopewell Ave 222,699000,2,2,0,Hopewell Ave,Briar Hill-Belgravia,W8018984,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/28-marina-ave-21.W8017828.htm#wx-17,28 Marina Ave 21,849000,2,2,0,Marina Ave,Long Branch,W8017828,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/382-driftwood-ave-8.W8017418.htm#wx-18,382 Driftwood Ave 8,799900,3,3,0,Driftwood Ave,Black Creek,W8017418,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/16-rexdale-52.W8017342.htm#wx-19,16 Rexdale 52,499000,2,2,0,Rexdale,Rexdale-Kipling,W8017342,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3037-finch-ave-2081.W8017308.htm#wx-1a,3037 Finch Ave 2081,699900,3,4,0,Finch Ave,Humbermede,W8017308,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/111-brickworks-lane-bw111.W8016538.htm#wx-1b,111 Brickworks Lane Bw111,879800,4,2,1,Brickworks Lane,Junction Area,W8016538,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/2100-bridletowne-circ-327.E8018810.htm#wx-1c,2100 Bridletowne Circ 327,849900,2,3,1,Bridletowne Circ,L'Amoreaux,E8018810,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1795-markham-rd-103.E8018590.htm#wx-1d,1795 Markham Rd 103,599900,2,2,0,Markham Rd,Malvern,E8018590,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/50-silverbell-grve-6.E8017586.htm#wx-1e,50 Silverbell Grve #6,879500,3,3,0,Silverbell Grve,Malvern,E8017586,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/485-logan-ave-101.E8017516.htm#wx-1f,485 Logan Ave 101,575000,2,1,0,Logan Ave,South Riverdale,E8017516,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/485-logan-ave-310.E8017332.htm#wx-1g,485 Logan Ave 310,1099000,2,2,1,Logan Ave,South Riverdale,E8017332,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/33-celeste-dr-19.E8017270.htm#wx-1h,33 Celeste Dr 19,749800,2,3,0,Celeste Dr,Guildwood,E8017270,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/200-mclevin-ave-64.E8016916.htm#wx-1i,200 Mclevin Ave 64,598888,1,2,1,Mclevin Ave,Malvern,E8016916,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/72-munro-st-3.E7392296.htm#wx-1j,72 Munro St 3,899900,2,2,0,Munro St,South Riverdale,E7392296,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/80-sloping-sky-mews-th3.C8019048.htm#wx-1k,80 Sloping Sky Mews Th3,1999000,3,3,0,Sloping Sky Mews,Niagara,C8019048,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/12-sudbury-st-1810.C8019038.htm#wx-1l,12 Sudbury St 1810,1125000,2,3,0,Sudbury St,Niagara,C8019038,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/38-kenaston-gdns-gv115.C8017778.htm#wx-1m,38 Kenaston Gdns Gv115,675000,1,1,1,Kenaston Gdns,Bayview Village,C8017778,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/6415-finch-ave-73.W8015838.htm#wx-1n,6415 Finch Ave 73,738000,2,3,1,Finch Ave,Mount Olive-Silverstone-Jamestown,W8015838,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/155-downsview-park-blvd-116.W8011720.htm#wx-1o,155 Downsview Park Blvd 116,849999,3,3,0,Downsview Park Blvd,Downsview-Roding-CFB,W8011720,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/105-george-appleton-way-2152.W8011704.htm#wx-1p,105 George Appleton Way 2152,699900,2,4,0,George Appleton Way,Downsview-Roding-CFB,W8011704,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/85-george-appleton-way-2025.W8010764.htm#wx-1q,85 George Appleton Way 2025,619900,1,2,0,George Appleton Way,Downsview-Roding-CFB,W8010764,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/40-ed-clark-gdns-16.W8009808.htm#wx-1r,40 Ed Clark Gdns 16,899900,3,2,0,Ed Clark Gdns,Weston-Pellam Park,W8009808,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/2061-bridletowne-circ-43.E8015924.htm#wx-1s,2061 Bridletowne Circ 43,729000,2,3,1,Bridletowne Circ,L'Amoreaux,E8015924,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/295-village-green-sq-60.E8015210.htm#wx-1t,295 Village Green Sq 60,868000,3,3,1,Village Green Sq,Agincourt South-Malvern West,E8015210,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/4662-kingston-rd-147.E8014862.htm#wx-1u,4662 Kingston Rd 147,879900,3,4,1,Kingston Rd,West Hill,E8014862,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/91-muir-dr-51.E8012504.htm#wx-1v,91 Muir Dr 51,610000,2,3,0,Muir Dr,Scarborough Village,E8012504,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/200-murison-blvd-67.E8009750.htm#wx-1w,200 Murison Blvd 67,749000,2,3,1,Murison Blvd,Malvern,E8009750,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/88-sheppard-ave-th-5.C8013922.htm#wx-1x,88 Sheppard Ave Th 5,1328000,3,3,1,Sheppard Ave,Willowdale East,C8013922,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/52-holmes-ave-3.C8011756.htm#wx-1y,52 Holmes Ave 3,1049000,2,2,0,Holmes Ave,Willowdale East,C8011756,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/7-southill-dr-17.C8010204.htm#wx-1z,7 Southill Dr 17,995000,2,3,1,Southill Dr,Banbury-Don Mills,C8010204,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/61-driftwood-ave-7.W8009346.htm#wx-20,61 Driftwood Ave 7,649000,2,3,0,Driftwood Ave,Glenfield-Jane Heights,W8009346,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/715-lawrence-ave-18.W8008994.htm#wx-21,715 Lawrence Ave 18,859000,2,2,0,Lawrence Ave,Yorkdale-Glen Park,W8008994,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/140-long-branch-ave-24.W8008844.htm#wx-22,140 Long Branch Ave 24,749900,2,2,1,Long Branch Ave,Long Branch,W8008844,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/430-roncesvalles-ave-th4.W7406036.htm#wx-23,430 Roncesvalles Ave Th4,1399900,3,3,0,Roncesvalles Ave,Roncesvalles,W7406036,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/11-applewood-lane-237.W7404942.htm#wx-24,11 Applewood Lane 237,849000,3,3,0,Applewood Lane,Etobicoke West Mall,W7404942,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3580-lake-shore-blvd-17.W7404626.htm#wx-25,3580 Lake Shore Blvd 17,895000,3,2,0,Lake Shore Blvd,Long Branch,W7404626,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/28-livingston-rd-75.E8007950.htm#wx-26,28 Livingston Rd 75,835000,3,4,0,Livingston Rd,Guildwood,E8007950,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/121-centennial-rd-34.E8007126.htm#wx-27,121 Centennial Rd 34,799000,3,3,0,Centennial Rd,Centennial Scarborough,E8007126,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/11-livonia-pl-th2.E7404822.htm#wx-28,11 Livonia Pl Th2,699999,4,3,1,Livonia Pl,Morningside,E7404822,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/5-clintwood-gate.C8008870.htm#wx-29,5 Clintwood Gate,1075000,4,3,0,Clintwood Gate,Parkwoods-Donalda,C8008870,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/30-nelson-st-20.C7406716.htm#wx-2a,30 Nelson St 20,2000000,3,3,1,Nelson St,Waterfront Communities C1,C7406716,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/66-st-nicholas-st.C7405730.htm#wx-2b,66 St. Nicholas St,1200000,2,2,0,St. Nicholas St,Bay Street Corridor,C7405730,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/74-flaming-roseway.C7405138.htm#wx-2c,74 Flaming Roseway,1328000,3,3,0,Flaming Roseway,Willowdale East,C7405138,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/761-bay-st-th01.C7404574.htm#wx-2d,761 Bay St Th01,3299000,4,3,0,Bay St,Bay Street Corridor,C7404574,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/11-silver-shadow-path.W7404172.htm#wx-2e,11 Silver Shadow Path,899900,2,3,0,Silver Shadow Path,Markland Wood,W7404172,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/37-four-winds-dr-109.W7402534.htm#wx-2f,37 Four Winds Dr 109,619000,1,2,0,Four Winds Dr,York University Heights,W7402534,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/867-wilson-ave-24.W7402388.htm#wx-2g,867 Wilson Ave 24,549000,1,1,0,Wilson Ave,Downsview-Roding-CFB,W7402388,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/2-rean-dr-th20.C7403462.htm#wx-2h,2 Rean Dr Th20,1295000,3,2,0,Rean Dr,Bayview Village,C7403462,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/250-erskine-ave-9.C7402778.htm#wx-2i,250 Erskine Ave 9,1888000,3,3,0,Erskine Ave,Mount Pleasant East,C7402778,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/40-orchid-place-dr-15.E7401506.htm#wx-2j,40 Orchid Place Dr 15,799000,3,3,0,Orchid Place Dr,Malvern,E7401506,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/4001-don-mills-rd-347.C7401780.htm#wx-2k,4001 Don Mills Rd 347,599900,2,2,1,Don Mills Rd,Hillcrest Village,C7401780,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/379-madison-ave-th-4.C7400394.htm#wx-2l,379 Madison Ave Th #4,1924900,3,3,0,Madison Ave,Casa Loma,C7400394,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/102-pleasant-blvd.C7400190.htm#wx-2m,102 Pleasant Blvd,2149000,4,3,0,Pleasant Blvd,Rosedale-Moore Park,C7400190,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/380-hopewell-ave-127.W7400058.htm#wx-2n,380 Hopewell Ave 127,529900,2,1,0,Hopewell Ave,Briar Hill-Belgravia,W7400058,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/58-sidney-belsey-cres-308.W7399792.htm#wx-2o,58 Sidney Belsey Cres 308,668000,2,3,0,Sidney Belsey Cres,Weston,W7399792,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/295-village-green-sq-56.E7398602.htm#wx-2p,295 Village Green Sq 56,889000,3,3,1,Village Green Sq,Agincourt South-Malvern West,E7398602,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/228-st-george-st-th16.C7399052.htm#wx-2q,228 St George St Th16,749900,1,2,0,St George St,Annex,C7399052,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/847-sheppard-ave-134.C7287556.htm#wx-2r,847 Sheppard Ave 134,1148800,3,3,1,Sheppard Ave,Clanton Park,C7287556,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/10-lloyd-janes-lane-194.W7395012.htm#wx-2s,10 Lloyd Janes Lane 194,794998,3,2,0,Lloyd Janes Lane,New Toronto,W7395012,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1350-kingston-rd-213.E7396442.htm#wx-2t,1350 Kingston Rd 213,629900,1,1,1,Kingston Rd,Birchcliffe-Cliffside,E7396442,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/25-sonic-way.C7395126.htm#wx-2u,25 Sonic Way,1279000,3,3,0,Sonic Way,Flemingdon Park,C7395126,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/50-orchid-place-dr-24.E7393082.htm#wx-2v,50 Orchid Place Dr 24,734999,2,2,0,Orchid Place Dr,Malvern,E7393082,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/125-long-branch-ave-3.W7391704.htm#wx-2w,125 Long Branch Ave 3,949500,3,2,0,Long Branch Ave,Long Branch,W7391704,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/2289-lake-shore-blvd-129.W7391458.htm#wx-2x,2289 Lake Shore Blvd 129,1450000,3,2,1,Lake Shore Blvd,Mimico,W7391458,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/60-parrotta-dr-275.W7391288.htm#wx-2y,60 Parrotta Dr 275,745000,2,2,0,Parrotta Dr,Humberlea-Pelmo Park W5,W7391288,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3-san-remo-terr.W7390664.htm#wx-2z,3 San Remo Terr,1269000,3,3,0,San Remo Terr,Mimico,W7390664,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/100-canon-jackson-dr-g203.W7390298.htm#wx-30,100 Canon Jackson Dr G203,829900,3,2,0,Canon Jackson Dr,Brookhaven-Amesbury,W7390298,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/100-burrows-hall-blvd-82.E7390938.htm#wx-31,100 Burrows Hall Blvd 82,749000,3,3,1,Burrows Hall Blvd,Malvern,E7390938,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/50-silverbell-grve-33.E7390024.htm#wx-32,50 Silverbell Grve 33,749000,2,4,0,Silverbell Grve,Malvern,E7390024,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/36-stadium-rd-567.C7391332.htm#wx-33,36 Stadium Rd 567,1058800,2,2,0,Stadium Rd,Niagara,C7391332,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/51-paul-lane-gdns-th2.C7390844.htm#wx-34,51 Paul Lane Gdns Th2,1899990,2,4,1,Paul Lane Gdns,Kensington-Chinatown,C7390844,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/39-annie-craig-dr-th4.W7389340.htm#wx-35,39 Annie Craig Dr Th4,1519000,3,2,1,Annie Craig Dr,Mimico,W7389340,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/30-william-jackson-way-th-113.W7389098.htm#wx-36,30 William Jackson Way Th 113,969999,3,3,0,William Jackson Way,New Toronto,W7389098,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/60-george-butchart-dr-107.W7388134.htm#wx-37,60 George Butchart Dr 107,1099900,3,3,1,George Butchart Dr,Downsview-Roding-CFB,W7388134,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/251-manitoba-st-126.W7387958.htm#wx-38,251 Manitoba St 126,888000,3,2,0,Manitoba St,Mimico,W7387958,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/251-manitoba-st-116.W7387942.htm#wx-39,251 Manitoba St 116,1300000,3,2,1,Manitoba St,Mimico,W7387942,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/117-the-queensway-102.W7384320.htm#wx-3a,117 The Queensway 102,1149000,2,3,0,The Queensway,High Park-Swansea,W7384320,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/170-wickson-tr-26.E7389112.htm#wx-3b,170 Wickson Tr 26,699000,2,4,1,Wickson Tr,Malvern,E7389112,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/30-wingarden-crt-33.E7385658.htm#wx-3c,30 Wingarden Crt 33,799900,3,4,0,Wingarden Crt,Malvern,E7385658,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/42-pinery-tr-125.E7384768.htm#wx-3d,42 Pinery Tr 125,690000,2,3,0,Pinery Tr,Malvern,E7384768,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/201-bridletowne-circ-1.E7383702.htm#wx-3e,201 Bridletowne Circ 1,815000,2,3,0,Bridletowne Circ,L'Amoreaux,E7383702,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/4005-don-mills-rd-104.C7389214.htm#wx-3f,4005 Don Mills Rd 104,668000,2,2,0,Don Mills Rd,Hillcrest Village,C7389214,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/69-mcmahon-dr-villa.C7386432.htm#wx-3g,69 Mcmahon Dr Villa,1650000,3,3,0,Mcmahon Dr,Bayview Village,C7386432,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/70-hargrave-lane-7.C7385816.htm#wx-3h,70 Hargrave Lane 7,1348000,3,3,0,Hargrave Lane,Bridle Path-Sunnybrook-York Mills,C7385816,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/184-woody-vine-way-31.C7385118.htm#wx-3i,184 Woody Vine Way 31,799000,3,3,0,Woody Vine Way,Bayview Village,C7385118,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/39-candle-lite-way.C7384704.htm#wx-3j,39 Candle Lite Way,870000,2,3,2,Candle Lite Way,Westminster-Branson,C7384704,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/36-birch-ave-302.C7384636.htm#wx-3k,36 Birch Ave 302,3195000,3,2,1,Birch Ave,Yonge-St. Clair,C7384636,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3039-finch-ave-1032.W7383050.htm#wx-3l,3039 Finch Ave 1032,729900,2,3,0,Finch Ave,Humbermede,W7383050,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/130-widdicombe-hill-blvd-403.W7382974.htm#wx-3m,130 Widdicombe Hill Blvd 403,838888,2,2,0,Widdicombe Hill Blvd,Willowridge-Martingrove-Richview,W7382974,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1355-neilson-rd-93.E7382830.htm#wx-3n,1355 Neilson Rd 93,619900,1,2,0,Neilson Rd,Malvern,E7382830,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/175-jones-ave-1.E7382342.htm#wx-3o,175 Jones Ave 1,1098888,2,2,1,Jones Ave,South Riverdale,E7382342,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/400-hopewell-ave-204.W7380046.htm#wx-3p,400 Hopewell Ave 204,750000,2,2,1,Hopewell Ave,Briar Hill-Belgravia,W7380046,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/21-livonia-pl-140.E7380312.htm#wx-3q,21 Livonia Pl 140,739000,3,4,1,Livonia Pl,Morningside,E7380312,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/160-vanderhoof-ave-th-105.C7381810.htm#wx-3r,160 Vanderhoof Ave Th 105,1088000,3,2,1,Vanderhoof Ave,Thorncliffe Park,C7381810,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3-everson-dr-238.C7379852.htm#wx-3s,3 Everson Dr 238,688000,2,2,0,Everson Dr,Willowdale East,C7379852,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/871-sheppard-ave-107.C7379048.htm#wx-3t,871 Sheppard Ave 107,849900,3,2,0,Sheppard Ave,Clanton Park,C7379048,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/155-downsview-park-blvd-215.W7378584.htm#wx-3u,155 Downsview Park Blvd 215,820000,3,3,0,Downsview Park Blvd,Downsview-Roding-CFB,W7378584,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/200-mclevin-ave-96.E7378872.htm#wx-3v,200 Mclevin Ave 96,540000,1,2,0,Mclevin Ave,Malvern,E7378872,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/29-coneflower-cres-50.C7379378.htm#wx-3w,29 Coneflower Cres 50,1070000,4,3,0,Coneflower Cres,Westminster-Branson,C7379378,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/871-sheppard-ave-28.C7379168.htm#wx-3x,871 Sheppard Ave 28,1099000,3,3,0,Sheppard Ave,Bathurst Manor,C7379168,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/5877-bathurst-st-204.C7379102.htm#wx-3y,5877 Bathurst St 204,499000,1,2,0,Bathurst St,Newtonbrook West,C7379102,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/17-dutch-myrtleway.C7378942.htm#wx-3z,17 Dutch Myrtleway,915513,4,3,0,Dutch Myrtleway,Banbury-Don Mills,C7378942,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/85-east-liberty-st-120.C7378790.htm#wx-40,85 East Liberty St 120,999990,2,2,1,East Liberty St,Niagara,C7378790,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/83-pleasant-blvd.C7377318.htm#wx-41,83 Pleasant Blvd,1289000,3,2,1,Pleasant Blvd,Rosedale-Moore Park,C7377318,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/713-lawrence-ave-15.W7376256.htm#wx-42,713 Lawrence Ave 15,679900,2,2,0,Lawrence Ave,Yorkdale-Glen Park,W7376256,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1081-danforth-rd-103.E7376442.htm#wx-43,1081 Danforth Rd 103,675000,2,2,0,Danforth Rd,Eglinton East,E7376442,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/140-ling-rd-96.E7374952.htm#wx-44,140 Ling Rd 96,589900,1,3,0,Ling Rd,West Hill,E7374952,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/170-wickson-tr-22.E7374892.htm#wx-45,170 Wickson Tr 22,665000,2,3,0,Wickson Tr,Malvern,E7374892,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/120-bayview-ave-n114.C7375850.htm#wx-46,120 Bayview Ave N114,1199900,3,2,0,Bayview Ave,Waterfront Communities C8,C7375850,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/75-maris-shepway.C7374396.htm#wx-47,75 Maris Shepway,847988,2,3,0,Maris Shepway,Don Valley Village,C7374396,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/108-finch-ave-a13.C7374390.htm#wx-48,108 Finch Ave A13,859000,2,2,0,Finch Ave,Newtonbrook West,C7374390,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/30-carnation-ave-87.W7372676.htm#wx-49,30 Carnation Ave 87,849000,3,2,0,Carnation Ave,Long Branch,W7372676,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/95-george-appleton-way-2171.W7372416.htm#wx-4a,95 George Appleton Way 2171,589900,1,2,0,George Appleton Way,Downsview-Roding-CFB,W7372416,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/50-verne-cres-2.E7373630.htm#wx-4b,50 Verne Cres 2,875888,3,4,1,Verne Cres,Malvern,E7373630,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/66-finch-ave.C7371986.htm#wx-4c,66 Finch Ave,1198000,3,3,0,Finch Ave,Willowdale West,C7371986,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/100-mornelle-crt-2102.E7371852.htm#wx-4d,100 Mornelle Crt 2102,675000,3,4,0,Mornelle Crt,Morningside,E7371852,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/90-wingarden-crt-126.E7371572.htm#wx-4e,90 Wingarden Crt 126,649000,3,3,0,Wingarden Crt,Malvern,E7371572,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/55-collinsgrove-rd-305.E7371570.htm#wx-4f,55 Collinsgrove Rd 305,649000,2,3,0,Collinsgrove Rd,West Hill,E7371570,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/5-william-jackson-way-50.W7370328.htm#wx-4g,5 William Jackson Way 50,699900,1,2,0,William Jackson Way,New Toronto,W7370328,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/100-mornelle-crt-2096.E7369622.htm#wx-4h,100 Mornelle Crt 2096,569000,2,2,1,Mornelle Crt,Morningside,E7369622,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/25-brimwood-blvd-99.E7367662.htm#wx-4i,25 Brimwood Blvd 99,868000,2,3,1,Brimwood Blvd,Agincourt North,E7367662,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/25-turntable-cres-136.W7366314.htm#wx-4j,25 Turntable Cres 136,740000,2,2,1,Turntable Cres,Dovercourt-Wallace Emerson-Junction,W7366314,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/22-tandridge-cres-814.W7366140.htm#wx-4k,22 Tandridge Cres 814,699000,2,3,0,Tandridge Cres,Elms-Old Rexdale,W7366140,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/108-fort-york-blvd-g07.C7366114.htm#wx-4l,108 Fort York Blvd G07,1380000,3,3,1,Fort York Blvd,Waterfront Communities C1,C7366114,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3-everson-dr-525.C7366110.htm#wx-4m,3 Everson Dr 525,569500,1,1,0,Everson Dr,Willowdale East,C7366110,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/100-parrotta-dr-99.W7364466.htm#wx-4n,100 Parrotta Dr 99,699900,2,2,0,Parrotta Dr,Humberlea-Pelmo Park W5,W7364466,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/139-purpledusk-tr.E7363592.htm#wx-4o,139 Purpledusk Tr,799900,3,3,0,Purpledusk Tr,Morningside,E7363592,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/90-stadium-rd-th120.C7363528.htm#wx-4p,90 Stadium Rd Th120,1595000,3,2,1,Stadium Rd,Niagara,C7363528,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3686-st-clair-ave-108.E7359016.htm#wx-4q,3686 St Clair Ave 108,689900,1,1,1,St Clair Ave,Cliffcrest,E7359016,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/42-pinery-tr-7.E7358026.htm#wx-4r,42 Pinery Tr 7,499999,1,2,0,Pinery Tr,Malvern,E7358026,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/145-long-branch-ave-th9.W7357268.htm#wx-4s,145 Long Branch Ave Th9,848000,3,2,0,Long Branch Ave,Long Branch,W7357268,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/19-london-green-crt-103.W7355950.htm#wx-4t,19 London Green Crt 103,729900,3,4,0,London Green Crt,Glenfield-Jane Heights,W7355950,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/555-wilson-ave-e114.C7356658.htm#wx-4u,555 Wilson Ave E114,549000,3,2,0,Wilson Ave,Clanton Park,C7356658,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/60-winston-park-blvd-60.W7355050.htm#wx-4v,60 Winston Park Blvd 60,488000,1,1,0,Winston Park Blvd,Downsview-Roding-CFB,W7355050,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/11-weston-rd.W7352888.htm#wx-4w,11 Weston Rd,1028000,3,3,3,Weston Rd,Junction Area,W7352888,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/19-london-green-crt-98.W7352528.htm#wx-4x,19 London Green Crt 98,729900,3,4,0,London Green Crt,Glenfield-Jane Heights,W7352528,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/5-dutch-myrtle-way-5.C7353894.htm#wx-4y,5 Dutch Myrtle Way 5,699000,3,3,0,Dutch Myrtle Way,Banbury-Don Mills,C7353894,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3037-finch-ave-1036.W7350210.htm#wx-4z,3037 Finch Ave 1036,724900,2,3,0,Finch Ave,Humbermede,W7350210,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/93-the-queensway-n-a-45.W7349874.htm#wx-50,93 The Queensway N/A 45,750000,2,2,0,The Queensway N/A,High Park-Swansea,W7349874,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/415-jarvis-st-116.C7350888.htm#wx-51,415 Jarvis St 116,465000,1,0,0,Jarvis St,Cabbagetown-South St. James Town,C7350888,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/14-marquette-ave-8.C7350856.htm#wx-52,14 Marquette Ave 8,899000,2,3,0,Marquette Ave,Englemount-Lawrence,C7350856,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3-everson-dr-280.C7350762.htm#wx-53,3 Everson Dr 280,595000,1,1,1,Everson Dr,Willowdale East,C7350762,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/8-marquette-ave-6.C7350646.htm#wx-54,8 Marquette Ave 6,759000,2,1,0,Marquette Ave,Englemount-Lawrence,C7350646,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/138-widdicombe-hill-blvd-707.W7349270.htm#wx-55,138 Widdicombe Hill Blvd 707,699000,2,2,0,Widdicombe Hill Blvd,Willowridge-Martingrove-Richview,W7349270,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/130-ling-rd-73.E7346644.htm#wx-56,130 Ling Rd 73,588888,1,3,0,Ling Rd,West Hill,E7346644,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1485-birchmount-rd-204.E7346566.htm#wx-57,1485 Birchmount Rd 204,675000,2,3,0,Birchmount Rd,Dorset Park,E7346566,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/32-curzon-st-6.E7344010.htm#wx-58,32 Curzon St 6,1069000,1,1,1,Curzon St,South Riverdale,E7344010,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/95-leeward-glwy-218.C7342968.htm#wx-59,95 Leeward Glwy 218,899000,2,4,0,Leeward Glwy,Flemingdon Park,C7342968,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/338-davenport-rd-101.C7342736.htm#wx-5a,338 Davenport Rd 101,1449000,3,2,1,Davenport Rd,Annex,C7342736,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/256-john-garland-blvd-117.W7342784.htm#wx-5b,256 John Garland Blvd 117,580000,1,3,0,John Garland Blvd,West Humber-Clairville,W7342784,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/10-brin-dr-10.W7341906.htm#wx-5c,10 Brin Dr 10,860000,2,3,0,Brin Dr,Edenbridge-Humber Valley,W7341906,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/52-sidney-belsey-cres-102.W7341534.htm#wx-5d,52 Sidney Belsey Cres #102,627000,2,3,0,Sidney Belsey Cres,Weston,W7341534,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/2800-keele-st-th102.W7341458.htm#wx-5e,2800 Keele St Th102,799000,3,2,1,Keele St,Downsview-Roding-CFB,W7341458,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/77-mcmurrich-st-114.C7337914.htm#wx-5f,77 Mcmurrich St 114,1889900,3,2,1,Mcmurrich St,Annex,C7337914,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/36-birch-ave-103.C7337772.htm#wx-5g,36 Birch Ave 103,2850000,3,2,0,Birch Ave,Yonge-St. Clair,C7337772,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/2758-eglinton-ave-28.E7337422.htm#wx-5h,2758 Eglinton Ave 28,899000,3,3,1,Eglinton Ave,Eglinton East,E7337422,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/9-mabelle-ave-3.W7334990.htm#wx-5i,9 Mabelle Ave 3,1300000,3,3,1,Mabelle Ave,Islington-City Centre West,W7334990,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/12-dervock-cres-5.C7333862.htm#wx-5j,12 Dervock Cres 5,1299900,3,2,0,Dervock Cres,Bayview Village,C7333862,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/104-farm-greenway-n-a-104.C7333768.htm#wx-5k,104 Farm Greenway N/A 104,940000,2,3,0,Farm Greenway N/A,Parkwoods-Donalda,C7333768,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/106-chester-le-blvd-74.E7332280.htm#wx-5l,106 Chester Le Blvd #74,948800,4,4,3,Chester Le Blvd,L'Amoreaux,E7332280,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/282-spadina-rd.C7332446.htm#wx-5m,282 Spadina Rd,1898000,3,2,0,Spadina Rd,Casa Loma,C7332446,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/246-john-garland-blvd-56.W7330446.htm#wx-5n,246 John Garland Blvd 56,629900,3,4,1,John Garland Blvd,West Humber-Clairville,W7330446,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/4064-lawrence-ave-212.E7330588.htm#wx-5o,4064 Lawrence Ave 212,405000,2,3,0,Lawrence Ave,West Hill,E7330588,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/16-pat-brooks-terr.E7330412.htm#wx-5p,16 Pat Brooks Terr,955000,4,3,1,Pat Brooks Terr,Dorset Park,E7330412,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1248-avenue-rd-c.C7330322.htm#wx-5q,1248 Avenue Rd C,829000,1,2,0,Avenue Rd,Lawrence Park South,C7330322,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/12-dervock-cres-7.C7328948.htm#wx-5r,12 Dervock Cres 7,1199000,3,2,0,Dervock Cres,Bayview Village,C7328948,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/19-maroon-mill-way.C7328832.htm#wx-5s,19 Maroon Mill Way,1165000,3,3,0,Maroon Mill Way,St. Andrew-Windfields,C7328832,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/19-rosebank-dr-302.E7328388.htm#wx-5t,19 Rosebank Dr 302,875000,3,5,0,Rosebank Dr,Malvern,E7328388,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/175-jones-ave-9.E7326902.htm#wx-5u,175 Jones Ave 9,1749000,2,2,1,Jones Ave,South Riverdale,E7326902,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/649-warden-ave-25.E7325990.htm#wx-5v,649 Warden Ave 25,760000,2,3,1,Warden Ave,Clairlea-Birchmount,E7325990,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/861-sheppard-ave-15.C7326052.htm#wx-5w,861 Sheppard Ave 15,878888,2,2,0,Sheppard Ave,Clanton Park,C7326052,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/20-carnation-ave-48.W7325082.htm#wx-5x,20 Carnation Ave 48,849000,3,2,0,Carnation Ave,Long Branch,W7325082,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/38-howard-park-ave-157.W7325008.htm#wx-5y,38 Howard Park Ave 157,1395000,4,3,0,Howard Park Ave,Roncesvalles,W7325008,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/95-mcmahon-dr-th108.C7324690.htm#wx-5z,95 Mcmahon Dr Th108,1190000,3,3,0,Mcmahon Dr,Bayview Village,C7324690,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/21-churchill-ave-th-2.C7324150.htm#wx-60,21 Churchill Ave Th 2,899900,3,3,0,Churchill Ave,Willowdale West,C7324150,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/275-manse-rd-28.E7323434.htm#wx-61,275 Manse Rd 28,729900,2,3,0,Manse Rd,West Hill,E7323434,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/10-edward-horton-cres-157.W7321804.htm#wx-62,10 Edward Horton Cres 157,1480000,4,4,0,Edward Horton Cres,Islington-City Centre West,W7321804,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/12-english-ivyway.C7320326.htm#wx-63,12 English Ivyway,859900,3,2,1,English Ivyway,Bayview Woods-Steeles,C7320326,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/50-western-battery-rd-908.C7318860.htm#wx-64,50 Western Battery Rd 908,849000,2,2,0,Western Battery Rd,Niagara,C7318860,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/15-eldora-ave-22.C7317638.htm#wx-65,15 Eldora Ave 22,829000,2,2,0,Eldora Ave,Newtonbrook West,C7317638,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/225-brimingham-st-150.W7315142.htm#wx-66,225 Brimingham St 150,990000,3,3,0,Brimingham St,New Toronto,W7315142,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/30-william-jackson-way-115.W7314534.htm#wx-67,30 William Jackson Way 115,799900,3,2,0,William Jackson Way,New Toronto,W7314534,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/415-jarvis-st-371.C7306762.htm#wx-68,415 Jarvis St 371,775000,1,2,0,Jarvis St,Cabbagetown-South St. James Town,C7306762,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1966-victoria-park-ave-66.C7304784.htm#wx-69,1966 Victoria Park Ave 66,1029000,2,2,0,Victoria Park Ave,Parkwoods-Donalda,C7304784,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/36-birch-ave-104.C7302374.htm#wx-6a,36 Birch Ave 104,4285000,4,3,0,Birch Ave,Yonge-St. Clair,C7302374,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/12-douro-st-th426.C7299950.htm#wx-6b,12 Douro St Th426,795000,1,3,0,Douro St,Niagara,C7299950,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/149-isaac-devins-blvd-5.W7296966.htm#wx-6c,149 Isaac Devins Blvd 5,699000,1,2,0,Isaac Devins Blvd,Humberlea-Pelmo Park W5,W7296966,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/200-clinton-st-4.C7296196.htm#wx-6d,200 Clinton St 4,1995000,2,2,0,Clinton St,Palmerston-Little Italy,C7296196,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/123-brickworks-lane-bl123.W7294366.htm#wx-6e,123 Brickworks Lane Bl123,989900,4,3,1,Brickworks Lane,Junction Area,W7294366,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/90-eastwood-park-gdns-th11.W7293970.htm#wx-6f,90 Eastwood Park Gdns Th11,929800,3,2,0,Eastwood Park Gdns,Long Branch,W7293970,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/500-richmond-st-331.C7293800.htm#wx-6g,500 Richmond St 331,989000,1,2,0,Richmond St,Waterfront Communities C1,C7293800,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/242-john-garland-blvd-1.W7293016.htm#wx-6h,242 John Garland Blvd 1,759900,3,3,1,John Garland Blvd,West Humber-Clairville,W7293016,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/46-western-battery-rd-810.C7293006.htm#wx-6i,46 Western Battery Rd 810,515000,1,1,0,Western Battery Rd,Niagara,C7293006,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3646-kingston-rd-40.E7292382.htm#wx-6j,3646 Kingston Rd 40,799900,3,4,1,Kingston Rd,Scarborough Village,E7292382,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/45-dundalk-dr.E7292024.htm#wx-6k,45 Dundalk Dr,980000,4,4,1,Dundalk Dr,Dorset Park,E7292024,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/68-aerodrome-cres-201.C7289474.htm#wx-6l,68 Aerodrome Cres 201,768000,2,2,0,Aerodrome Cres,Thorncliffe Park,C7289474,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/135-long-branch-ave-9.W7286386.htm#wx-6m,135 Long Branch Ave 9,989000,3,3,0,Long Branch Ave,Long Branch,W7286386,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/80-parrotta-dr-132.W7288930.htm#wx-6n,80 Parrotta Dr 132,690000,2,2,0,Parrotta Dr,Humberlea-Pelmo Park W5,W7288930,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/50-bartlett-ave-th11.W7288444.htm#wx-6o,50 Bartlett Ave Th11,1695000,3,2,1,Bartlett Ave,Dovercourt-Wallace Emerson-Junction,W7288444,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/96-fort-york-blvd-g01.C7288406.htm#wx-6p,96 Fort York Blvd G01,1500000,3,2,1,Fort York Blvd,Waterfront Communities C1,C7288406,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/4005-don-mills-rd-310.C7286732.htm#wx-6q,4005 Don Mills Rd 310,779000,3,4,0,Don Mills Rd,Hillcrest Village,C7286732,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1485-birchmount-rd-208.E7285700.htm#wx-6r,1485 Birchmount Rd 208,650000,2,3,0,Birchmount Rd,Dorset Park,E7285700,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/861-sheppard-ave-43.C7283644.htm#wx-6s,861 Sheppard Ave 43,885990,3,2,0,Sheppard Ave,Bathurst Manor,C7283644,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3453-victoria-park-ave-a305.E7281506.htm#wx-6t,3453 Victoria Park Ave A305,769990,3,2,1,Victoria Park Ave,L'Amoreaux,E7281506,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/185-carlton-st-4.C7281878.htm#wx-6u,185 Carlton St 4,999900,1,2,0,Carlton St,Cabbagetown-South St. James Town,C7281878,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/33-shore-breeze-dr-1901.W7278778.htm#wx-6v,33 Shore Breeze Dr 1901,649900,1,1,1,Shore Breeze Dr,Mimico,W7278778,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/871-sheppard-ave-102.C7278754.htm#wx-6w,871 Sheppard Ave 102,877000,3,2,0,Sheppard Ave,Clanton Park,C7278754,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3045-finch-ave-1032.W7274576.htm#wx-6x,3045 Finch Ave 1032,599000,2,2,1,Finch Ave,Humbermede,W7274576,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/35-birchcliff-ave-th48.E7272020.htm#wx-6y,35 Birchcliff Ave Th48,999990,2,3,0,Birchcliff Ave,Birchcliffe-Cliffside,E7272020,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/721-lawrence-ave-66.W7268142.htm#wx-6z,721 Lawrence Ave 66,899000,2,3,0,Lawrence Ave,Yorkdale-Glen Park,W7268142,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/26-fieldway-rd-42.W7267080.htm#wx-70,26 Fieldway Rd 42,579000,1,1,1,Fieldway Rd,Islington-City Centre West,W7267080,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/28-fieldway-rd-53.W7267022.htm#wx-71,28 Fieldway Rd 53,649900,1,2,0,Fieldway Rd,Islington-City Centre West,W7267022,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/150-canon-jackson-dr-201.W7263290.htm#wx-72,150 Canon Jackson Dr 201,974900,3,3,0,Canon Jackson Dr,Brookhaven-Amesbury,W7263290,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1455-oconnor-dr-25.E7268330.htm#wx-73,1455 Oconnor Dr 25,858880,3,2,0,Oconnor Dr,O'Connor-Parkview,E7268330,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/861-sheppard-ave-37.C7267654.htm#wx-74,861 Sheppard Ave 37,849000,2,2,0,Sheppard Ave,Clanton Park,C7267654,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/75-curlew-dr-b6.C7265782.htm#wx-75,75 Curlew Dr B6,1099900,2,2,0,Curlew Dr,Parkwoods-Donalda,C7265782,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/75-curlew-dr-b23.C7264632.htm#wx-76,75 Curlew Dr B23,1299900,3,3,0,Curlew Dr,Parkwoods-Donalda,C7264632,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/10-wilby-cres-103.W7255970.htm#wx-77,10 Wilby Cres 103,980900,2,3,0,Wilby Cres,Weston,W7255970,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/8835-sheppard-ave-210.E7241460.htm#wx-78,8835 Sheppard Ave 210,648800,2,2,1,Sheppard Ave,Rouge E11,E7241460,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/118-finch-ave-34.C7238598.htm#wx-79,118 Finch Ave 34,848800,3,3,0,Finch Ave,Newtonbrook West,C7238598,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1455-oconnor-dr-10.E7235316.htm#wx-7a,1455 Oconnor Dr 10,1299900,3,2,1,Oconnor Dr,O'Connor-Parkview,E7235316,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/130-ling-rd-76.E7232474.htm#wx-7b,130 Ling Rd 76,589000,1,3,0,Ling Rd,West Hill,E7232474,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/4140-lawrence-ave-14.E7229852.htm#wx-7c,4140 Lawrence Ave 14,658000,2,3,1,Lawrence Ave,West Hill,E7229852,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/581-scarlett-rd-1.W7226714.htm#wx-7d,581 Scarlett Rd 1,1249000,4,3,0,Scarlett Rd,Humber Heights,W7226714,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1357-neilson-rd-80.E7221276.htm#wx-7e,1357 Neilson Rd 80,638000,1,2,1,Neilson Rd,Malvern,E7221276,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/871-sheppard-ave-37.C7212324.htm#wx-7f,871 Sheppard Ave 37,899900,3,2,1,Sheppard Ave,Clanton Park,C7212324,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/98-carr-st-7.C7210824.htm#wx-7g,98 Carr St 7,749000,1,1,0,Carr St,Kensington-Chinatown,C7210824,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/760-lawrence-ave-90.W7206398.htm#wx-7h,760 Lawrence Ave 90,965000,3,3,0,Lawrence Ave,Yorkdale-Glen Park,W7206398,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/36-wild-ginger-way-36.C7060776.htm#wx-7i,36 Wild Ginger Way 36,989995,3,3,0,Wild Ginger Way,Bathurst Manor,C7060776,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/15-brin-dr-5.W7057734.htm#wx-7j,15 Brin Dr 5,899900,2,3,0,Brin Dr,Edenbridge-Humber Valley,W7057734,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/14-london-green-crt-93.W7053142.htm#wx-7k,14 London Green Crt 93,724990,2,4,0,London Green Crt,Glenfield-Jane Heights,W7053142,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/4001-don-mills-rd-119.C7050064.htm#wx-7l,4001 Don Mills Rd 119,695000,3,2,0,Don Mills Rd,Hillcrest Village,C7050064,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/861-sheppard-ave-43.C7045540.htm#wx-7m,861 Sheppard Ave 43,880000,3,2,0,Sheppard Ave,Clanton Park,C7045540,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/703-burnhamthorpe-rd-67.W7044644.htm#wx-7n,703 Burnhamthorpe Rd 67,799999,2,3,1,Burnhamthorpe Rd,Markland Wood,W7044644,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/38-jenkinson-way.E7045112.htm#wx-7o,38 Jenkinson Way,889000,4,4,0,Jenkinson Way,Dorset Park,E7045112,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/3644-kingston-rd-34.E7042600.htm#wx-7p,3644 Kingston Rd 34,729900,2,3,0,Kingston Rd,Scarborough Village,E7042600,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/85-mcmahon-dr-v208.C7039382.htm#wx-7q,85 Mcmahon Dr V208,2150000,4,5,0,Mcmahon Dr,Bayview Village,C7039382,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1837-eglinton-ave-225.C7038504.htm#wx-7r,1837 Eglinton Ave 225,798000,3,3,0,Eglinton Ave,Victoria Village,C7038504,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/630-rogers-rd-10.W7026116.htm#wx-7s,630 Rogers Rd 10,598800,2,2,0,Rogers Rd,Keelesdale-Eglinton West,W7026116,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/100-canon-jackson-dr-g101.W7022408.htm#wx-7t,100 Canon Jackson Dr G101,695000,1,2,0,Canon Jackson Dr,Beechborough-Greenbrook,W7022408,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/56-sidney-belsey-cres-103.W7014934.htm#wx-7u,56 Sidney Belsey Cres 103,649900,2,3,0,Sidney Belsey Cres,Weston,W7014934,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/69-upper-canada-dr-2.C7006516.htm#wx-7v,69 Upper Canada Dr 2,1038000,2,2,0,Upper Canada Dr,St. Andrew-Windfields,C7006516,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/28-admiral-rd-6.C7004502.htm#wx-7w,28 Admiral Rd 6,1749000,3,4,0,Admiral Rd,Annex,C7004502,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/300-avenue-rd-th1.C6816122.htm#wx-7x,300 Avenue Rd Th1,1449000,2,2,0,Avenue Rd,Casa Loma,C6816122,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/67-foxbar-rd.C6814078.htm#wx-7y,67 Foxbar Rd,4199000,5,3,1,Foxbar Rd,Yonge-St. Clair,C6814078,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/115-george-appleton-way-2137.W6809034.htm#wx-7z,115 George Appleton Way 2137,729900,2,3,0,George Appleton Way,Downsview-Roding-CFB,W6809034,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/125-george-appleton-way-1004.W6805978.htm#wx-80,125 George Appleton Way 1004,719900,2,2,1,George Appleton Way,Downsview-Roding-CFB,W6805978,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/1280-bridletowne-circ-108.E6795110.htm#wx-81,1280 Bridletowne Circ 108,848000,3,3,1,Bridletowne Circ,L'Amoreaux,E6795110,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/179-william-duncan-rd-2.W6762192.htm#wx-82,179 William Duncan Rd 2,669900,1,2,1,William Duncan Rd,Downsview-Roding-CFB,W6762192,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/160-kingsway-cres-109.W6146260.htm#wx-83,160 Kingsway Cres 109,1469900,2,2,0,Kingsway Cres,Kingsway South,W6146260,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/160-kingsway-cres-101.W6146032.htm#wx-84,160 Kingsway Cres 101,1199900,2,2,0,Kingsway Cres,Kingsway South,W6146032,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/760-lawrence-ave-87.W6751692.htm#wx-85,760 Lawrence Ave 87,799000,3,2,1,Lawrence Ave,Yorkdale-Glen Park,W6751692,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/66-long-branch-ave-20.W6707034.htm#wx-86,66 Long Branch Ave 20,1180000,3,3,0,Long Branch Ave,Long Branch,W6707034,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/132-aerodrome-cres-202.C6151524.htm#wx-87,132 Aerodrome Cres 202,796000,2,2,0,Aerodrome Cres,Leaside,C6151524,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/70-annie-craig-dr-th-104.W6018916.htm#wx-88,70 Annie Craig Dr Th 104,1250000,3,2,1,Annie Craig Dr,Mimico,W6018916,Toronto,condo_townhome,2024-01-30
+https://toronto.listing.ca/161-frederick-tisdale-dr-2.W5994095.htm#wx-89,161 Frederick Tisdale Dr 2,799000,3,2,0,Frederick Tisdale Dr,Downsview-Roding-CFB,W5994095,Toronto,condo_townhome,2024-01-30
