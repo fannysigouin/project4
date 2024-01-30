@@ -1,0 +1,499 @@
+url,address,price,baths,beds,dens,street,neighbourhood,city,area,mls_id,property_type,date_scraped
+https://brampton.listing.ca/38-lord-simcoe-dr.W7379450.htm#9q-335,38 Lord Simcoe Dr,1199000,4,4,0,Lord Simcoe Dr,Westgate,Brampton,Peel Region,W7379450,detached_home,2024-01-30
+https://oakville.listing.ca/9-lambert-common-n-a.W7379330.htm#9q-336,9 Lambert Common N/A,5960000,6,4,0,Lambert Common N/A,Old Oakville,Oakville,Halton Region,W7379330,detached_home,2024-01-30
+https://mississauga.listing.ca/3852-rosanna-dr.W7379112.htm#9q-337,3852 Rosanna Dr,2350000,4,4,0,Rosanna Dr,Churchill Meadows,Mississauga,Peel Region,W7379112,detached_home,2024-01-30
+https://burlington.listing.ca/2323-pathfinder-dr.W7378734.htm#9q-338,2323 Pathfinder Dr,1200000,2,3,0,Pathfinder Dr,Orchard,Burlington,Halton Region,W7378734,detached_home,2024-01-30
+https://burlington.listing.ca/162-fruitland-ave.W7378612.htm#9q-339,162 Fruitland Ave,5995000,5,4,0,Fruitland Ave,Roseland,Burlington,Halton Region,W7378612,detached_home,2024-01-30
+https://toronto.listing.ca/30-high-point-rd.C7378334.htm#9q-33a,30 High Point Rd,28000000,12,8,0,High Point Rd,Bridle Path-Sunnybrook-York Mills,Toronto,Toronto,C7378334,detached_home,2024-01-30
+https://toronto.listing.ca/135-varna-dr.C7378284.htm#9q-33b,135 Varna Dr,1879000,3,3,1,Varna Dr,Englemount-Lawrence,Toronto,Toronto,C7378284,detached_home,2024-01-30
+https://toronto.listing.ca/320-atlas-ave.C7378192.htm#9q-33c,320 Atlas Ave,1918000,4,3,1,Atlas Ave,Oakwood Village,Toronto,Toronto,C7378192,detached_home,2024-01-30
+https://toronto.listing.ca/5-swiftdale-pl.C7377472.htm#9q-33d,5 Swiftdale Pl,5200000,5,4,1,Swiftdale Pl,Banbury-Don Mills,Toronto,Toronto,C7377472,detached_home,2024-01-30
+https://caledon.listing.ca/10-southridge-tr.W7378436.htm#9q-33e,10 Southridge Tr,2725000,3,2,1,Southridge Tr,Rural Caledon,Caledon,Peel Region,W7378436,detached_home,2024-01-30
+https://mississauga.listing.ca/2535-robin-dr.W7378240.htm#9q-33f,2535 Robin Dr,2350000,4,4,3,Robin Dr,Sheridan,Mississauga,Peel Region,W7378240,detached_home,2024-01-30
+https://brampton.listing.ca/25-duxbury-rd.W7378206.htm#9q-33g,25 Duxbury Rd,1650000,4,4,0,Duxbury Rd,Sandringham-Wellington North,Brampton,Peel Region,W7378206,detached_home,2024-01-30
+https://toronto.listing.ca/103-botfield-ave.W7378168.htm#9q-33h,103 Botfield Ave,3098000,5,4,2,Botfield Ave,Islington-City Centre West,Toronto,Toronto,W7378168,detached_home,2024-01-30
+https://orangeville.listing.ca/17-little-york-st.W7378140.htm#9q-33i,17 Little York St,999900,2,4,0,Little York St,Orangeville,Orangeville,Other,W7378140,detached_home,2024-01-30
+https://brampton.listing.ca/10-fann-dr.W7378068.htm#9q-33j,10 Fann Dr,1399900,5,4,2,Fann Dr,Northwest Brampton,Brampton,Peel Region,W7378068,detached_home,2024-01-30
+https://oakville.listing.ca/1497-duncan-rd.W7378064.htm#9q-33k,1497 Duncan Rd,6780000,8,4,1,Duncan Rd,Eastlake,Oakville,Halton Region,W7378064,detached_home,2024-01-30
+https://milton.listing.ca/11678-sixth-line.W7377786.htm#9q-33l,11678 Sixth Line,1799999,4,3,0,Sixth Line,Nassagaweya,Milton,Halton Region,W7377786,detached_home,2024-01-30
+https://burlington.listing.ca/2124-deyncourt-dr.W7377752.htm#9q-33m,2124 Deyncourt Dr,1699000,2,3,1,Deyncourt Dr,Brant,Burlington,Halton Region,W7377752,detached_home,2024-01-30
+https://oakville.listing.ca/3107-seneca-dr.W7377670.htm#9q-33n,3107 Seneca Dr,2588000,7,4,0,Seneca Dr,Bronte West,Oakville,Halton Region,W7377670,detached_home,2024-01-30
+https://toronto.listing.ca/221-church-st.W7377616.htm#9q-33o,221 Church St,1349000,4,3,3,Church St,Weston,Toronto,Toronto,W7377616,detached_home,2024-01-30
+https://brampton.listing.ca/41-peppermint-clse.W7377530.htm#9q-33p,41 Peppermint Clse,1499900,6,5,2,Peppermint Clse,Bram East,Brampton,Peel Region,W7377530,detached_home,2024-01-30
+https://oakville.listing.ca/3307-harasym-tr.W7377364.htm#9q-33q,3307 Harasym Tr,2395000,4,4,0,Harasym Tr,Rural Oakville,Oakville,Halton Region,W7377364,detached_home,2024-01-30
+https://brampton.listing.ca/7596-creditview-rd.W7377300.htm#9q-33r,7596 Creditview Rd,1325000,2,3,0,Creditview Rd,Bram West,Brampton,Peel Region,W7377300,detached_home,2024-01-30
+https://oakville.listing.ca/450-saville-cres.W7377256.htm#9q-33s,450 Saville Cres,2999990,6,4,1,Saville Cres,Bronte West,Oakville,Halton Region,W7377256,detached_home,2024-01-30
+https://oakville.listing.ca/3052-william-cutmore-blvd.W7377048.htm#9q-33t,3052 William Cutmore Blvd,2495888,4,4,0,William Cutmore Blvd,Rural Oakville,Oakville,Halton Region,W7377048,detached_home,2024-01-30
+https://burlington.listing.ca/1412-alfred-cres.W7376914.htm#9q-33u,1412 Alfred Cres,1175000,1,3,0,Alfred Cres,Brant,Burlington,Halton Region,W7376914,detached_home,2024-01-30
+https://tiny.listing.ca/2284-tiny-beaches-rd.S7377570.htm#9q-33v,2284 Tiny Beaches Rd,2195000,1,2,1,Tiny Beaches Rd,Rural Tiny,Tiny,Other,S7377570,detached_home,2024-01-30
+https://toronto.listing.ca/41-terrace-ave.C7377340.htm#9q-33w,41 Terrace Ave,2199000,5,4,1,Terrace Ave,Willowdale West,Toronto,Toronto,C7377340,detached_home,2024-01-30
+https://trent-hills.listing.ca/8720-county-rd-30-rd.X7376754.htm#9q-33x,8720 County Rd 30 Rd,860000,3,3,1,County Rd 30 Rd,Rural Trent Hills,Trent Hills,Other,X7376754,detached_home,2024-01-30
+https://southgate.listing.ca/1-doc-lougheed-ave.X7376752.htm#9q-33y,1 Doc Lougheed Ave,789900,4,4,0,Doc Lougheed Ave,Dundalk,Southgate,Other,X7376752,detached_home,2024-01-30
+https://fort-erie.listing.ca/1412-dominion-rd.X7376618.htm#9q-33z,1412 Dominion Rd,499900,2,4,0,Dominion Rd,not_provided,Fort Erie,Other,X7376618,detached_home,2024-01-30
+https://hamilton.listing.ca/167-james-st.X7376542.htm#9q-340,167 James St,1600000,2,6,0,James St,Strathcona,Hamilton,Other,X7376542,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/341-mary-st.X7376470.htm#9q-341,341 Mary St,649900,2,2,2,Mary St,Lindsay,Kawartha Lakes,Other,X7376470,detached_home,2024-01-30
+https://east-garafraxa.listing.ca/111494-11th-line.X7376420.htm#9q-342,111494 11th Line,3499000,3,3,1,11th Line,Rural East Garafraxa,East Garafraxa,Other,X7376420,detached_home,2024-01-30
+https://mulmur.listing.ca/707247-county-road-21-rd.X7376404.htm#9q-343,707247 County Road 21 Rd,1629900,3,2,1,County Road 21 Rd,Rural Mulmur,Mulmur,Other,X7376404,detached_home,2024-01-30
+https://woolwich.listing.ca/2850-victoria-st.X7376324.htm#9q-344,2850 Victoria St,2349900,4,4,0,Victoria St,not_provided,Woolwich,Other,X7376324,detached_home,2024-01-30
+https://tweed.listing.ca/8282-highway-37-rd.X7376244.htm#9q-345,8282 Highway 37 Rd,729000,2,3,0,Highway 37 Rd,not_provided,Tweed,Other,X7376244,detached_home,2024-01-30
+https://cambridge.listing.ca/31-forestview-dr.X7376240.htm#9q-346,31 Forestview Dr,1399000,4,4,1,Forestview Dr,not_provided,Cambridge,Other,X7376240,detached_home,2024-01-30
+https://georgian-bay.listing.ca/102-hillside-dr.X7376068.htm#9q-347,102 Hillside Dr,1200000,2,2,2,Hillside Dr,not_provided,Georgian Bay,Other,X7376068,detached_home,2024-01-30
+https://brant.listing.ca/22-ford-st.X7376022.htm#9q-348,22 Ford St,869900,3,4,0,Ford St,Paris,Brant,Other,X7376022,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/213-snug-harbour-rd.X7375980.htm#9q-349,213 Snug Harbour Rd,949000,2,2,2,Snug Harbour Rd,Rural Fenelon,Kawartha Lakes,Other,X7375980,detached_home,2024-01-30
+https://cambridge.listing.ca/122-montrose-st.X7375978.htm#9q-34a,122 Montrose St,425000,2,2,0,Montrose St,not_provided,Cambridge,Other,X7375978,detached_home,2024-01-30
+https://cambridge.listing.ca/60-bond-st.X7375880.htm#9q-34b,60 Bond St,600000,2,4,0,Bond St,not_provided,Cambridge,Other,X7375880,detached_home,2024-01-30
+https://niagara-falls.listing.ca/7742-sassafras-tr.X7375862.htm#9q-34c,7742 Sassafras Tr,719999,3,3,0,Sassafras Tr,not_provided,Niagara Falls,Other,X7375862,detached_home,2024-01-30
+https://port-colborne.listing.ca/115-kinnear-st.X7375816.htm#9q-34d,115 Kinnear St,449000,4,3,2,Kinnear St,not_provided,Port Colborne,Other,X7375816,detached_home,2024-01-30
+https://bracebridge.listing.ca/1082-springdale-park-rd.X7375800.htm#9q-34e,1082 Springdale Park Rd,625000,2,3,0,Springdale Park Rd,not_provided,Bracebridge,Other,X7375800,detached_home,2024-01-30
+https://north-frontenac.listing.ca/1196-head-rd.X7375746.htm#9q-34f,1196 Head Rd,749900,2,3,0,Head Rd,not_provided,North Frontenac,Other,X7375746,detached_home,2024-01-30
+https://prince-edward-county.listing.ca/49-consecon-st.X7375732.htm#9q-34g,49 Consecon St,935000,1,3,0,Consecon St,Wellington,Prince Edward County,Other,X7375732,detached_home,2024-01-30
+https://st-catharines.listing.ca/352-geneva-st.X7375626.htm#9q-34h,352 Geneva St,679000,3,3,3,Geneva St,not_provided,St. Catharines,Other,X7375626,detached_home,2024-01-30
+https://haldimand.listing.ca/24-lake-rd.X7375598.htm#9q-34i,24 Lake Rd,799000,1,2,0,Lake Rd,Haldimand,Haldimand,Other,X7375598,detached_home,2024-01-30
+https://wainfleet.listing.ca/12859-old-lakeshore-rd.X7375416.htm#9q-34j,12859 Old Lakeshore Rd,635000,1,5,0,Old Lakeshore Rd,not_provided,Wainfleet,Other,X7375416,detached_home,2024-01-30
+https://hamilton.listing.ca/856-concession-5.X7375390.htm#9q-34k,856 Concession 5,1599900,3,4,0,Concession 5,Rural Flamborough,Hamilton,Other,X7375390,detached_home,2024-01-30
+https://peterborough.listing.ca/1291-bathurst-st.X7375268.htm#9q-34l,1291 Bathurst St,588000,2,3,0,Bathurst St,Northcrest,Peterborough,Other,X7375268,detached_home,2024-01-30
+https://cambridge.listing.ca/66-queen-st.X7375250.htm#9q-34m,66 Queen St,1149000,4,4,0,Queen St,not_provided,Cambridge,Other,X7375250,detached_home,2024-01-30
+https://prince-edward-county.listing.ca/84-bay-breeze-st.X7375158.htm#9q-34n,84 Bay Breeze St,1148000,3,2,2,Bay Breeze St,Ameliasburgh,Prince Edward County,Other,X7375158,detached_home,2024-01-30
+https://grey-highlands.listing.ca/135280-9th-line.X7375156.htm#9q-34o,135280 9th Line,1299000,3,2,2,9th Line,Rural Grey Highlands,Grey Highlands,Other,X7375156,detached_home,2024-01-30
+https://hamilton-township.listing.ca/9890-ellis-rd.X7375092.htm#9q-34p,9890 Ellis Rd,995000,2,3,1,Ellis Rd,Baltimore,Hamilton Township,Other,X7375092,detached_home,2024-01-30
+https://hamilton.listing.ca/8-muir-ave.X7374834.htm#9q-34q,8 Muir Ave,825000,2,3,0,Muir Ave,Berrisfield,Hamilton,Other,X7374834,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/34-trent-river-rd.X7374832.htm#9q-34r,34 Trent River Rd,649900,2,3,0,Trent River Rd,Rural Eldon,Kawartha Lakes,Other,X7374832,detached_home,2024-01-30
+https://carlow-mayo.listing.ca/123-kuno-rd.X7374790.htm#9q-34s,123 Kuno Rd,775000,2,3,0,Kuno Rd,not_provided,Carlow/Mayo,Other,X7374790,detached_home,2024-01-30
+https://cramahe.listing.ca/430-tobacco-rd.X7374724.htm#9q-34t,430 Tobacco Rd,649000,2,2,1,Tobacco Rd,Rural Cramahe,Cramahe,Other,X7374724,detached_home,2024-01-30
+https://port-hope.listing.ca/4896-county-rd-2.X7374686.htm#9q-34u,4896 County Rd 2,1125000,3,4,0,County Rd,Rural Port Hope,Port Hope,Other,X7374686,detached_home,2024-01-30
+https://highlands-east.listing.ca/18647-highway-118-n-a.X7374656.htm#9q-34v,18647 Highway 118 N/A,299000,1,3,0,Highway 118 N/A,not_provided,Highlands East,Other,X7374656,detached_home,2024-01-30
+https://port-hope.listing.ca/277-ridout-st.X7374594.htm#9q-34w,277 Ridout St,935000,3,2,1,Ridout St,Port Hope,Port Hope,Other,X7374594,detached_home,2024-01-30
+https://havelock-belmont-methuen.listing.ca/22-fire-route-18a.X7374496.htm#9q-34x,22 Fire Route 18A,799000,2,3,0,Fire Route 18A,Rural Havelock-Belmont-Methuen,Havelock-Belmont-Methuen,Other,X7374496,detached_home,2024-01-30
+https://hamilton.listing.ca/133-wellington-st.X7374430.htm#9q-34y,133 Wellington St,999900,7,8,4,Wellington St,Beasley,Hamilton,Other,X7374430,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/12-cook-st.X7343194.htm#9q-34z,12 Cook St,674900,2,2,1,Cook St,Lindsay,Kawartha Lakes,Other,X7343194,detached_home,2024-01-30
+https://milton.listing.ca/7126-guelph-line.W7375110.htm#9q-350,7126 Guelph Line,1900000,2,3,0,Guelph Line,Campbellville,Milton,Halton Region,W7375110,detached_home,2024-01-30
+https://burlington.listing.ca/2220-sandringham-dr.W7307500.htm#9q-351,2220 Sandringham Dr,1329900,4,4,1,Sandringham Dr,Brant Hills,Burlington,Halton Region,W7307500,detached_home,2024-01-30
+https://barrie.listing.ca/50-patton-rd.S7376300.htm#9q-352,50 Patton Rd,689990,2,3,0,Patton Rd,Painswick North,Barrie,Other,S7376300,detached_home,2024-01-30
+https://barrie.listing.ca/48-patrick-dr.S7376210.htm#9q-353,48 Patrick Dr,1149900,4,4,0,Patrick Dr,Painswick South,Barrie,Other,S7376210,detached_home,2024-01-30
+https://barrie.listing.ca/40-red-oak-dr.S7375848.htm#9q-354,40 Red Oak Dr,769000,2,1,1,Red Oak Dr,Holly,Barrie,Other,S7375848,detached_home,2024-01-30
+https://springwater.listing.ca/31-pinery-dr.S7375676.htm#9q-355,31 Pinery Dr,1549900,3,2,2,Pinery Dr,Anten Mills,Springwater,Other,S7375676,detached_home,2024-01-30
+https://wasaga-beach.listing.ca/15-awenda-ave.S7375552.htm#9q-356,15 Awenda Ave,549000,2,3,0,Awenda Ave,Wasaga Beach,Wasaga Beach,Other,S7375552,detached_home,2024-01-30
+https://tay.listing.ca/2588-reeves-rd.S7375466.htm#9q-357,2588 Reeves Rd,490000,1,2,0,Reeves Rd,Victoria Harbour,Tay,Other,S7375466,detached_home,2024-01-30
+https://collingwood.listing.ca/542-maple-st.S7374802.htm#9q-358,542 Maple St,549900,1,2,0,Maple St,Collingwood,Collingwood,Other,S7374802,detached_home,2024-01-30
+https://wasaga-beach.listing.ca/17-74th-st.S7374760.htm#9q-359,17 74th St,599900,3,3,0,74th St,Wasaga Beach,Wasaga Beach,Other,S7374760,detached_home,2024-01-30
+https://collingwood.listing.ca/117-stanley-st.S7374750.htm#9q-35a,117 Stanley St,1699000,3,2,3,Stanley St,Collingwood,Collingwood,Other,S7374750,detached_home,2024-01-30
+https://springwater.listing.ca/3-cameron-st.S7374614.htm#9q-35b,3 Cameron St,1499000,5,2,2,Cameron St,Centre Vespra,Springwater,Other,S7374614,detached_home,2024-01-30
+https://whitchurch-stouffville.listing.ca/3052-aurora-rd.N7376828.htm#9q-35c,3052 Aurora Rd,1999000,2,4,0,Aurora Rd,Rural Whitchurch-Stouffville,Whitchurch-Stouffville,York Region,N7376828,detached_home,2024-01-30
+https://georgina.listing.ca/242-pefferlaw-rd.N7376748.htm#9q-35d,242 Pefferlaw Rd,529000,3,3,0,Pefferlaw Rd,Pefferlaw,Georgina,York Region,N7376748,detached_home,2024-01-30
+https://whitchurch-stouffville.listing.ca/41-windsor-dr.N7376744.htm#9q-35e,41 Windsor Dr,790000,1,4,2,Windsor Dr,Rural Whitchurch-Stouffville,Whitchurch-Stouffville,York Region,N7376744,detached_home,2024-01-30
+https://uxbridge.listing.ca/43-main-st.N7376698.htm#9q-35f,43 Main St,999900,3,4,0,Main St,Uxbridge,Uxbridge,Durham Region,N7376698,detached_home,2024-01-30
+https://east-gwillimbury.listing.ca/4-kentledge-ave.N7376496.htm#9q-35g,4 Kentledge Ave,1398000,4,5,0,Kentledge Ave,Holland Landing,East Gwillimbury,York Region,N7376496,detached_home,2024-01-30
+https://bradford-west-gwillimbury.listing.ca/89-wraggs-rd.N7376436.htm#9q-35h,89 Wraggs Rd,1899000,6,5,0,Wraggs Rd,Bond Head,Bradford West Gwillimbury,Other,N7376436,detached_home,2024-01-30
+https://markham.listing.ca/250-church-st.N7375412.htm#9q-35i,250 Church St,4740000,6,6,0,Church St,Old Markham Village,Markham,York Region,N7375412,detached_home,2024-01-30
+https://newmarket.listing.ca/579-pearson-st.N7375240.htm#9q-35j,579 Pearson St,1100000,3,3,0,Pearson St,Gorham-College Manor,Newmarket,York Region,N7375240,detached_home,2024-01-30
+https://bradford-west-gwillimbury.listing.ca/2-grandview-cres.N7375222.htm#9q-35k,2 Grandview Cres,2299000,4,4,0,Grandview Cres,Bradford,Bradford West Gwillimbury,Other,N7375222,detached_home,2024-01-30
+https://richmond-hill.listing.ca/45-kiwi-cres.N7375098.htm#9q-35l,45 Kiwi Cres,1599000,4,3,0,Kiwi Cres,Rouge Woods,Richmond Hill,York Region,N7375098,detached_home,2024-01-30
+https://innisfil.listing.ca/2160-victoria-st.N7375040.htm#9q-35m,2160 Victoria St,799000,2,4,1,Victoria St,Stroud,Innisfil,Other,N7375040,detached_home,2024-01-30
+https://bradford-west-gwillimbury.listing.ca/128-melbourne-dr.N7374666.htm#9q-35n,128 Melbourne Dr,1038800,2,3,2,Melbourne Dr,Bradford,Bradford West Gwillimbury,Other,N7374666,detached_home,2024-01-30
+https://richmond-hill.listing.ca/24-dragonfly-ave.N7374636.htm#9q-35o,24 Dragonfly Ave,1699000,3,3,0,Dragonfly Ave,Rouge Woods,Richmond Hill,York Region,N7374636,detached_home,2024-01-30
+https://aurora.listing.ca/87-weslock-cres.N7374622.htm#9q-35p,87 Weslock Cres,1589000,3,4,0,Weslock Cres,Bayview Northeast,Aurora,York Region,N7374622,detached_home,2024-01-30
+https://newmarket.listing.ca/561-roeder-crt.N7374618.htm#9q-35q,561 Roeder Crt,1699900,4,4,0,Roeder Crt,Gorham-College Manor,Newmarket,York Region,N7374618,detached_home,2024-01-30
+https://georgina.listing.ca/1-snooks-rd.N7376494.htm#9q-35r,1 Snooks Rd,675000,3,5,0,Snooks Rd,Sutton & Jackson's Point,Georgina,York Region,N7376494,detached_home,2024-01-30
+https://markham.listing.ca/7-harvest-field-rd.N7376118.htm#9q-35s,7 Harvest Field Rd,1680000,4,4,0,Harvest Field Rd,Cornell,Markham,York Region,N7376118,detached_home,2024-01-30
+https://richmond-hill.listing.ca/123-fern-valley-cres.N7237038.htm#9q-35t,123 Fern Valley Cres,2588000,3,4,1,Fern Valley Cres,Oak Ridges,Richmond Hill,York Region,N7237038,detached_home,2024-01-30
+https://mapleton.listing.ca/67-carriage-crossing-n-a.X7311088.htm#9q-35u,67 Carriage Crossing N/A,995000,3,2,4,Carriage Crossing N/A,Drayton,Mapleton,Other,X7311088,detached_home,2024-01-30
+https://toronto.listing.ca/149-gainsborough-rd.E7376484.htm#9q-35v,149 Gainsborough Rd,2599900,5,9,2,Gainsborough Rd,Woodbine Corridor,Toronto,Toronto,E7376484,detached_home,2024-01-30
+https://toronto.listing.ca/644-rhodes-ave.E7376412.htm#9q-35w,644 Rhodes Ave,1888800,5,4,2,Rhodes Ave,Greenwood-Coxwell,Toronto,Toronto,E7376412,detached_home,2024-01-30
+https://oshawa.listing.ca/237-beatty-ave.E7376176.htm#9q-35x,237 Beatty Ave,679000,2,3,0,Beatty Ave,Central,Oshawa,Durham Region,E7376176,detached_home,2024-01-30
+https://toronto.listing.ca/18-shier-dr.E7375232.htm#9q-35y,18 Shier Dr,1099000,2,3,4,Shier Dr,Woburn,Toronto,Toronto,E7375232,detached_home,2024-01-30
+https://toronto.listing.ca/481-guildwood-pkwy.E7374816.htm#9q-35z,481 Guildwood Pkwy,3880000,6,4,2,Guildwood Pkwy,Guildwood,Toronto,Toronto,E7374816,detached_home,2024-01-30
+https://toronto.listing.ca/273-cornelius-pkwy.W7376852.htm#9q-360,273 Cornelius Pkwy,2990000,5,4,2,Cornelius Pkwy,Downsview-Roding-CFB,Toronto,Toronto,W7376852,detached_home,2024-01-30
+https://caledon.listing.ca/17974-centreville-creek-rd.W7376768.htm#9q-361,17974 Centreville Creek Rd,4500000,5,5,1,Centreville Creek Rd,Rural Caledon,Caledon,Peel Region,W7376768,detached_home,2024-01-30
+https://oakville.listing.ca/320-nautical-blvd.W7376690.htm#9q-362,320 Nautical Blvd,1779900,4,4,1,Nautical Blvd,Bronte West,Oakville,Halton Region,W7376690,detached_home,2024-01-30
+https://orangeville.listing.ca/303-dogwood-st.W7376540.htm#9q-363,303 Dogwood St,799999,4,3,1,Dogwood St,Orangeville,Orangeville,Other,W7376540,detached_home,2024-01-30
+https://burlington.listing.ca/5040-mount-nemo-cres.W7376474.htm#9q-364,5040 Mount Nemo Cres,5000000,6,4,1,Mount Nemo Cres,Rural Burlington,Burlington,Halton Region,W7376474,detached_home,2024-01-30
+https://oakville.listing.ca/26-trafalgar-rd.W7376336.htm#9q-365,26 Trafalgar Rd,10750000,9,4,2,Trafalgar Rd,Old Oakville,Oakville,Halton Region,W7376336,detached_home,2024-01-30
+https://oakville.listing.ca/2165-samway-rd.W7376074.htm#9q-366,2165 Samway Rd,1649900,2,3,2,Samway Rd,Bronte West,Oakville,Halton Region,W7376074,detached_home,2024-01-30
+https://toronto.listing.ca/49-alicewood-crt.W7376008.htm#9q-367,49 Alicewood Crt,999000,3,3,0,Alicewood Crt,West Humber-Clairville,Toronto,Toronto,W7376008,detached_home,2024-01-30
+https://brampton.listing.ca/115-eagleridge-dr.W7375962.htm#9q-368,115 Eagleridge Dr,1499000,4,4,2,Eagleridge Dr,Sandringham-Wellington,Brampton,Peel Region,W7375962,detached_home,2024-01-30
+https://oakville.listing.ca/2165-havenbrook-rd.W7375680.htm#9q-369,2165 Havenbrook Rd,1799000,3,3,0,Havenbrook Rd,River Oaks,Oakville,Halton Region,W7375680,detached_home,2024-01-30
+https://oakville.listing.ca/4289-regional-25-rd.W7375506.htm#9q-36a,4289 Regional 25 Rd,2999950,5,4,0,Regional 25 Rd,Rural Oakville,Oakville,Halton Region,W7375506,detached_home,2024-01-30
+https://mississauga.listing.ca/292-laurentian-ave.W7375490.htm#9q-36b,292 Laurentian Ave,1525000,4,3,2,Laurentian Ave,Hurontario,Mississauga,Peel Region,W7375490,detached_home,2024-01-30
+https://mississauga.listing.ca/632-kaiser-dr.W7375246.htm#9q-36c,632 Kaiser Dr,1539000,4,4,0,Kaiser Dr,Meadowvale Village,Mississauga,Peel Region,W7375246,detached_home,2024-01-30
+https://mississauga.listing.ca/2059-kawartha-cres.W7375088.htm#9q-36d,2059 Kawartha Cres,2299900,4,3,1,Kawartha Cres,Sheridan,Mississauga,Peel Region,W7375088,detached_home,2024-01-30
+https://brampton.listing.ca/21-northwood-dr.W7375012.htm#9q-36e,21 Northwood Dr,949900,2,3,0,Northwood Dr,Northwood Park,Brampton,Peel Region,W7375012,detached_home,2024-01-30
+https://toronto.listing.ca/42-lockerbie-ave.W7375004.htm#9q-36f,42 Lockerbie Ave,1600000,3,4,2,Lockerbie Ave,Humberlea-Pelmo Park W4,Toronto,Toronto,W7375004,detached_home,2024-01-30
+https://toronto.listing.ca/5-jerome-st.W7374982.htm#9q-36g,5 Jerome St,2599000,4,3,1,Jerome St,High Park North,Toronto,Toronto,W7374982,detached_home,2024-01-30
+https://toronto.listing.ca/10-urbandale-ave.C7376384.htm#9q-36h,10 Urbandale Ave,2330000,2,3,0,Urbandale Ave,Newtonbrook East,Toronto,Toronto,C7376384,detached_home,2024-01-30
+https://toronto.listing.ca/1566-mount-pleasant-rd.C7376328.htm#9q-36i,1566 Mount Pleasant Rd,2499000,4,3,0,Mount Pleasant Rd,Lawrence Park North,Toronto,Toronto,C7376328,detached_home,2024-01-30
+https://milton.listing.ca/1014-holdsworth-cres.W7374830.htm#9q-36j,1014 Holdsworth Cres,1399000,3,4,0,Holdsworth Cres,Coates,Milton,Halton Region,W7374830,detached_home,2024-01-30
+https://toronto.listing.ca/226-tavistock-rd.W7374792.htm#9q-36k,226 Tavistock Rd,1325000,4,4,0,Tavistock Rd,Downsview-Roding-CFB,Toronto,Toronto,W7374792,detached_home,2024-01-30
+https://halton-hills.listing.ca/13-stewarttown-rd.W7374786.htm#9q-36l,13 Stewarttown Rd,1149000,2,2,1,Stewarttown Rd,Stewarttown,Halton Hills,Halton Region,W7374786,detached_home,2024-01-30
+https://toronto.listing.ca/29-winsland-dr.W7374738.htm#9q-36m,29 Winsland Dr,1565000,3,3,1,Winsland Dr,Princess-Rosethorn,Toronto,Toronto,W7374738,detached_home,2024-01-30
+https://burlington.listing.ca/503-martha-st.W7374592.htm#9q-36n,503 Martha St,1749000,3,4,0,Martha St,Brant,Burlington,Halton Region,W7374592,detached_home,2024-01-30
+https://milton.listing.ca/2025-blacklock-st.W7374552.htm#9q-36o,2025 Blacklock St,1987000,3,4,0,Blacklock St,Brookville,Milton,Halton Region,W7374552,detached_home,2024-01-30
+https://caledon.listing.ca/19919-winston-churchill-blvd.W7374474.htm#9q-36p,19919 Winston Churchill Blvd,2299000,4,3,0,Winston Churchill Blvd,Rural Caledon,Caledon,Peel Region,W7374474,detached_home,2024-01-30
+https://toronto.listing.ca/135-rochester-ave.C7375024.htm#9q-36q,135 Rochester Ave,6780000,6,4,1,Rochester Ave,Bridle Path-Sunnybrook-York Mills,Toronto,Toronto,C7375024,detached_home,2024-01-30
+https://toronto.listing.ca/623-vesta-dr.C7374588.htm#9q-36r,623 Vesta Dr,2499000,4,4,1,Vesta Dr,Forest Hill North,Toronto,Toronto,C7374588,detached_home,2024-01-30
+https://toronto.listing.ca/70-dunraven-dr.W7374388.htm#9q-36s,70 Dunraven Dr,699000,0,0,0,Dunraven Dr,Keelesdale-Eglinton West,Toronto,Toronto,W7374388,detached_home,2024-01-30
+https://brampton.listing.ca/14-action-dr.W7374312.htm#9q-36t,14 Action Dr,1699995,7,5,2,Action Dr,Northwest Brampton,Brampton,Peel Region,W7374312,detached_home,2024-01-30
+https://brighton.listing.ca/47-elgin-st.X7374282.htm#9q-36u,47 Elgin St,524900,1,2,0,Elgin St,Brighton,Brighton,Other,X7374282,detached_home,2024-01-30
+https://barrie.listing.ca/18-marcus-st.S7374400.htm#9q-36v,18 Marcus St,699900,2,3,0,Marcus St,Allandale,Barrie,Other,S7374400,detached_home,2024-01-30
+https://barrie.listing.ca/161-sproule-dr.S7374384.htm#9q-36w,161 Sproule Dr,949800,4,6,3,Sproule Dr,Edgehill Drive,Barrie,Other,S7374384,detached_home,2024-01-30
+https://brock.listing.ca/4-antioch-crt.N7374252.htm#9q-36x,4 Antioch Crt,1189900,3,3,0,Antioch Crt,Sunderland,Brock,Durham Region,N7374252,detached_home,2024-01-30
+https://toronto.listing.ca/47-grant-st.E7374350.htm#9q-36y,47 Grant St,1550000,5,4,0,Grant St,South Riverdale,Toronto,Toronto,E7374350,detached_home,2024-01-30
+https://st-catharines.listing.ca/1-murray-st.X7334134.htm#9q-36z,1 Murray St,629900,2,3,2,Murray St,not_provided,St. Catharines,Other,X7334134,detached_home,2024-01-30
+https://oakville.listing.ca/81-boulton-tr.W7281570.htm#9q-370,81 Boulton Tr,2499000,6,4,1,Boulton Tr,Rural Oakville,Oakville,Halton Region,W7281570,detached_home,2024-01-30
+https://belleville.listing.ca/30-oak-ridge-blvd.X7319390.htm#9q-371,30 Oak Ridge Blvd,649999,3,3,2,Oak Ridge Blvd,not_provided,Belleville,Other,X7319390,detached_home,2024-01-30
+https://barrie.listing.ca/149-worsley-st.S7373910.htm#9q-372,149 Worsley St,669000,2,3,0,Worsley St,City Centre,Barrie,Other,S7373910,detached_home,2024-01-30
+https://collingwood.listing.ca/323-maple-st.S7373794.htm#9q-373,323 Maple St,1315000,3,3,0,Maple St,Collingwood,Collingwood,Other,S7373794,detached_home,2024-01-30
+https://barrie.listing.ca/2-todd-dr.S7373730.htm#9q-374,2 Todd Dr,949900,4,2,1,Todd Dr,Allandale,Barrie,Other,S7373730,detached_home,2024-01-30
+https://barrie.listing.ca/5-empire-dr.S7373494.htm#9q-375,5 Empire Dr,1084000,4,4,0,Empire Dr,Innis-Shore,Barrie,Other,S7373494,detached_home,2024-01-30
+https://barrie.listing.ca/101-codrington-st.S7373202.htm#9q-376,101 Codrington St,749000,2,2,1,Codrington St,Codrington,Barrie,Other,S7373202,detached_home,2024-01-30
+https://collingwood.listing.ca/701-sixth-st.S7372990.htm#9q-377,701 Sixth St,1399999,3,3,1,Sixth St,Collingwood,Collingwood,Other,S7372990,detached_home,2024-01-30
+https://north-bay.listing.ca/252-worthington-st.X7280072.htm#9q-378,252 Worthington St,339900,3,4,0,Worthington St,not_provided,North Bay,Other,X7280072,detached_home,2024-01-30
+https://collingwood.listing.ca/441-maple-st.S7372694.htm#9q-379,441 Maple St,1599900,4,3,0,Maple St,Collingwood,Collingwood,Other,S7372694,detached_home,2024-01-30
+https://wasaga-beach.listing.ca/29-george-ave.S7372446.htm#9q-37a,29 George Ave,479999,1,2,0,George Ave,Wasaga Beach,Wasaga Beach,Other,S7372446,detached_home,2024-01-30
+https://tiny.listing.ca/1756-tiny-beaches-rd.S7372362.htm#9q-37b,1756 Tiny Beaches Rd,1249000,3,5,0,Tiny Beaches Rd,Rural Tiny,Tiny,Other,S7372362,detached_home,2024-01-30
+https://springwater.listing.ca/37-heron-blvd.S7372298.htm#9q-37c,37 Heron Blvd,1878989,3,3,3,Heron Blvd,Snow Valley,Springwater,Other,S7372298,detached_home,2024-01-30
+https://tweed.listing.ca/1722-queensborough-rd.X7261852.htm#9q-37d,1722 Queensborough Rd,739900,2,3,1,Queensborough Rd,not_provided,Tweed,Other,X7261852,detached_home,2024-01-30
+https://springwater.listing.ca/63-albert-st.S7372134.htm#9q-37e,63 Albert St,849900,2,3,1,Albert St,Hillsdale,Springwater,Other,S7372134,detached_home,2024-01-30
+https://markham.listing.ca/21-hammok-cres.N7374182.htm#9q-37f,21 Hammok Cres,6780000,7,5,1,Hammok Cres,Bayview Glen,Markham,York Region,N7374182,detached_home,2024-01-30
+https://vaughan.listing.ca/150-sail-cres.N7373968.htm#9q-37g,150 Sail Cres,1349888,3,3,1,Sail Cres,Vellore Village,Vaughan,York Region,N7373968,detached_home,2024-01-30
+https://east-gwillimbury.listing.ca/1630-mount-albert-rd.N7373866.htm#9q-37h,1630 Mount Albert Rd,1650000,3,4,0,Mount Albert Rd,Sharon,East Gwillimbury,York Region,N7373866,detached_home,2024-01-30
+https://innisfil.listing.ca/1056-wickham-rd.N7373830.htm#9q-37i,1056 Wickham Rd,1289900,4,4,0,Wickham Rd,Rural Innisfil,Innisfil,Other,N7373830,detached_home,2024-01-30
+https://essa.listing.ca/56-river-dr.N7373644.htm#9q-37j,56 River Dr,899900,2,0,0,River Dr,Angus,Essa,Other,N7373644,detached_home,2024-01-30
+https://vaughan.listing.ca/2059-highway-7-n-a.N7373592.htm#9q-37k,2059 Highway 7 N/A,2888000,6,6,0,Highway 7 N/A,Concord,Vaughan,York Region,N7373592,detached_home,2024-01-30
+https://innisfil.listing.ca/1021-abram-crt.N7373548.htm#9q-37l,1021 Abram Crt,897000,3,3,0,Abram Crt,Alcona,Innisfil,Other,N7373548,detached_home,2024-01-30
+https://newmarket.listing.ca/742-lowell-ave.N7373358.htm#9q-37m,742 Lowell Ave,888000,2,1,2,Lowell Ave,Gorham-College Manor,Newmarket,York Region,N7373358,detached_home,2024-01-30
+https://essa.listing.ca/5890-old-mill-rd.N7373334.htm#9q-37n,5890 Old Mill Rd,1674000,3,3,2,Old Mill Rd,Rural Essa,Essa,Other,N7373334,detached_home,2024-01-30
+https://richmond-hill.listing.ca/409-paliser-cres.N7373268.htm#9q-37o,409 Paliser Cres,1400000,2,3,2,Paliser Cres,Harding,Richmond Hill,York Region,N7373268,detached_home,2024-01-30
+https://newmarket.listing.ca/418-eagle-st.N7372986.htm#9q-37p,418 Eagle St,924900,2,2,0,Eagle St,Central Newmarket,Newmarket,York Region,N7372986,detached_home,2024-01-30
+https://georgina.listing.ca/57-halmar-park-rd.N7372956.htm#9q-37q,57 Halmar Park Rd,969000,2,3,1,Halmar Park Rd,Pefferlaw,Georgina,York Region,N7372956,detached_home,2024-01-30
+https://king.listing.ca/32-sir-henry-crt.N7372854.htm#9q-37r,32 Sir Henry Crt,3598000,6,5,2,Sir Henry Crt,King City,King,York Region,N7372854,detached_home,2024-01-30
+https://markham.listing.ca/39-roy-rainey-ave.N7372802.htm#9q-37s,39 Roy Rainey Ave,1639900,4,4,2,Roy Rainey Ave,Wismer,Markham,York Region,N7372802,detached_home,2024-01-30
+https://innisfil.listing.ca/1185-shoreview-dr.N7372664.htm#9q-37t,1185 Shoreview Dr,2849900,5,4,1,Shoreview Dr,Rural Innisfil,Innisfil,Other,N7372664,detached_home,2024-01-30
+https://markham.listing.ca/15-victoria-st.N7372636.htm#9q-37u,15 Victoria St,1998000,3,4,0,Victoria St,Victoria Square,Markham,York Region,N7372636,detached_home,2024-01-30
+https://king.listing.ca/265-kettleby-rd.N7372518.htm#9q-37v,265 Kettleby Rd,3450000,5,4,1,Kettleby Rd,Rural King,King,York Region,N7372518,detached_home,2024-01-30
+https://whitchurch-stouffville.listing.ca/34-edgehill-ave.N7372474.htm#9q-37w,34 Edgehill Ave,1356000,3,4,0,Edgehill Ave,Stouffville,Whitchurch-Stouffville,York Region,N7372474,detached_home,2024-01-30
+https://aurora.listing.ca/115-windham-tr.N7372182.htm#9q-37x,115 Windham Tr,2490000,4,4,0,Windham Tr,Aurora Highlands,Aurora,York Region,N7372182,detached_home,2024-01-30
+https://haldimand.listing.ca/163-pike-creek-dr.X7063446.htm#9q-37y,163 Pike Creek Dr,879000,2,2,0,Pike Creek Dr,Haldimand,Haldimand,Other,X7063446,detached_home,2024-01-30
+https://mapleton.listing.ca/39-carriage-crossing-n-a.X7374168.htm#9q-37z,39 Carriage Crossing N/A,1149000,3,4,0,Carriage Crossing N/A,Drayton,Mapleton,Other,X7374168,detached_home,2024-01-30
+https://mono.listing.ca/8-golden-rd.X7374160.htm#9q-380,8 Golden Rd,1449500,4,4,1,Golden Rd,Rural Mono,Mono,Other,X7374160,detached_home,2024-01-30
+https://haldimand.listing.ca/165-pike-creek-dr.X7056744.htm#9q-381,165 Pike Creek Dr,1075000,4,4,0,Pike Creek Dr,Haldimand,Haldimand,Other,X7056744,detached_home,2024-01-30
+https://marmora-and-lake.listing.ca/1043-deloro-rd.X7055144.htm#9q-382,1043 Deloro Rd,529000,1,3,0,Deloro Rd,not_provided,Marmora and Lake,Other,X7055144,detached_home,2024-01-30
+https://lake-of-bays.listing.ca/1005-boyne-ridge-crt-lot-16.X7374140.htm#9q-383,1005 Boyne Ridge Crt Lot 16,1398000,3,4,0,Boyne Ridge Crt Lot,not_provided,Lake of Bays,Other,X7374140,detached_home,2024-01-30
+https://alnwick-haldimand.listing.ca/101-rolph-rd.X7374126.htm#9q-384,101 Rolph Rd,2999000,7,6,1,Rolph Rd,Rural Alnwick/Haldimand,Alnwick/Haldimand,Other,X7374126,detached_home,2024-01-30
+https://guelph.listing.ca/16-simcoe-st.X7374100.htm#9q-385,16 Simcoe St,699900,4,3,0,Simcoe St,Central East,Guelph,Other,X7374100,detached_home,2024-01-30
+https://cobourg.listing.ca/586-osler-crt.X7374058.htm#9q-386,586 Osler Crt,3950000,7,4,2,Osler Crt,Cobourg,Cobourg,Other,X7374058,detached_home,2024-01-30
+https://shelburne.listing.ca/351-leanne-lane.X7374056.htm#9q-387,351 Leanne Lane,1345550,5,6,0,Leanne Lane,Shelburne,Shelburne,Other,X7374056,detached_home,2024-01-30
+https://haldimand.listing.ca/161-pike-creek-dr.X6802500.htm#9q-388,161 Pike Creek Dr,1265000,5,4,0,Pike Creek Dr,Haldimand,Haldimand,Other,X6802500,detached_home,2024-01-30
+https://hamilton.listing.ca/43-haddon-ave.X7373744.htm#9q-389,43 Haddon Ave,799900,2,6,0,Haddon Ave,Westdale,Hamilton,Other,X7373744,detached_home,2024-01-30
+https://south-bruce-peninsula.listing.ca/4-alice-st.X7373704.htm#9q-38a,4 Alice St,400000,1,2,0,Alice St,not_provided,South Bruce Peninsula,Other,X7373704,detached_home,2024-01-30
+https://centre-wellington.listing.ca/379-wellington-rd-18-rd.X6766966.htm#9q-38b,379 Wellington Rd 18 Rd,1599900,3,2,2,Wellington Rd 18 Rd,Elora/Salem,Centre Wellington,Other,X6766966,detached_home,2024-01-30
+https://owen-sound.listing.ca/425-4th-ave.X7373696.htm#9q-38c,425 4th Ave,779900,3,3,1,4th Ave,Owen Sound,Owen Sound,Other,X7373696,detached_home,2024-01-30
+https://hamilton.listing.ca/213-grace-ave.X7373670.htm#9q-38d,213 Grace Ave,499900,3,3,0,Grace Ave,Parkview,Hamilton,Other,X7373670,detached_home,2024-01-30
+https://hamilton.listing.ca/213-grace-ave.X7373650.htm#9q-38e,213 Grace Ave,499900,3,3,0,Grace Ave,Parkview,Hamilton,Other,X7373650,detached_home,2024-01-30
+https://belleville.listing.ca/8-highview-cres.X7373648.htm#9q-38f,8 Highview Cres,549900,2,3,2,Highview Cres,not_provided,Belleville,Other,X7373648,detached_home,2024-01-30
+https://norfolk.listing.ca/259-cedar-dr.X7373636.htm#9q-38g,259 Cedar Dr,1350000,2,4,0,Cedar Dr,Norfolk,Norfolk,Other,X7373636,detached_home,2024-01-30
+https://blue-mountains.listing.ca/727302-22c-sdrd.X7373624.htm#9q-38h,727302 22C Sdrd,1099000,3,5,0,22C Sdrd,Rural Blue Mountains,Blue Mountains,Other,X7373624,detached_home,2024-01-30
+https://prince-edward-county.listing.ca/987-highway-62-n-a.X7373588.htm#9q-38i,987 Highway 62 N/A,929000,3,3,1,Highway 62 N/A,Bloomfield,Prince Edward County,Other,X7373588,detached_home,2024-01-30
+https://prince-edward-county.listing.ca/595-elmbrook-rd.X6586607.htm#9q-38j,595 Elmbrook Rd,849000,1,4,0,Elmbrook Rd,Picton,Prince Edward County,Other,X6586607,detached_home,2024-01-30
+https://sault-ste-marie.listing.ca/1049-sunnyside-beach-rd.X7373570.htm#9q-38k,1049 Sunnyside Beach Rd,1425000,3,3,0,Sunnyside Beach Rd,not_provided,Sault Ste Marie,Other,X7373570,detached_home,2024-01-30
+https://hamilton.listing.ca/22-pathfinder-crt.X7373416.htm#9q-38m,22 Pathfinder Crt,1999900,5,5,0,Pathfinder Crt,Eleanor,Hamilton,Other,X7373416,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/8-elm-st.X7373406.htm#9q-38n,8 Elm St,824000,2,3,0,Elm St,Omemee,Kawartha Lakes,Other,X7373406,detached_home,2024-01-30
+https://hamilton.listing.ca/73-boulding-ave.X7373300.htm#9q-38o,73 Boulding Ave,1109000,3,3,0,Boulding Ave,Waterdown,Hamilton,Other,X7373300,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/6-elm-st.X7373292.htm#9q-38p,6 Elm St,799999,2,3,0,Elm St,Omemee,Kawartha Lakes,Other,X7373292,detached_home,2024-01-30
+https://woodstock.listing.ca/505-hawthorne-place-pl.X7373224.htm#9q-38q,505 Hawthorne Place Pl,898000,3,4,0,Hawthorne Place Pl,not_provided,Woodstock,Other,X7373224,detached_home,2024-01-30
+https://hamilton.listing.ca/28-foster-st.X7373222.htm#9q-38r,28 Foster St,697000,2,4,0,Foster St,Corktown,Hamilton,Other,X7373222,detached_home,2024-01-30
+https://erin.listing.ca/90-trafalgar-rd.X7373136.htm#9q-38s,90 Trafalgar Rd,1499000,2,2,0,Trafalgar Rd,Hillsburgh,Erin,Other,X7373136,detached_home,2024-01-30
+https://welland.listing.ca/78-eastbridge-ave.X7373116.htm#9q-38t,78 Eastbridge Ave,849900,3,4,0,Eastbridge Ave,not_provided,Welland,Other,X7373116,detached_home,2024-01-30
+https://centre-wellington.listing.ca/130-mcfarlane-cres.X7373022.htm#9q-38u,130 Mcfarlane Cres,1049900,4,4,2,Mcfarlane Cres,Fergus,Centre Wellington,Other,X7373022,detached_home,2024-01-30
+https://cambridge.listing.ca/1960-west-river-rd.X7373014.htm#9q-38v,1960 West River Rd,2299999,4,4,1,West River Rd,not_provided,Cambridge,Other,X7373014,detached_home,2024-01-30
+https://peterborough.listing.ca/433-armour-rd.X7372996.htm#9q-38w,433 Armour Rd,609900,2,4,0,Armour Rd,Ashburnham,Peterborough,Other,X7372996,detached_home,2024-01-30
+https://st-catharines.listing.ca/252-vine-st.X7372984.htm#9q-38x,252 Vine St,499900,2,5,0,Vine St,not_provided,St. Catharines,Other,X7372984,detached_home,2024-01-30
+https://hamilton.listing.ca/61-province-st.X7372968.htm#9q-38y,61 Province St,624900,1,3,0,Province St,Delta,Hamilton,Other,X7372968,detached_home,2024-01-30
+https://centre-wellington.listing.ca/700-woodhill-dr.X7372944.htm#9q-38z,700 Woodhill Dr,879900,3,4,0,Woodhill Dr,Fergus,Centre Wellington,Other,X7372944,detached_home,2024-01-30
+https://norfolk.listing.ca/957-lynn-valley-rd.X7372928.htm#9q-390,957 Lynn Valley Rd,624900,1,3,0,Lynn Valley Rd,Norfolk,Norfolk,Other,X7372928,detached_home,2024-01-30
+https://cobourg.listing.ca/838-smith-rd.X7372922.htm#9q-391,838 Smith Rd,1059900,2,2,1,Smith Rd,Cobourg,Cobourg,Other,X7372922,detached_home,2024-01-30
+https://shelburne.listing.ca/528-brett-st.X7372866.htm#9q-392,528 Brett St,939000,4,4,2,Brett St,Shelburne,Shelburne,Other,X7372866,detached_home,2024-01-30
+https://peterborough.listing.ca/322-cullen-tr.X7372832.htm#9q-393,322 Cullen Tr,1160000,3,2,1,Cullen Tr,Northcrest,Peterborough,Other,X7372832,detached_home,2024-01-30
+https://smith-ennismore-lakefield.listing.ca/124-york-dr.X7372828.htm#9q-394,124 York Dr,1199000,5,4,1,York Dr,Rural Smith-Ennismore-Lakefield,Smith-Ennismore-Lakefield,Other,X7372828,detached_home,2024-01-30
+https://st-catharines.listing.ca/6-pearl-ann-dr.X7372716.htm#9q-395,6 Pearl Ann Dr,999780,5,6,3,Pearl Ann Dr,not_provided,St. Catharines,Other,X7372716,detached_home,2024-01-30
+https://hastings-highlands.listing.ca/246-hickey-tr.X7372610.htm#9q-396,246 Hickey Tr,550000,1,2,0,Hickey Tr,not_provided,Hastings Highlands,Other,X7372610,detached_home,2024-01-30
+https://kincardine.listing.ca/976-mcpherson-cres.X7372584.htm#9q-397,976 Mcpherson Cres,679700,4,3,0,Mcpherson Cres,not_provided,Kincardine,Other,X7372584,detached_home,2024-01-30
+https://peterborough.listing.ca/951-bamford-terr.X7372582.htm#9q-398,951 Bamford Terr,1049900,5,4,1,Bamford Terr,Northcrest,Peterborough,Other,X7372582,detached_home,2024-01-30
+https://marmora-and-lake.listing.ca/2-maloney-st.X7372534.htm#9q-399,2 Maloney St,514900,2,3,1,Maloney St,not_provided,Marmora and Lake,Other,X7372534,detached_home,2024-01-30
+https://quinte-west.listing.ca/47-cattail-cres-lot-33.X7372470.htm#9q-39a,"47 Cattail Cres Lot 33,",719900,2,2,0,"Cattail Cres Lot 33,",not_provided,Quinte West,Other,X7372470,detached_home,2024-01-30
+https://london.listing.ca/719-old-hunt-rd.X7372392.htm#9q-39b,719 Old Hunt Rd,799000,4,3,0,Old Hunt Rd,not_provided,London,Other,X7372392,detached_home,2024-01-30
+https://prince-edward-county.listing.ca/5062-long-point-rd.X7372352.htm#9q-39c,5062 Long Point Rd,499995,1,2,1,Long Point Rd,South Marysburgh,Prince Edward County,Other,X7372352,detached_home,2024-01-30
+https://brighton.listing.ca/819-smith-st.X7372316.htm#9q-39d,819 Smith St,499900,1,3,0,Smith St,Rural Brighton,Brighton,Other,X7372316,detached_home,2024-01-30
+https://cobourg.listing.ca/198-bagot-st.X7372306.htm#9q-39e,198 Bagot St,1568000,5,5,0,Bagot St,Cobourg,Cobourg,Other,X7372306,detached_home,2024-01-30
+https://st-catharines.listing.ca/46-george-st.X7372294.htm#9q-39f,46 George St,649000,2,3,0,George St,not_provided,St. Catharines,Other,X7372294,detached_home,2024-01-30
+https://brighton.listing.ca/116-ontario-st.X7372276.htm#9q-39g,116 Ontario St,795000,4,5,0,Ontario St,Rural Brighton,Brighton,Other,X7372276,detached_home,2024-01-30
+https://french-river.listing.ca/1772-lapointe-mayer-rd.X7372236.htm#9q-39h,1772 Lapointe-Mayer Rd,469000,1,3,0,Lapointe-Mayer Rd,not_provided,French River,Other,X7372236,detached_home,2024-01-30
+https://hamilton.listing.ca/289-houghton-ave.X7372226.htm#9q-39i,289 Houghton Ave,738988,2,3,0,Houghton Ave,Delta,Hamilton,Other,X7372226,detached_home,2024-01-30
+https://north-perth.listing.ca/435-mowat-st.X7372108.htm#9q-39j,435 Mowat St,699900,2,3,1,Mowat St,not_provided,North Perth,Other,X7372108,detached_home,2024-01-30
+https://minden-hills.listing.ca/1356-davis-lake-rd.X7372106.htm#9q-39k,1356 Davis Lake Rd,849900,3,5,0,Davis Lake Rd,not_provided,Minden Hills,Other,X7372106,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/157-william-st.X7372104.htm#9q-39l,157 William St,649900,2,4,0,William St,Lindsay,Kawartha Lakes,Other,X7372104,detached_home,2024-01-30
+https://quinte-west.listing.ca/9-parkview-hts.X7372086.htm#9q-39m,9 Parkview Hts,759900,1,3,0,Parkview Hts,not_provided,Quinte West,Other,X7372086,detached_home,2024-01-30
+https://melancthon.listing.ca/643117-270-sideroad.X7372058.htm#9q-39n,643117 270 Sideroad,974900,2,3,0,270 Sideroad,Rural Melancthon,Melancthon,Other,X7372058,detached_home,2024-01-30
+https://mississauga.listing.ca/3241-cardross-rd.W7374018.htm#9q-39o,3241 Cardross Rd,1228000,2,3,2,Cardross Rd,Applewood,Mississauga,Peel Region,W7374018,detached_home,2024-01-30
+https://mississauga.listing.ca/7028-cordingley-cres.W7373814.htm#9q-39p,7028 Cordingley Cres,1130000,3,3,1,Cordingley Cres,Meadowvale,Mississauga,Peel Region,W7373814,detached_home,2024-01-30
+https://oakville.listing.ca/1240-ironbridge-rd.W7373700.htm#9q-39q,1240 Ironbridge Rd,2199990,5,4,0,Ironbridge Rd,Glen Abbey,Oakville,Halton Region,W7373700,detached_home,2024-01-30
+https://mississauga.listing.ca/1904-balsam-ave.W7373694.htm#9q-39r,1904 Balsam Ave,1275000,1,2,1,Balsam Ave,Clarkson,Mississauga,Peel Region,W7373694,detached_home,2024-01-30
+https://oakville.listing.ca/2245-brays-lane.W7373528.htm#9q-39s,2245 Brays Lane,1950000,4,4,1,Brays Lane,Glen Abbey,Oakville,Halton Region,W7373528,detached_home,2024-01-30
+https://mississauga.listing.ca/4344-dallas-crt.W7373296.htm#9q-39t,4344 Dallas Crt,2699000,4,4,1,Dallas Crt,Rathwood,Mississauga,Peel Region,W7373296,detached_home,2024-01-30
+https://mississauga.listing.ca/1617-trotwood-ave.W7373090.htm#9q-39u,1617 Trotwood Ave,3999000,6,4,1,Trotwood Ave,Mineola,Mississauga,Peel Region,W7373090,detached_home,2024-01-30
+https://brampton.listing.ca/231-mountainash-rd.W7373038.htm#9q-39v,231 Mountainash Rd,1599000,6,4,2,Mountainash Rd,Sandringham-Wellington,Brampton,Peel Region,W7373038,detached_home,2024-01-30
+https://oakville.listing.ca/3206-robert-brown-blvd.W7373016.htm#9q-39w,3206 Robert Brown Blvd,1449900,3,3,0,Robert Brown Blvd,Rural Oakville,Oakville,Halton Region,W7373016,detached_home,2024-01-30
+https://mississauga.listing.ca/710-meadow-wood-rd.W7372910.htm#9q-39x,710 Meadow Wood Rd,4750000,7,5,1,Meadow Wood Rd,Clarkson,Mississauga,Peel Region,W7372910,detached_home,2024-01-30
+https://milton.listing.ca/544-sanderson-cres.W7372874.htm#9q-39y,544 Sanderson Cres,1428900,4,3,0,Sanderson Cres,Clarke,Milton,Halton Region,W7372874,detached_home,2024-01-30
+https://halton-hills.listing.ca/14-mccullough-cres.W7372738.htm#9q-39z,14 Mccullough Cres,1139000,2,3,0,Mccullough Cres,Georgetown,Halton Hills,Halton Region,W7372738,detached_home,2024-01-30
+https://oakville.listing.ca/1286-cambridge-dr.W7372708.htm#9q-3a0,1286 Cambridge Dr,7450000,5,4,1,Cambridge Dr,Eastlake,Oakville,Halton Region,W7372708,detached_home,2024-01-30
+https://markham.listing.ca/56-dawn-hill-tr.N7269590.htm#9q-3a1,56 Dawn Hill Tr,2088000,4,4,0,Dawn Hill Tr,Bayview Fairway-Bayview Country Club Estates,Markham,York Region,N7269590,detached_home,2024-01-30
+https://brampton.listing.ca/40-greenmount-rd.W7372634.htm#9q-3a2,40 Greenmount Rd,1099900,3,3,2,Greenmount Rd,Northgate,Brampton,Peel Region,W7372634,detached_home,2024-01-30
+https://oshawa.listing.ca/251-fleetwood-dr.E7374190.htm#9q-3a3,251 Fleetwood Dr,1349998,5,4,0,Fleetwood Dr,Eastdale,Oshawa,Durham Region,E7374190,detached_home,2024-01-30
+https://pickering.listing.ca/1508-honey-locust-pl.E7374188.htm#9q-3a4,1508 Honey Locust Pl,1249000,3,4,0,Honey Locust Pl,Rural Pickering,Pickering,Durham Region,E7374188,detached_home,2024-01-30
+https://brampton.listing.ca/22-masken-circ.W7372232.htm#9q-3a5,22 Masken Circ,1549000,5,4,2,Masken Circ,Northwest Brampton,Brampton,Peel Region,W7372232,detached_home,2024-01-30
+https://whitby.listing.ca/113-bassett-blvd.E7373822.htm#9q-3a6,113 Bassett Blvd,1149990,3,3,1,Bassett Blvd,Pringle Creek,Whitby,Durham Region,E7373822,detached_home,2024-01-30
+https://toronto.listing.ca/31-cedar-dr.E7373752.htm#9q-3a7,31 Cedar Dr,1699000,5,5,3,Cedar Dr,Scarborough Village,Toronto,Toronto,E7373752,detached_home,2024-01-30
+https://oshawa.listing.ca/2569-bridle-rd.E7373746.htm#9q-3a8,2569 Bridle Rd,1399000,5,4,2,Bridle Rd,Windfields,Oshawa,Durham Region,E7373746,detached_home,2024-01-30
+https://pickering.listing.ca/744-eyer-dr.E7373732.htm#9q-3a9,744 Eyer Dr,1149900,4,5,0,Eyer Dr,West Shore,Pickering,Durham Region,E7373732,detached_home,2024-01-30
+https://brampton.listing.ca/77-main-st.W7372188.htm#9q-3aa,77 Main St,2100000,3,4,0,Main St,Downtown Brampton,Brampton,Peel Region,W7372188,detached_home,2024-01-30
+https://brampton.listing.ca/42-gibbs-rd.W7372054.htm#9q-3ab,42 Gibbs Rd,1349999,3,4,0,Gibbs Rd,Northwest Brampton,Brampton,Peel Region,W7372054,detached_home,2024-01-30
+https://whitby.listing.ca/27-splendor-dr.E7372872.htm#9q-3ac,27 Splendor Dr,2195000,6,6,0,Splendor Dr,Williamsburg,Whitby,Durham Region,E7372872,detached_home,2024-01-30
+https://toronto.listing.ca/3-maryhill-dr.W7372022.htm#9q-3ad,3 Maryhill Dr,1249000,3,4,1,Maryhill Dr,Mount Olive-Silverstone-Jamestown,Toronto,Toronto,W7372022,detached_home,2024-01-30
+https://halton-hills.listing.ca/13181-highway-7.W7371966.htm#9q-3ae,13181 Highway 7,1449000,3,3,0,Highway 7,Rural Halton Hills,Halton Hills,Halton Region,W7371966,detached_home,2024-01-30
+https://ajax.listing.ca/50-buggey-lane.E7372834.htm#9q-3af,50 Buggey Lane,3199000,6,4,1,Buggey Lane,Northeast Ajax,Ajax,Durham Region,E7372834,detached_home,2024-01-30
+https://toronto.listing.ca/102-foxridge-dr.E7372492.htm#9q-3ag,102 Foxridge Dr,1097000,2,3,3,Foxridge Dr,Kennedy Park,Toronto,Toronto,E7372492,detached_home,2024-01-30
+https://hastings-highlands.listing.ca/1081-papineau-lake-rd.X7053046.htm#9q-3ah,1081 Papineau Lake Rd,319000,1,3,0,Papineau Lake Rd,not_provided,Hastings Highlands,Other,X7053046,detached_home,2024-01-30
+https://oshawa.listing.ca/692-avery-crt.E7372358.htm#9q-3ai,692 Avery Crt,999900,4,3,0,Avery Crt,Pinecrest,Oshawa,Durham Region,E7372358,detached_home,2024-01-30
+https://pickering.listing.ca/1278-aquarius-tr.E7372256.htm#9q-3aj,1278 Aquarius Tr,1199000,3,4,0,Aquarius Tr,Rural Pickering,Pickering,Durham Region,E7372256,detached_home,2024-01-30
+https://toronto.listing.ca/81-woolenscote-circ.W7374132.htm#9q-3ak,81 Woolenscote Circ,949999,4,3,2,Woolenscote Circ,West Humber-Clairville,Toronto,Toronto,W7374132,detached_home,2024-01-30
+https://milton.listing.ca/927-scott-blvd.W7374114.htm#9q-3al,927 Scott Blvd,1150000,4,4,1,Scott Blvd,Harrison,Milton,Halton Region,W7374114,detached_home,2024-01-30
+https://pickering.listing.ca/544-gillmoss-rd.E7371974.htm#9q-3am,544 Gillmoss Rd,1700000,2,3,2,Gillmoss Rd,Rosebank,Pickering,Durham Region,E7371974,detached_home,2024-01-30
+https://pickering.listing.ca/520-gillmoss-rd.E7371970.htm#9q-3an,520 Gillmoss Rd,3500000,4,4,0,Gillmoss Rd,Rosebank,Pickering,Durham Region,E7371970,detached_home,2024-01-30
+https://toronto.listing.ca/18-viamede-cres.C7374172.htm#9q-3ao,18 Viamede Cres,4968000,7,4,2,Viamede Cres,Bayview Village,Toronto,Toronto,C7374172,detached_home,2024-01-30
+https://toronto.listing.ca/1-abbotsford-rd.C7374064.htm#9q-3ap,1 Abbotsford Rd,4288000,7,4,1,Abbotsford Rd,Willowdale West,Toronto,Toronto,C7374064,detached_home,2024-01-30
+https://toronto.listing.ca/513-hounslow-ave.C7373610.htm#9q-3aq,513 Hounslow Ave,2888000,5,4,2,Hounslow Ave,Willowdale West,Toronto,Toronto,C7373610,detached_home,2024-01-30
+https://toronto.listing.ca/40-page-ave.C7372268.htm#9q-3ar,40 Page Ave,2149000,3,3,3,Page Ave,Bayview Village,Toronto,Toronto,C7372268,detached_home,2024-01-30
+https://niagara-falls.listing.ca/5921-scott-st.X7371926.htm#9q-3as,5921 Scott St,928000,6,4,2,Scott St,not_provided,Niagara Falls,Other,X7371926,detached_home,2024-01-30
+https://meaford.listing.ca/112-greenfield-dr.X7371860.htm#9q-3at,112 Greenfield Dr,675000,3,3,1,Greenfield Dr,Meaford,Meaford,Other,X7371860,detached_home,2024-01-30
+https://tweed.listing.ca/180-skootamatta-lane.X7371740.htm#9q-3au,180 Skootamatta Lane,589900,1,3,0,Skootamatta Lane,not_provided,Tweed,Other,X7371740,detached_home,2024-01-30
+https://guelph.listing.ca/235-victoria-rd.X7371656.htm#9q-3av,235 Victoria Rd,678888,2,2,1,Victoria Rd,Two Rivers,Guelph,Other,X7371656,detached_home,2024-01-30
+https://penetanguishene.listing.ca/38-quarry-rd.S7371824.htm#9q-3aw,38 Quarry Rd,995000,3,4,0,Quarry Rd,Penetanguishene,Penetanguishene,Other,S7371824,detached_home,2024-01-30
+https://penetanguishene.listing.ca/30-quarry-rd.S7371794.htm#9q-3ax,30 Quarry Rd,849900,3,3,0,Quarry Rd,Penetanguishene,Penetanguishene,Other,S7371794,detached_home,2024-01-30
+https://tiny.listing.ca/10-dorcas-ave.S7371706.htm#9q-3ay,10 Dorcas Ave,869000,2,3,1,Dorcas Ave,Wyevale,Tiny,Other,S7371706,detached_home,2024-01-30
+https://adjala-tosorontio.listing.ca/41-orchid-cres.N7371888.htm#9q-3az,41 Orchid Cres,2699000,5,5,0,Orchid Cres,Colgan,Adjala-Tosorontio,Other,N7371888,detached_home,2024-01-30
+https://richmond-hill.listing.ca/84-portage-ave.N7371728.htm#9q-3b0,84 Portage Ave,2030000,5,5,0,Portage Ave,Oak Ridges,Richmond Hill,York Region,N7371728,detached_home,2024-01-30
+https://toronto.listing.ca/26-moford-cres.W7371874.htm#9q-3b1,26 Moford Cres,1279888,3,4,0,Moford Cres,Willowridge-Martingrove-Richview,Toronto,Toronto,W7371874,detached_home,2024-01-30
+https://toronto.listing.ca/2-highcliff-cres.E7371924.htm#9q-3b2,2 Highcliff Cres,1875000,3,4,0,Highcliff Cres,Cliffcrest,Toronto,Toronto,E7371924,detached_home,2024-01-30
+https://amaranth.listing.ca/3-evans-ave.X7371654.htm#9q-3b3,3 Evans Ave,766500,2,3,0,Evans Ave,Rural Amaranth,Amaranth,Other,X7371654,detached_home,2024-01-30
+https://markham.listing.ca/36-pennock-cres.N7371648.htm#9q-3b4,36 Pennock Cres,2500000,4,4,0,Pennock Cres,Unionville,Markham,York Region,N7371648,detached_home,2024-01-30
+https://hamilton.listing.ca/41-acredale-dr.X7342982.htm#9q-3b5,41 Acredale Dr,1824500,4,4,0,Acredale Dr,Carlisle,Hamilton,Other,X7342982,detached_home,2024-01-30
+https://brampton.listing.ca/46-dunure-cres.W7371618.htm#9q-3b6,46 Dunure Cres,1299900,4,4,2,Dunure Cres,Fletcher's Meadow,Brampton,Peel Region,W7371618,detached_home,2024-01-30
+https://brampton.listing.ca/6-banner-rd.W7371610.htm#9q-3b7,6 Banner Rd,1249900,5,4,2,Banner Rd,Brampton West,Brampton,Peel Region,W7371610,detached_home,2024-01-30
+https://brampton.listing.ca/23-gambia-rd.W7371606.htm#9q-3b8,23 Gambia Rd,1629999,4,5,0,Gambia Rd,Northwest Brampton,Brampton,Peel Region,W7371606,detached_home,2024-01-30
+https://toronto.listing.ca/46-elmer-ave.E7371596.htm#9q-3b9,46 Elmer Ave,1999000,4,4,2,Elmer Ave,The Beaches,Toronto,Toronto,E7371596,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/14-antler-tr.X7371518.htm#9q-3ba,14 Antler Tr,849000,1,3,0,Antler Tr,Fenelon Falls,Kawartha Lakes,Other,X7371518,detached_home,2024-01-30
+https://richmond-hill.listing.ca/15-marylebone-cres.N7371446.htm#9q-3bb,15 Marylebone Cres,2188800,5,4,1,Marylebone Cres,Oak Ridges Lake Wilcox,Richmond Hill,York Region,N7371446,detached_home,2024-01-30
+https://oshawa.listing.ca/66-lloyd-st.E7371464.htm#9q-3bc,66 Lloyd St,609900,2,4,0,Lloyd St,Central,Oshawa,Durham Region,E7371464,detached_home,2024-01-30
+https://mississauga.listing.ca/3906-rosanna-dr.W7371422.htm#9q-3bd,3906 Rosanna Dr,1574900,4,4,3,Rosanna Dr,Churchill Meadows,Mississauga,Peel Region,W7371422,detached_home,2024-01-30
+https://halton-hills.listing.ca/2-metcalfe-crt.W7371412.htm#9q-3be,2 Metcalfe Crt,1024900,2,4,0,Metcalfe Crt,Georgetown,Halton Hills,Halton Region,W7371412,detached_home,2024-01-30
+https://melancthon.listing.ca/605094-river-rd.X7308000.htm#9q-3bf,605094 River Rd,2495000,3,4,0,River Rd,Rural Melancthon,Melancthon,Other,X7308000,detached_home,2024-01-30
+https://georgina.listing.ca/357-baldwin-rd.N7371342.htm#9q-3bg,357 Baldwin Rd,1380000,2,2,1,Baldwin Rd,Baldwin,Georgina,York Region,N7371342,detached_home,2024-01-30
+https://fort-erie.listing.ca/248-oxford-ave.X7371306.htm#9q-3bh,248 Oxford Ave,777000,2,3,0,Oxford Ave,not_provided,Fort Erie,Other,X7371306,detached_home,2024-01-30
+https://port-colborne.listing.ca/13-oriole-cres.X7371270.htm#9q-3bi,13 Oriole Cres,919999,4,4,0,Oriole Cres,not_provided,Port Colborne,Other,X7371270,detached_home,2024-01-30
+https://midland.listing.ca/926-gawley-dr.S7371238.htm#9q-3bj,926 Gawley Dr,1499000,3,3,1,Gawley Dr,Midland,Midland,Other,S7371238,detached_home,2024-01-30
+https://innisfil.listing.ca/1302-broderick-st.N7371290.htm#9q-3bk,1302 Broderick St,1168000,4,4,0,Broderick St,Rural Innisfil,Innisfil,Other,N7371290,detached_home,2024-01-30
+https://welland.listing.ca/94-cottonwood-cres.X7371220.htm#9q-3bl,94 Cottonwood Cres,1299999,5,4,2,Cottonwood Cres,not_provided,Welland,Other,X7371220,detached_home,2024-01-30
+https://st-catharines.listing.ca/205-queenston-st.X7371160.htm#9q-3bm,205 Queenston St,799000,4,4,0,Queenston St,not_provided,St. Catharines,Other,X7371160,detached_home,2024-01-30
+https://wasaga-beach.listing.ca/2-middleton-dr.S7371222.htm#9q-3bn,2 Middleton Dr,969000,4,4,2,Middleton Dr,Wasaga Beach,Wasaga Beach,Other,S7371222,detached_home,2024-01-30
+https://stratford.listing.ca/106-o-j-gaffney-dr.X7371132.htm#9q-3bo,106 O.J. Gaffney Dr,850000,3,3,0,O.J. Gaffney Dr,not_provided,Stratford,Other,X7371132,detached_home,2024-01-30
+https://addington-highlands.listing.ca/10-west-park-lane.X7371010.htm#9q-3bp,10 West Park Lane,165000,1,2,0,West Park Lane,not_provided,Addington Highlands,Other,X7371010,detached_home,2024-01-30
+https://addington-highlands.listing.ca/24-tall-pine-rd.X7371008.htm#9q-3bq,24 Tall Pine Rd,140000,1,1,0,Tall Pine Rd,not_provided,Addington Highlands,Other,X7371008,detached_home,2024-01-30
+https://welland.listing.ca/193-iva-st.X7370986.htm#9q-3br,193 Iva St,780000,3,4,0,Iva St,not_provided,Welland,Other,X7370986,detached_home,2024-01-30
+https://brampton.listing.ca/30-adirondack-cres.W7371096.htm#9q-3bs,30 Adirondack Cres,1495000,4,5,2,Adirondack Cres,Sandringham-Wellington,Brampton,Peel Region,W7371096,detached_home,2024-01-30
+https://aurora.listing.ca/129-pine-hill-cres.N7360988.htm#9q-3bt,129 Pine Hill Cres,2388000,4,4,0,Pine Hill Cres,Aurora Estates,Aurora,York Region,N7360988,detached_home,2024-01-30
+https://barrie.listing.ca/52-parkside-dr.S7301888.htm#9q-3bu,52 Parkside Dr,699900,2,3,0,Parkside Dr,Queen's Park,Barrie,Other,S7301888,detached_home,2024-01-30
+https://norfolk.listing.ca/16-thomson-rd.X7370928.htm#9q-3bv,16 Thomson Rd,659000,3,3,0,Thomson Rd,Simcoe,Norfolk,Other,X7370928,detached_home,2024-01-30
+https://brighton.listing.ca/26-empire-blvd.X7370804.htm#9q-3bw,26 Empire Blvd,799900,3,2,1,Empire Blvd,Brighton,Brighton,Other,X7370804,detached_home,2024-01-30
+https://hamilton.listing.ca/7292-haldibrook-rd.X7370794.htm#9q-3bx,7292 Haldibrook Rd,2650000,3,2,2,Haldibrook Rd,Rural Glanbrook,Hamilton,Other,X7370794,detached_home,2024-01-30
+https://fort-erie.listing.ca/322-oxford-ave.X7370780.htm#9q-3by,322 Oxford Ave,614900,1,3,0,Oxford Ave,not_provided,Fort Erie,Other,X7370780,detached_home,2024-01-30
+https://niagara-falls.listing.ca/6361-sam-iorfida-dr.X7370742.htm#9q-3bz,6361 Sam Iorfida Dr,1049000,3,4,0,Sam Iorfida Dr,not_provided,Niagara Falls,Other,X7370742,detached_home,2024-01-30
+https://hamilton.listing.ca/194-wellington-st.X7370724.htm#9q-3c0,194 Wellington St,699000,2,5,1,Wellington St,Landsdale,Hamilton,Other,X7370724,detached_home,2024-01-30
+https://mississauga.listing.ca/5503-longford-dr.W7370766.htm#9q-3c1,5503 Longford Dr,1599000,4,4,1,Longford Dr,Churchill Meadows,Mississauga,Peel Region,W7370766,detached_home,2024-01-30
+https://mississauga.listing.ca/1618-dogwood-tr.W7370692.htm#9q-3c2,1618 Dogwood Tr,6298888,6,4,1,Dogwood Tr,Mineola,Mississauga,Peel Region,W7370692,detached_home,2024-01-30
+https://niagara-falls.listing.ca/8166-buckeye-cres.X7370664.htm#9q-3c3,8166 Buckeye Cres,789000,6,3,0,Buckeye Cres,not_provided,Niagara Falls,Other,X7370664,detached_home,2024-01-30
+https://haldimand.listing.ca/3240-river-rd.X7370642.htm#9q-3c4,3240 River Rd,1898000,5,4,1,River Rd,Haldimand,Haldimand,Other,X7370642,detached_home,2024-01-30
+https://st-catharines.listing.ca/24-olde-school-crt.X7370604.htm#9q-3c5,24 Olde School Crt,1150000,4,3,1,Olde School Crt,not_provided,St. Catharines,Other,X7370604,detached_home,2024-01-30
+https://peterborough.listing.ca/541-bethune-st.X7370544.htm#9q-3c6,541 Bethune St,485000,2,2,2,Bethune St,Downtown,Peterborough,Other,X7370544,detached_home,2024-01-30
+https://tecumseh.listing.ca/5300-highway-3-n-a.X7370508.htm#9q-3c7,5300 Highway 3 N/A,449900,1,1,0,Highway 3 N/A,not_provided,Tecumseh,Other,X7370508,detached_home,2024-01-30
+https://norfolk.listing.ca/816-villa-nova-rd.X7370488.htm#9q-3c8,816 Villa Nova Rd,998000,2,3,0,Villa Nova Rd,Norfolk,Norfolk,Other,X7370488,detached_home,2024-01-30
+https://cambridge.listing.ca/90-chilligo-rd.X7370444.htm#9q-3c9,90 Chilligo Rd,1798000,2,3,0,Chilligo Rd,not_provided,Cambridge,Other,X7370444,detached_home,2024-01-30
+https://peterborough.listing.ca/276-mcgill-st.X7370438.htm#9q-3ca,276 Mcgill St,535000,2,4,1,Mcgill St,Otonabee,Peterborough,Other,X7370438,detached_home,2024-01-30
+https://hamilton.listing.ca/49-valiant-circ.X7370382.htm#9q-3cb,49 Valiant Circ,979900,3,4,0,Valiant Circ,Binbrook,Hamilton,Other,X7370382,detached_home,2024-01-30
+https://brampton.listing.ca/25-roberts-cres.W7370606.htm#9q-3cc,25 Roberts Cres,1015000,2,2,2,Roberts Cres,Brampton East,Brampton,Peel Region,W7370606,detached_home,2024-01-30
+https://toronto.listing.ca/16-embers-dr.W7370460.htm#9q-3cd,16 Embers Dr,1849000,4,3,2,Embers Dr,Eringate-Centennial-West Deane,Toronto,Toronto,W7370460,detached_home,2024-01-30
+https://brampton.listing.ca/14-lowell-cres.W7370344.htm#9q-3ce,14 Lowell Cres,1749900,4,5,1,Lowell Cres,Credit Valley,Brampton,Peel Region,W7370344,detached_home,2024-01-30
+https://new-tecumseth.listing.ca/15-wellington-st.N7370474.htm#9q-3cf,15 Wellington St,675000,1,2,0,Wellington St,Alliston,New Tecumseth,Other,N7370474,detached_home,2024-01-30
+https://barrie.listing.ca/14-bannister-rd.S7370668.htm#9q-3cg,14 Bannister Rd,1149000,4,5,0,Bannister Rd,Rural Barrie Southeast,Barrie,Other,S7370668,detached_home,2024-01-30
+https://wasaga-beach.listing.ca/174-white-sands-way.S7370634.htm#9q-3ch,174 White Sands Way,849900,3,2,2,White Sands Way,Wasaga Beach,Wasaga Beach,Other,S7370634,detached_home,2024-01-30
+https://orillia.listing.ca/3006-sierra-dr.S7370230.htm#9q-3ci,3006 Sierra Dr,865000,3,3,0,Sierra Dr,Orillia,Orillia,Other,S7370230,detached_home,2024-01-30
+https://st-thomas.listing.ca/122-centennial-ave.X7370178.htm#9q-3cj,122 Centennial Ave,929900,3,4,1,Centennial Ave,not_provided,St. Thomas,Other,X7370178,detached_home,2024-01-30
+https://cambridge.listing.ca/56-foot-cres.X7369942.htm#9q-3ck,56 Foot Cres,899900,3,3,1,Foot Cres,not_provided,Cambridge,Other,X7369942,detached_home,2024-01-30
+https://prince-edward-county.listing.ca/1459-county-rd-12-rd.X7369906.htm#9q-3cl,1459 County Rd 12 Rd,829000,2,3,0,County Rd 12 Rd,Picton,Prince Edward County,Other,X7369906,detached_home,2024-01-30
+https://cobourg.listing.ca/304-division-st.X7369886.htm#9q-3cm,304 Division St,1185000,2,1,1,Division St,Cobourg,Cobourg,Other,X7369886,detached_home,2024-01-30
+https://pelham.listing.ca/1400-haist-st.X7369880.htm#9q-3cn,1400 Haist St,799000,2,4,0,Haist St,not_provided,Pelham,Other,X7369880,detached_home,2024-01-30
+https://brighton.listing.ca/443-smith-st.X7369778.htm#9q-3co,443 Smith St,1195000,2,3,1,Smith St,Rural Brighton,Brighton,Other,X7369778,detached_home,2024-01-30
+https://brantford.listing.ca/49-seventh-ave.X7369732.htm#9q-3cp,49 Seventh Ave,685000,2,4,1,Seventh Ave,not_provided,Brantford,Other,X7369732,detached_home,2024-01-30
+https://niagara-falls.listing.ca/5007-river-rd.X7369682.htm#9q-3cq,5007 River Rd,1489000,4,5,0,River Rd,not_provided,Niagara Falls,Other,X7369682,detached_home,2024-01-30
+https://amaranth.listing.ca/513464-2nd-line.X7369612.htm#9q-3cr,513464 2nd Line,2504999,5,4,1,2nd Line,Rural Amaranth,Amaranth,Other,X7369612,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/1-old-cottage-lane.X7369524.htm#9q-3cs,1 Old Cottage Lane,499900,3,6,0,Old Cottage Lane,Pontypool,Kawartha Lakes,Other,X7369524,detached_home,2024-01-30
+https://madoc.listing.ca/169-jarvis-rd.X7369478.htm#9q-3ct,169 Jarvis Rd,575000,1,2,0,Jarvis Rd,not_provided,Madoc,Other,X7369478,detached_home,2024-01-30
+https://prince-edward-county.listing.ca/195-county-road-29-rd.X7369410.htm#9q-3cu,195 County Road 29 Rd,499000,2,5,0,County Road 29 Rd,Ameliasburgh,Prince Edward County,Other,X7369410,detached_home,2024-01-30
+https://tyendinaga.listing.ca/3529-shannonville-rd.X7369408.htm#9q-3cv,3529 Shannonville Rd,1050000,2,3,0,Shannonville Rd,not_provided,Tyendinaga,Other,X7369408,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/308-indian-point-rd.X7277704.htm#9q-3cw,308 Indian Point Rd,3290000,5,3,2,Indian Point Rd,Coboconk,Kawartha Lakes,Other,X7277704,detached_home,2024-01-30
+https://galway-cavendish-and-harvey.listing.ca/15-fire-route-67.X7033244.htm#9q-3cx,15 Fire Route 67,2999000,3,3,1,Fire Route 67,Rural Galway-Cavendish and Harvey,Galway-Cavendish and Harvey,Other,X7033244,detached_home,2024-01-30
+https://mississauga.listing.ca/665-amesbury-ave.W7370176.htm#9q-3cy,665 Amesbury Ave,1449000,4,4,1,Amesbury Ave,Hurontario,Mississauga,Peel Region,W7370176,detached_home,2024-01-30
+https://brampton.listing.ca/48-haverty-tr.W7369742.htm#9q-3cz,48 Haverty Tr,1049000,4,3,1,Haverty Tr,Northwest Brampton,Brampton,Peel Region,W7369742,detached_home,2024-01-30
+https://brampton.listing.ca/8-openbay-gdns.W7369402.htm#9q-3d0,8 Openbay Gdns,1499000,4,4,2,Openbay Gdns,Sandringham-Wellington,Brampton,Peel Region,W7369402,detached_home,2024-01-30
+https://burlington.listing.ca/3932-leonardo-st.W7236118.htm#9q-3d1,3932 Leonardo St,1888000,5,5,0,Leonardo St,Alton,Burlington,Halton Region,W7236118,detached_home,2024-01-30
+https://whitchurch-stouffville.listing.ca/168-wesmina-ave.N7369594.htm#9q-3d2,168 Wesmina Ave,1849000,4,5,1,Wesmina Ave,Stouffville,Whitchurch-Stouffville,York Region,N7369594,detached_home,2024-01-30
+https://springwater.listing.ca/68-queen-st.S7369562.htm#9q-3d3,68 Queen St,729000,2,4,0,Queen St,Elmvale,Springwater,Other,S7369562,detached_home,2024-01-30
+https://midland.listing.ca/368-queen-st.S7369550.htm#9q-3d4,368 Queen St,525000,2,2,0,Queen St,Midland,Midland,Other,S7369550,detached_home,2024-01-30
+https://clarington.listing.ca/3151-courtice-rd.E7369702.htm#9q-3d5,3151 Courtice Rd,799900,2,3,0,Courtice Rd,Courtice,Clarington,Durham Region,E7369702,detached_home,2024-01-30
+https://toronto.listing.ca/75-shilton-rd.E7369438.htm#9q-3d6,75 Shilton Rd,1699990,3,4,2,Shilton Rd,Agincourt South-Malvern West,Toronto,Toronto,E7369438,detached_home,2024-01-30
+https://mississauga.listing.ca/1099-hedge-dr.W7369386.htm#9q-3d7,1099 Hedge Dr,1738000,5,4,2,Hedge Dr,Lakeview,Mississauga,Peel Region,W7369386,detached_home,2024-01-30
+https://hamilton.listing.ca/98-glennie-ave.X7369330.htm#9q-3d8,98 Glennie Ave,749900,4,3,0,Glennie Ave,Normanhurst,Hamilton,Other,X7369330,detached_home,2024-01-30
+https://cambridge.listing.ca/68-moon-cres.X7369148.htm#9q-3d9,68 Moon Cres,999990,3,4,0,Moon Cres,not_provided,Cambridge,Other,X7369148,detached_home,2024-01-30
+https://oakville.listing.ca/2193-constance-dr.W7369310.htm#9q-3da,2193 Constance Dr,1980000,3,4,0,Constance Dr,Eastlake,Oakville,Halton Region,W7369310,detached_home,2024-01-30
+https://burlington.listing.ca/675-cumberland-ave.W7369260.htm#9q-3db,675 Cumberland Ave,909000,1,5,0,Cumberland Ave,Roseland,Burlington,Halton Region,W7369260,detached_home,2024-01-30
+https://brampton.listing.ca/61-watson-cres.W7369176.htm#9q-3dc,61 Watson Cres,1018000,3,3,0,Watson Cres,Brampton East,Brampton,Peel Region,W7369176,detached_home,2024-01-30
+https://severn.listing.ca/3710-lakepoint-dr.S7369192.htm#9q-3dd,3710 Lakepoint Dr,979900,3,4,0,Lakepoint Dr,West Shore,Severn,Other,S7369192,detached_home,2024-01-30
+https://oshawa.listing.ca/1039-dyas-ave.E7369218.htm#9q-3de,1039 Dyas Ave,1199950,3,4,0,Dyas Ave,Kedron,Oshawa,Durham Region,E7369218,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/152-glenarm-rd.X7369082.htm#9q-3df,152 Glenarm Rd,6000000,1,2,0,Glenarm Rd,Woodville,Kawartha Lakes,Other,X7369082,detached_home,2024-01-30
+https://kingsville.listing.ca/1171-heritage-rd.X7369066.htm#9q-3dg,1171 Heritage Rd,2350000,4,3,1,Heritage Rd,not_provided,Kingsville,Other,X7369066,detached_home,2024-01-30
+https://brighton.listing.ca/23-mackenzie-john-cres.X7369042.htm#9q-3dh,23 Mackenzie John Cres,699900,2,2,0,Mackenzie John Cres,Brighton,Brighton,Other,X7369042,detached_home,2024-01-30
+https://prince-edward-county.listing.ca/29-elizabeth-rd.X7368974.htm#9q-3di,29 Elizabeth Rd,699900,2,3,1,Elizabeth Rd,Ameliasburgh,Prince Edward County,Other,X7368974,detached_home,2024-01-30
+https://halton-hills.listing.ca/129-tanners-dr.W7368988.htm#9q-3dj,129 Tanners Dr,1214000,3,2,1,Tanners Dr,Acton,Halton Hills,Halton Region,W7368988,detached_home,2024-01-30
+https://essa.listing.ca/148-maplewood-dr.N7368990.htm#9q-3dk,148 Maplewood Dr,849900,4,3,0,Maplewood Dr,Angus,Essa,Other,N7368990,detached_home,2024-01-30
+https://hamilton.listing.ca/6-ryans-way.X7368834.htm#9q-3dl,6 Ryans Way,1199900,3,3,1,Ryans Way,Waterdown,Hamilton,Other,X7368834,detached_home,2024-01-30
+https://amaranth.listing.ca/373401-6-line-n-a.X7368786.htm#9q-3dm,373401 6 Line N/A,1499999,3,4,0,6 Line N/A,Rural Amaranth,Amaranth,Other,X7368786,detached_home,2024-01-30
+https://st-thomas.listing.ca/89-curtis-st.X7368746.htm#9q-3dn,89 Curtis St,475900,2,3,0,Curtis St,not_provided,St. Thomas,Other,X7368746,detached_home,2024-01-30
+https://norfolk.listing.ca/380-james-st.X7368680.htm#9q-3do,380 James St,729999,2,4,0,James St,Delhi,Norfolk,Other,X7368680,detached_home,2024-01-30
+https://brantford.listing.ca/61-blossom-ave.X7368628.htm#9q-3dp,61 Blossom Ave,1199900,3,3,2,Blossom Ave,not_provided,Brantford,Other,X7368628,detached_home,2024-01-30
+https://belleville.listing.ca/85-gordon-st.X7368614.htm#9q-3dq,85 Gordon St,499000,1,3,0,Gordon St,not_provided,Belleville,Other,X7368614,detached_home,2024-01-30
+https://grey-highlands.listing.ca/400454-grey-road-4-rd.X7368608.htm#9q-3dr,400454 Grey Road 4 Rd,895000,1,3,0,Grey Road 4 Rd,Flesherton,Grey Highlands,Other,X7368608,detached_home,2024-01-30
+https://belleville.listing.ca/134-finch-dr.X7368492.htm#9q-3ds,134 Finch Dr,579900,3,2,1,Finch Dr,not_provided,Belleville,Other,X7368492,detached_home,2024-01-30
+https://oakville.listing.ca/2052-saxon-rd.W7368840.htm#9q-3dt,2052 Saxon Rd,1499900,2,3,1,Saxon Rd,Bronte East,Oakville,Halton Region,W7368840,detached_home,2024-01-30
+https://caledon.listing.ca/11-miles-dr.W7368658.htm#9q-3du,11 Miles Dr,1249999,2,3,0,Miles Dr,Caledon East,Caledon,Peel Region,W7368658,detached_home,2024-01-30
+https://newmarket.listing.ca/104-fadine-rd.N7368646.htm#9q-3dv,104 Fadine Rd,1338000,4,4,0,Fadine Rd,Summerhill Estates,Newmarket,York Region,N7368646,detached_home,2024-01-30
+https://vaughan.listing.ca/109-angelina-ave.N7368602.htm#9q-3dw,109 Angelina Ave,1669000,4,4,1,Angelina Ave,West Woodbridge,Vaughan,York Region,N7368602,detached_home,2024-01-30
+https://whitby.listing.ca/835-dundas-st.E7368624.htm#9q-3dx,835 Dundas St,950000,2,3,2,Dundas St,Downtown Whitby,Whitby,Durham Region,E7368624,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/280-cottage-rd.X7368412.htm#9q-3dy,280 Cottage Rd,1075000,3,3,0,Cottage Rd,Rural Mariposa,Kawartha Lakes,Other,X7368412,detached_home,2024-01-30
+https://richmond-hill.listing.ca/38-dunn-dr.N7368336.htm#9q-3dz,38 Dunn Dr,4280000,7,4,1,Dunn Dr,Oak Ridges Lake Wilcox,Richmond Hill,York Region,N7368336,detached_home,2024-01-30
+https://barrie.listing.ca/36-puget-st.S7368352.htm#9q-3e0,36 Puget St,1499000,4,8,0,Puget St,North Shore,Barrie,Other,S7368352,detached_home,2024-01-30
+https://tiny.listing.ca/35-pine-grove-dr.S7368326.htm#9q-3e1,35 Pine Grove Dr,899000,2,4,0,Pine Grove Dr,Lafontaine,Tiny,Other,S7368326,detached_home,2024-01-30
+https://toronto.listing.ca/54-south-woodrow-blvd.E7368418.htm#9q-3e2,54 South Woodrow Blvd,998000,2,3,1,South Woodrow Blvd,Birchcliffe-Cliffside,Toronto,Toronto,E7368418,detached_home,2024-01-30
+https://richmond-hill.listing.ca/8-lake-woods-st.N7368312.htm#9q-3e3,8 Lake Woods St,1885000,4,4,0,Lake Woods St,Jefferson,Richmond Hill,York Region,N7368312,detached_home,2024-01-30
+https://toronto.listing.ca/31-falaise-rd.E7368244.htm#9q-3e4,31 Falaise Rd,1399000,2,3,2,Falaise Rd,West Hill,Toronto,Toronto,E7368244,detached_home,2024-01-30
+https://brantford.listing.ca/5-holder-dr.X7368202.htm#9q-3e5,5 Holder Dr,989900,3,4,0,Holder Dr,not_provided,Brantford,Other,X7368202,detached_home,2024-01-30
+https://aurora.listing.ca/151-botelho-circ.N7368228.htm#9q-3e6,151 Botelho Circ,2368000,5,4,0,Botelho Circ,Bayview Southeast,Aurora,York Region,N7368228,detached_home,2024-01-30
+https://brampton.listing.ca/31-treasure-dr.W7368120.htm#9q-3e7,31 Treasure Dr,1199900,3,4,0,Treasure Dr,Fletcher's Meadow,Brampton,Peel Region,W7368120,detached_home,2024-01-30
+https://guelph.listing.ca/7-henderson-dr.X7368092.htm#9q-3e8,7 Henderson Dr,1225000,4,4,0,Henderson Dr,Grange Hill East,Guelph,Other,X7368092,detached_home,2024-01-30
+https://halton-hills.listing.ca/12497-regional-rd-25.W7368034.htm#9q-3e9,12497 Regional Rd 25,1599900,2,3,2,Regional Rd,Rural Halton Hills,Halton Hills,Halton Region,W7368034,detached_home,2024-01-30
+https://brant.listing.ca/22-heming-st.X7367988.htm#9q-3ea,22 Heming St,835000,4,3,0,Heming St,Paris,Brant,Other,X7367988,detached_home,2024-01-30
+https://vaughan.listing.ca/305-woodland-acres-cres.N7367890.htm#9q-3eb,305 Woodland Acres Cres,7990000,6,5,0,Woodland Acres Cres,Rural Vaughan,Vaughan,York Region,N7367890,detached_home,2024-01-30
+https://peterborough.listing.ca/916-bamford-terr.X7367912.htm#9q-3ec,916 Bamford Terr,699000,3,4,0,Bamford Terr,Northcrest,Peterborough,Other,X7367912,detached_home,2024-01-30
+https://peterborough.listing.ca/50-moorecraig-rd.X7367888.htm#9q-3ed,50 Moorecraig Rd,1890000,4,5,0,Moorecraig Rd,Monaghan,Peterborough,Other,X7367888,detached_home,2024-01-30
+https://thorold.listing.ca/54-stern-dr.X7367852.htm#9q-3ee,54 Stern Dr,799000,3,4,0,Stern Dr,not_provided,Thorold,Other,X7367852,detached_home,2024-01-30
+https://toronto.listing.ca/94-lake-cres.W7367484.htm#9q-3ef,94 Lake Cres,1895000,4,4,1,Lake Cres,Mimico,Toronto,Toronto,W7367484,detached_home,2024-01-30
+https://blue-mountains.listing.ca/105-settlers-way.X7367744.htm#9q-3eg,105 Settlers Way,649000,1,2,0,Settlers Way,Blue Mountain Resort Area,Blue Mountains,Other,X7367744,detached_home,2024-01-30
+https://brant.listing.ca/92-arlington-pkwy.X7367610.htm#9q-3eh,92 Arlington Pkwy,999900,4,4,0,Arlington Pkwy,Paris,Brant,Other,X7367610,detached_home,2024-01-30
+https://st-catharines.listing.ca/611-geneva-st.X7367606.htm#9q-3ei,611 Geneva St,599900,2,3,0,Geneva St,not_provided,St. Catharines,Other,X7367606,detached_home,2024-01-30
+https://port-hope.listing.ca/231-wright-cres.X7367576.htm#9q-3ej,231 Wright Cres,1250000,3,4,0,Wright Cres,Garden Hill,Port Hope,Other,X7367576,detached_home,2024-01-30
+https://guelph.listing.ca/182-york-rd.X7367566.htm#9q-3ek,182 York Rd,549000,1,3,0,York Rd,Two Rivers,Guelph,Other,X7367566,detached_home,2024-01-30
+https://brant.listing.ca/17-gilham-way.X7367528.htm#9q-3el,17 Gilham Way,949995,3,4,0,Gilham Way,Paris,Brant,Other,X7367528,detached_home,2024-01-30
+https://hamilton.listing.ca/2178-highway-6-n-a.X7367504.htm#9q-3em,2178 Highway 6 N/A,2599999,1,3,0,Highway 6 N/A,Rural Flamborough,Hamilton,Other,X7367504,detached_home,2024-01-30
+https://new-tecumseth.listing.ca/1-treetops-blvd.N7367474.htm#9q-3en,1 Treetops Blvd,1169000,4,4,0,Treetops Blvd,Alliston,New Tecumseth,Other,N7367474,detached_home,2024-01-30
+https://penetanguishene.listing.ca/23-maria-st.S7367634.htm#9q-3eo,23 Maria St,549000,1,3,0,Maria St,Penetanguishene,Penetanguishene,Other,S7367634,detached_home,2024-01-30
+https://clearview.listing.ca/794095-county-124-rd.S7367540.htm#9q-3ep,794095 County 124 Rd,470000,3,3,2,County 124 Rd,Singhampton,Clearview,Other,S7367540,detached_home,2024-01-30
+https://tay.listing.ca/1160-wood-rd.S7367470.htm#9q-3eq,1160 Wood Rd,1499000,3,3,2,Wood Rd,Rural Tay,Tay,Other,S7367470,detached_home,2024-01-30
+https://clarington.listing.ca/1980-concession-rd-10-rd.E7367546.htm#9q-3er,1980 Concession Rd 10 Rd,3499000,4,5,0,Concession Rd 10 Rd,Rural Clarington,Clarington,Durham Region,E7367546,detached_home,2024-01-30
+https://caledon.listing.ca/52-stowmarket-st.W7367386.htm#9q-3es,52 Stowmarket St,1659990,6,5,0,Stowmarket St,Rural Caledon,Caledon,Peel Region,W7367386,detached_home,2024-01-30
+https://toronto.listing.ca/3-tedder-st.W7367276.htm#9q-3et,3 Tedder St,1650000,4,3,1,Tedder St,Brookhaven-Amesbury,Toronto,Toronto,W7367276,detached_home,2024-01-30
+https://caledon.listing.ca/14782-heart-lake-rd.W7367264.htm#9q-3eu,14782 Heart Lake Rd,2199000,3,4,0,Heart Lake Rd,Rural Caledon,Caledon,Peel Region,W7367264,detached_home,2024-01-30
+https://brampton.listing.ca/28-golden-eagle-rd.W7366876.htm#9q-3ev,28 Golden Eagle Rd,1449999,5,4,3,Golden Eagle Rd,Sandringham-Wellington,Brampton,Peel Region,W7366876,detached_home,2024-01-30
+https://woodstock.listing.ca/117-birdie-crt.X7367406.htm#9q-3ew,117 Birdie Crt,1249999,5,5,0,Birdie Crt,not_provided,Woodstock,Other,X7367406,detached_home,2024-01-30
+https://shelburne.listing.ca/59-leanne-ln-lane.X7367316.htm#9q-3ex,59 Leanne Ln Lane,1349000,6,6,0,Leanne Ln Lane,Shelburne,Shelburne,Other,X7367316,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/70-beach-rd.X7367278.htm#9q-3ey,70 Beach Rd,949999,1,3,0,Beach Rd,Little Britain,Kawartha Lakes,Other,X7367278,detached_home,2024-01-30
+https://brockton.listing.ca/1-westfield-st.X7367256.htm#9q-3ez,1 Westfield St,719000,3,3,0,Westfield St,not_provided,Brockton,Other,X7367256,detached_home,2024-01-30
+https://hamilton.listing.ca/12-avery-circ.X7367246.htm#9q-3f0,12 Avery Circ,1999000,4,4,2,Avery Circ,Winona Park,Hamilton,Other,X7367246,detached_home,2024-01-30
+https://niagara-falls.listing.ca/4816-saint-clair-ave.X7367202.htm#9q-3f1,4816 Saint Clair Ave,1185000,4,4,1,Saint Clair Ave,not_provided,Niagara Falls,Other,X7367202,detached_home,2024-01-30
+https://london.listing.ca/184-simcoe-st.X7367166.htm#9q-3f2,184 Simcoe St,1299000,4,4,1,Simcoe St,not_provided,London,Other,X7367166,detached_home,2024-01-30
+https://prince-edward-county.listing.ca/191-county-rd-20-rd.X7367158.htm#9q-3f3,191 County Rd 20 Rd,2750000,2,3,0,County Rd 20 Rd,Hillier,Prince Edward County,Other,X7367158,detached_home,2024-01-30
+https://brantford.listing.ca/52-pace-ave.X7367144.htm#9q-3f4,52 Pace Ave,1199000,4,5,0,Pace Ave,not_provided,Brantford,Other,X7367144,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/28-rhodes-ave.X7367110.htm#9q-3f5,28 Rhodes Ave,725000,2,3,0,Rhodes Ave,Rural Mariposa,Kawartha Lakes,Other,X7367110,detached_home,2024-01-30
+https://blue-mountains.listing.ca/123-maple-lane.X7367090.htm#9q-3f6,123 Maple Lane,3300000,1,3,0,Maple Lane,Blue Mountain Resort Area,Blue Mountains,Other,X7367090,detached_home,2024-01-30
+https://hamilton.listing.ca/63-sherwood-rise.X7367022.htm#9q-3f7,63 Sherwood Rise,799900,2,3,0,Sherwood Rise,Sherwood,Hamilton,Other,X7367022,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/10-albert-st.X7367020.htm#9q-3f8,10 Albert St,470000,2,3,0,Albert St,Lindsay,Kawartha Lakes,Other,X7367020,detached_home,2024-01-30
+https://niagara-falls.listing.ca/4718-jepson-st.X7366998.htm#9q-3f9,4718 Jepson St,499000,1,3,0,Jepson St,not_provided,Niagara Falls,Other,X7366998,detached_home,2024-01-30
+https://kitchener.listing.ca/321-forest-creek-dr.X7366906.htm#9q-3fa,321 Forest Creek Dr,1775000,4,4,0,Forest Creek Dr,not_provided,Kitchener,Other,X7366906,detached_home,2024-01-30
+https://thorold.listing.ca/116-collier-rd.X7366784.htm#9q-3fb,116 Collier Rd,699990,2,3,2,Collier Rd,not_provided,Thorold,Other,X7366784,detached_home,2024-01-30
+https://st-catharines.listing.ca/50-ker-st.X7366778.htm#9q-3fc,50 Ker St,510000,1,3,0,Ker St,not_provided,St. Catharines,Other,X7366778,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/2780-highway-35-n-a.X7366776.htm#9q-3fd,2780 Highway 35 N/A,599000,1,2,0,Highway 35 N/A,Rural Ops,Kawartha Lakes,Other,X7366776,detached_home,2024-01-30
+https://mono.listing.ca/26-hawthorne-rd.X7366696.htm#9q-3fe,26 Hawthorne Rd,1199000,4,3,1,Hawthorne Rd,Rural Mono,Mono,Other,X7366696,detached_home,2024-01-30
+https://east-luther-grand-valley.listing.ca/3-stuckey-lane.X7366604.htm#9q-3ff,3 Stuckey Lane,999900,3,4,0,Stuckey Lane,Grand Valley,East Luther Grand Valley,Other,X7366604,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/321-victoria-ave.X7366570.htm#9q-3fg,321 Victoria Ave,639000,3,2,2,Victoria Ave,Lindsay,Kawartha Lakes,Other,X7366570,detached_home,2024-01-30
+https://brant.listing.ca/30-george-brier-dr.X7366558.htm#9q-3fh,30 George Brier Dr,999900,3,4,2,George Brier Dr,Paris,Brant,Other,X7366558,detached_home,2024-01-30
+https://north-kawartha.listing.ca/2276-county-road-620-n-a.X7366524.htm#9q-3fi,2276 County Road 620 N/A,469000,1,3,0,County Road 620 N/A,Rural North Kawartha,North Kawartha,Other,X7366524,detached_home,2024-01-30
+https://prince-edward-county.listing.ca/10-barker-st.X7366392.htm#9q-3fj,10 Barker St,624900,2,3,0,Barker St,Picton,Prince Edward County,Other,X7366392,detached_home,2024-01-30
+https://kawartha-lakes.listing.ca/15-patrick-st.X7366350.htm#9q-3fk,15 Patrick St,1350000,5,7,4,Patrick St,Kirkfield,Kawartha Lakes,Other,X7366350,detached_home,2024-01-30
+https://barrie.listing.ca/41-oakridge-dr.S7367272.htm#9q-3fl,41 Oakridge Dr,920000,4,4,0,Oakridge Dr,Sunnidale,Barrie,Other,S7367272,detached_home,2024-01-30
+https://collingwood.listing.ca/20-trails-end.S7367146.htm#9q-3fm,20 Trails End,2298000,3,3,3,Trails End,Collingwood,Collingwood,Other,S7367146,detached_home,2024-01-30
+https://wasaga-beach.listing.ca/32-nicort-rd.S7366688.htm#9q-3fn,32 Nicort Rd,948000,4,4,0,Nicort Rd,Wasaga Beach,Wasaga Beach,Other,S7366688,detached_home,2024-01-30
+https://barrie.listing.ca/36-osprey-ridge-rd-rdge.S7366624.htm#9q-3fo,36 Osprey Ridge Rd Rdge,1149000,3,3,3,Osprey Ridge Rd Rdge,Little Lake,Barrie,Other,S7366624,detached_home,2024-01-30
+https://wasaga-beach.listing.ca/6-carruthers-st.S7366334.htm#9q-3fp,6 Carruthers St,359000,1,2,0,Carruthers St,Wasaga Beach,Wasaga Beach,Other,S7366334,detached_home,2024-01-30
+https://east-gwillimbury.listing.ca/127-samuel-lount-rd.N7367262.htm#9q-3fq,127 Samuel Lount Rd,1799000,4,4,1,Samuel Lount Rd,Holland Landing,East Gwillimbury,York Region,N7367262,detached_home,2024-01-30
+https://innisfil.listing.ca/1538-farrow-cres.N7367208.htm#9q-3fr,1538 Farrow Cres,1158000,3,3,1,Farrow Cres,Rural Innisfil,Innisfil,Other,N7367208,detached_home,2024-01-30
+https://innisfil.listing.ca/9-corner-brook-tr.N7367142.htm#9q-3fs,9 Corner Brook Tr,329900,2,2,0,Corner Brook Tr,Rural Innisfil,Innisfil,Other,N7367142,detached_home,2024-01-30
+https://new-tecumseth.listing.ca/146-cunningham-dr.N7366704.htm#9q-3ft,146 Cunningham Dr,879000,2,3,1,Cunningham Dr,Alliston,New Tecumseth,Other,N7366704,detached_home,2024-01-30
+https://uxbridge.listing.ca/475-cragg-rd.N7366684.htm#9q-3fu,475 Cragg Rd,1799900,3,3,1,Cragg Rd,Uxbridge,Uxbridge,Durham Region,N7366684,detached_home,2024-01-30
+https://east-gwillimbury.listing.ca/47-maplehyrn-ave.N7366340.htm#9q-3fv,47 Maplehyrn Ave,2499000,4,3,3,Maplehyrn Ave,Sharon,East Gwillimbury,York Region,N7366340,detached_home,2024-01-30
+https://wasaga-beach.listing.ca/115-24th-st.S7366964.htm#9q-3fw,115 24th St,888888,1,2,0,24th St,Wasaga Beach,Wasaga Beach,Other,S7366964,detached_home,2024-01-30
+https://ajax.listing.ca/899-finley-ave.E7366450.htm#9q-3fx,899 Finley Ave,1130000,3,3,0,Finley Ave,South West,Ajax,Durham Region,E7366450,detached_home,2024-01-30
+https://burlington.listing.ca/378-torrance-st.W7366312.htm#9q-3fy,378 Torrance St,1200000,3,3,0,Torrance St,Brant,Burlington,Halton Region,W7366312,detached_home,2024-01-30
+https://southgate.listing.ca/220245-southgate-rd-22.X7366324.htm#9q-3fz,220245 Southgate Rd. 22,1399900,4,5,2,Southgate Rd. 22,Rural Southgate,Southgate,Other,X7366324,detached_home,2024-01-30
+https://cambridge.listing.ca/55-beauchamp-dr.X7366240.htm#9q-3g0,55 Beauchamp Dr,1150000,4,4,2,Beauchamp Dr,not_provided,Cambridge,Other,X7366240,detached_home,2024-01-30
+https://quinte-west.listing.ca/824-trenton-frankford-rd.X7366184.htm#9q-3g1,824 Trenton Frankford Rd,985000,3,3,1,Trenton Frankford Rd,not_provided,Quinte West,Other,X7366184,detached_home,2024-01-30
+https://blue-mountains.listing.ca/104-ridgeview-dr.X7366168.htm#9q-3g2,104 Ridgeview Dr,1199000,1,3,0,Ridgeview Dr,Blue Mountain Resort Area,Blue Mountains,Other,X7366168,detached_home,2024-01-30
+https://toronto.listing.ca/33-norlong-blvd.E7366304.htm#9q-3g3,33 Norlong Blvd,2349900,4,4,1,Norlong Blvd,East York,Toronto,Toronto,E7366304,detached_home,2024-01-30
+https://orillia.listing.ca/8698-highway-12-n-a.S7366328.htm#9q-3g4,8698 Highway 12 N/A,6500000,6,6,1,Highway 12 N/A,Orillia,Orillia,Other,S7366328,detached_home,2024-01-30
+https://newmarket.listing.ca/399-flanagan-crt.N7366186.htm#9q-3g5,399 Flanagan Crt,1299900,4,4,1,Flanagan Crt,Summerhill Estates,Newmarket,York Region,N7366186,detached_home,2024-01-30
+https://pickering.listing.ca/1915-spruce-hill-rd.E7366238.htm#9q-3g6,1915 Spruce Hill Rd,2499000,3,4,1,Spruce Hill Rd,Dunbarton,Pickering,Durham Region,E7366238,detached_home,2024-01-30
+https://hamilton.listing.ca/47-heathfield-cres.X7366094.htm#9q-3g7,47 Heathfield Cres,979000,3,3,0,Heathfield Cres,Waterdown,Hamilton,Other,X7366094,detached_home,2024-01-30
+https://brampton.listing.ca/60-newgreen-cres.W7366132.htm#9q-3g8,60 Newgreen Cres,1349900,4,4,0,Newgreen Cres,Westgate,Brampton,Peel Region,W7366132,detached_home,2024-01-30
+https://georgina.listing.ca/16-valleo-st.N7366098.htm#9q-3g9,16 Valleo St,1249900,3,4,0,Valleo St,Keswick North,Georgina,York Region,N7366098,detached_home,2024-01-30
+https://toronto.listing.ca/51-allview-cres.C7366148.htm#9q-3ga,51 Allview Cres,1829000,2,3,1,Allview Cres,Bayview Village,Toronto,Toronto,C7366148,detached_home,2024-01-30
+https://waterloo.listing.ca/548-wasaga-cres.X7365992.htm#9q-3gb,548 Wasaga Cres,1689000,5,4,1,Wasaga Cres,not_provided,Waterloo,Other,X7365992,detached_home,2024-01-30
+https://grimsby.listing.ca/44-lorne-ave.X7365950.htm#9q-3gc,44 Lorne Ave,849900,2,3,1,Lorne Ave,not_provided,Grimsby,Other,X7365950,detached_home,2024-01-30
+https://grimsby.listing.ca/310-ridge-rd.X7365916.htm#9q-3gd,310 Ridge Rd,1895000,1,4,0,Ridge Rd,not_provided,Grimsby,Other,X7365916,detached_home,2024-01-30
+https://brant.listing.ca/2-jenner-dr.X7365878.htm#9q-3ge,2 Jenner Dr,895000,3,4,0,Jenner Dr,Paris,Brant,Other,X7365878,detached_home,2024-01-30
+https://haldimand.listing.ca/1-forest-valy.X7365846.htm#9q-3gf,1 Forest Valy,349900,2,3,0,Forest Valy,Nanticoke,Haldimand,Other,X7365846,detached_home,2024-01-30
+https://centre-wellington.listing.ca/810-st-george-st.X7365798.htm#9q-3gg,810 St. George St,1189900,3,3,0,St. George St,Fergus,Centre Wellington,Other,X7365798,detached_home,2024-01-30
+https://bonnechere-valley.listing.ca/104-queen-st.X7365730.htm#9q-3gh,104 Queen St,339000,1,2,0,Queen St,not_provided,Bonnechere Valley,Other,X7365730,detached_home,2024-01-30
+https://belleville.listing.ca/526-moira-st.X7365726.htm#9q-3gi,526 Moira St,950000,3,2,2,Moira St,not_provided,Belleville,Other,X7365726,detached_home,2024-01-30
+https://port-colborne.listing.ca/163-kent-st.X7365696.htm#9q-3gk,163 Kent St,465000,1,2,1,Kent St,not_provided,Port Colborne,Other,X7365696,detached_home,2024-01-30
+https://welland.listing.ca/47-hildred-st.X7365540.htm#9q-3gl,47 Hildred St,809900,4,4,0,Hildred St,not_provided,Welland,Other,X7365540,detached_home,2024-01-30
+https://hamilton.listing.ca/109-wimberly-ave.X7365496.htm#9q-3gm,109 Wimberly Ave,1419000,4,4,2,Wimberly Ave,Waterdown,Hamilton,Other,X7365496,detached_home,2024-01-30
+https://mississauga.listing.ca/1322-minaki-rd.W7365922.htm#9q-3gn,1322 Minaki Rd,4825000,7,5,0,Minaki Rd,Mineola,Mississauga,Peel Region,W7365922,detached_home,2024-01-30
+https://brampton.listing.ca/36-smye-crt.W7365720.htm#9q-3go,36 Smye Crt,1279000,4,4,2,Smye Crt,Northwood Park,Brampton,Peel Region,W7365720,detached_home,2024-01-30
+https://mississauga.listing.ca/1750-lincolnshire-blvd.W7365510.htm#9q-3gp,1750 Lincolnshire Blvd,3990000,7,4,2,Lincolnshire Blvd,Lakeview,Mississauga,Peel Region,W7365510,detached_home,2024-01-30
+https://burlington.listing.ca/1052-dovercourt-ave.W7348630.htm#9q-3gq,1052 Dovercourt Ave,899900,2,3,1,Dovercourt Ave,LaSalle,Burlington,Halton Region,W7348630,detached_home,2024-01-30
+https://markham.listing.ca/81-livante-crt.N7365706.htm#9q-3gr,81 Livante Crt,2320000,4,5,1,Livante Crt,Victoria Square,Markham,York Region,N7365706,detached_home,2024-01-30
+https://east-gwillimbury.listing.ca/65-manor-forest-rd.N7365620.htm#9q-3gs,65 Manor Forest Rd,1575000,4,4,0,Manor Forest Rd,Mt Albert,East Gwillimbury,York Region,N7365620,detached_home,2024-01-30
+https://toronto.listing.ca/15-derwyn-rd.E7365998.htm#9q-3gt,15 Derwyn Rd,999999,2,3,1,Derwyn Rd,East York,Toronto,Toronto,E7365998,detached_home,2024-01-30
+https://belleville.listing.ca/80-hampton-ridge-dr.X7365432.htm#9q-3gu,80 Hampton Ridge Dr,799999,3,4,0,Hampton Ridge Dr,not_provided,Belleville,Other,X7365432,detached_home,2024-01-30
+https://london.listing.ca/1314-elson-rd.X7365254.htm#9q-3gv,1314 Elson Rd,799900,3,3,0,Elson Rd,not_provided,London,Other,X7365254,detached_home,2024-01-30
+https://hamilton.listing.ca/68-harvey-st.X7365202.htm#9q-3gw,68 Harvey St,549000,1,3,0,Harvey St,Gibson,Hamilton,Other,X7365202,detached_home,2024-01-30
+https://fort-erie.listing.ca/2505-stevensville-rd.X7365152.htm#9q-3gx,2505 Stevensville Rd,655000,2,4,0,Stevensville Rd,not_provided,Fort Erie,Other,X7365152,detached_home,2024-01-30
+https://hamilton.listing.ca/256-barton-st.X7365132.htm#9q-3gy,256 Barton St,937700,2,4,0,Barton St,Stoney Creek,Hamilton,Other,X7365132,detached_home,2024-01-30
+https://havelock-belmont-methuen.listing.ca/102-concession-st.X7365126.htm#9q-3gz,102 Concession St,574900,2,3,0,Concession St,Havelock,Havelock-Belmont-Methuen,Other,X7365126,detached_home,2024-01-30
+https://hamilton.listing.ca/310-celtic-dr.X7365092.htm#9q-3h0,310 Celtic Dr,769000,2,3,0,Celtic Dr,Stoney Creek,Hamilton,Other,X7365092,detached_home,2024-01-30
