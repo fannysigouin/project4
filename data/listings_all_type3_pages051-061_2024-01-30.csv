@@ -1,0 +1,202 @@
+url,address,price,baths,beds,dens,street,neighbourhood,city,area,mls_id,property_type,date_scraped
+https://niagara-falls.listing.ca/7276-optimist-lane-15.X7264840.htm#2r-rt,7276 Optimist Lane 15,799000,2,2,0,Optimist Lane,not_provided,Niagara Falls,Other,X7264840,condo_townhome,2024-01-30
+https://guelph.listing.ca/85-mullin-dr-1b.X7264254.htm#2r-ru,85 Mullin Dr 1B,617500,2,2,0,Mullin Dr,Brant,Guelph,Other,X7264254,condo_townhome,2024-01-30
+https://guelph.listing.ca/186-law-dr-34.X7263912.htm#2r-rv,186 Law Dr 34,699900,3,2,0,Law Dr,Grange Hill East,Guelph,Other,X7263912,condo_townhome,2024-01-30
+https://kitchener.listing.ca/51-paulander-dr-51.X7262402.htm#2r-rw,51 Paulander Dr 51,624900,2,3,0,Paulander Dr,not_provided,Kitchener,Other,X7262402,condo_townhome,2024-01-30
+https://mississauga.listing.ca/220-forum-dr-th-111.W7269504.htm#2r-rx,220 Forum Dr Th#111,679900,3,3,0,Forum Dr,Hurontario,Mississauga,Peel Region,W7269504,condo_townhome,2024-01-30
+https://toronto.listing.ca/721-lawrence-ave-66.W7268142.htm#2r-ry,721 Lawrence Ave 66,899000,2,3,0,Lawrence Ave,Yorkdale-Glen Park,Toronto,Toronto,W7268142,condo_townhome,2024-01-30
+https://brampton.listing.ca/200-veterans-dr-90.W7267392.htm#2r-rz,200 Veterans Dr 90,749000,3,3,0,Veterans Dr,Brampton North,Brampton,Peel Region,W7267392,condo_townhome,2024-01-30
+https://toronto.listing.ca/26-fieldway-rd-42.W7267080.htm#2r-s0,26 Fieldway Rd 42,579000,1,1,1,Fieldway Rd,Islington-City Centre West,Toronto,Toronto,W7267080,condo_townhome,2024-01-30
+https://toronto.listing.ca/28-fieldway-rd-53.W7267022.htm#2r-s1,28 Fieldway Rd 53,649900,1,2,0,Fieldway Rd,Islington-City Centre West,Toronto,Toronto,W7267022,condo_townhome,2024-01-30
+https://oakville.listing.ca/2464-post-rd-15.W7265540.htm#2r-s2,2464 Post Rd 15,649000,2,2,0,Post Rd,River Oaks,Oakville,Halton Region,W7265540,condo_townhome,2024-01-30
+https://mississauga.listing.ca/4975-southampton-dr-271.W7265504.htm#2r-s3,4975 Southampton Dr 271,649000,2,2,0,Southampton Dr,Churchill Meadows,Mississauga,Peel Region,W7265504,condo_townhome,2024-01-30
+https://oakville.listing.ca/39-hays-blvd-6.W7264346.htm#2r-s4,39 Hays Blvd 6,694900,2,2,0,Hays Blvd,Uptown Core,Oakville,Halton Region,W7264346,condo_townhome,2024-01-30
+https://mississauga.listing.ca/4005-hickory-dr-th02.W7264300.htm#2r-s5,4005 Hickory Dr Th02,829900,2,2,0,Hickory Dr,Rathwood,Mississauga,Peel Region,W7264300,condo_townhome,2024-01-30
+https://toronto.listing.ca/150-canon-jackson-dr-201.W7263290.htm#2r-s6,150 Canon Jackson Dr 201,974900,3,3,0,Canon Jackson Dr,Brookhaven-Amesbury,Toronto,Toronto,W7263290,condo_townhome,2024-01-30
+https://barrie.listing.ca/17-st-vincent-st-12.S7260238.htm#2r-s7,17 St Vincent St 12,599900,2,3,0,St Vincent St,North Shore,Barrie,Other,S7260238,condo_townhome,2024-01-30
+https://aurora.listing.ca/36-walter-dove-crt-8.N7264162.htm#2r-s8,36 Walter Dove Crt 8,879900,2,2,0,Walter Dove Crt,Bayview Wellington,Aurora,York Region,N7264162,condo_townhome,2024-01-30
+https://toronto.listing.ca/1455-oconnor-dr-25.E7268330.htm#2r-s9,1455 Oconnor Dr 25,858880,3,2,0,Oconnor Dr,O'Connor-Parkview,Toronto,Toronto,E7268330,condo_townhome,2024-01-30
+https://toronto.listing.ca/861-sheppard-ave-37.C7267654.htm#2r-sa,861 Sheppard Ave 37,849000,2,2,0,Sheppard Ave,Clanton Park,Toronto,Toronto,C7267654,condo_townhome,2024-01-30
+https://toronto.listing.ca/75-curlew-dr-b6.C7265782.htm#2r-sb,75 Curlew Dr B6,1099900,2,2,0,Curlew Dr,Parkwoods-Donalda,Toronto,Toronto,C7265782,condo_townhome,2024-01-30
+https://toronto.listing.ca/75-curlew-dr-b23.C7264632.htm#2r-sc,75 Curlew Dr B23,1299900,3,3,0,Curlew Dr,Parkwoods-Donalda,Toronto,Toronto,C7264632,condo_townhome,2024-01-30
+https://barrie.listing.ca/430-mapleview-dr-21.S7258092.htm#2r-sd,430 Mapleview Dr 21,599900,2,3,0,Mapleview Dr,Painswick South,Barrie,Other,S7258092,condo_townhome,2024-01-30
+https://vaughan.listing.ca/180-blue-willow-dr-43.N7258896.htm#2r-se,180 Blue Willow Dr 43,955000,3,3,0,Blue Willow Dr,East Woodbridge,Vaughan,York Region,N7258896,condo_townhome,2024-01-30
+https://new-tecumseth.listing.ca/142-green-briar-rd.N7258882.htm#2r-sf,142 Green Briar Rd,599000,2,1,0,Green Briar Rd,Rural New Tecumseth,New Tecumseth,Other,N7258882,condo_townhome,2024-01-30
+https://newmarket.listing.ca/26-lytham-green-circ-24.N7257732.htm#2r-sg,26 Lytham Green Circ 24,749900,2,2,0,Lytham Green Circ,Glenway Estates,Newmarket,York Region,N7257732,condo_townhome,2024-01-30
+https://markham.listing.ca/90-henderson-ave-10.N7256998.htm#2r-sh,90 Henderson Ave 10,999000,3,3,1,Henderson Ave,Grandview,Markham,York Region,N7256998,condo_townhome,2024-01-30
+https://vaughan.listing.ca/31-honeycrisp-cres.N7256544.htm#2r-si,31 Honeycrisp Cres,849900,3,3,0,Honeycrisp Cres,Vaughan Corporate Centre,Vaughan,York Region,N7256544,condo_townhome,2024-01-30
+https://toronto.listing.ca/10-wilby-cres-103.W7255970.htm#2r-sj,10 Wilby Cres 103,980900,2,3,0,Wilby Cres,Weston,Toronto,Toronto,W7255970,condo_townhome,2024-01-30
+https://hamilton.listing.ca/484-millen-rd-15.X7253026.htm#2r-sk,484 Millen Rd 15,999997,3,2,0,Millen Rd,Lakeshore,Hamilton,Other,X7253026,condo_townhome,2024-01-30
+https://mississauga.listing.ca/525-meadows-blvd-31.W7252852.htm#2r-sl,525 Meadows Blvd 31,899999,3,3,0,Meadows Blvd,Rathwood,Mississauga,Peel Region,W7252852,condo_townhome,2024-01-30
+https://mississauga.listing.ca/1330-mississauga-valley-blvd-37.W7252808.htm#2r-sm,1330 Mississauga Valley Blvd 37,799900,3,3,0,Mississauga Valley Blvd,Mississauga Valleys,Mississauga,Peel Region,W7252808,condo_townhome,2024-01-30
+https://richmond-hill.listing.ca/1000-elgin-mills-rd-809.N7254748.htm#2r-sn,1000 Elgin Mills Rd 809,899000,3,3,0,Elgin Mills Rd,Rural Richmond Hill,Richmond Hill,York Region,N7254748,condo_townhome,2024-01-30
+https://vaughan.listing.ca/18-clark-ave-29.N7253634.htm#2r-so,18 Clark Ave 29,1188800,4,3,0,Clark Ave,Crestwood-Springfarm-Yorkhill,Vaughan,York Region,N7253634,condo_townhome,2024-01-30
+https://oakville.listing.ca/2485-taunton-rd-114.W7250600.htm#2r-sp,2485 Taunton Rd 114,925999,3,2,0,Taunton Rd,Uptown Core,Oakville,Halton Region,W7250600,condo_townhome,2024-01-30
+https://guelph.listing.ca/11-lily-lane.X7248490.htm#2r-sq,11 Lily Lane,679900,3,3,0,Lily Lane,Clairfields,Guelph,Other,X7248490,condo_townhome,2024-01-30
+https://richmond-hill.listing.ca/6-sayers-lane-5.N7248246.htm#2r-sr,6 Sayers Lane 5,879000,3,2,0,Sayers Lane,Oak Ridges,Richmond Hill,York Region,N7248246,condo_townhome,2024-01-30
+https://oshawa.listing.ca/43-taunton-rd-45.E7247690.htm#2r-ss,43 Taunton Rd 45,499000,2,3,0,Taunton Rd,Centennial,Oshawa,Durham Region,E7247690,condo_townhome,2024-01-30
+https://mississauga.listing.ca/5055-heatherleigh-ave-27.W7247338.htm#2r-st,5055 Heatherleigh Ave 27,999000,3,3,1,Heatherleigh Ave,East Credit,Mississauga,Peel Region,W7247338,condo_townhome,2024-01-30
+https://mississauga.listing.ca/1755-rathburn-rd-94.W7247050.htm#2r-su,1755 Rathburn Rd 94,1299888,3,3,1,Rathburn Rd,Rathwood,Mississauga,Peel Region,W7247050,condo_townhome,2024-01-30
+https://newmarket.listing.ca/11-lytham-green-circ-222.N7247448.htm#2r-sv,11 Lytham Green Circ 222,765000,2,2,0,Lytham Green Circ,Glenway Estates,Newmarket,York Region,N7247448,condo_townhome,2024-01-30
+https://richmond-hill.listing.ca/8-sayers-lane-12.N7246926.htm#2r-sw,8 Sayers Lane 12,925000,3,3,0,Sayers Lane,Oak Ridges,Richmond Hill,York Region,N7246926,condo_townhome,2024-01-30
+https://guelph.listing.ca/15-carere-cres-15b.X7243268.htm#2r-sx,15 Carere Cres 15B,560000,2,2,0,Carere Cres,Brant,Guelph,Other,X7243268,condo_townhome,2024-01-30
+https://toronto.listing.ca/8835-sheppard-ave-210.E7241460.htm#2r-sy,8835 Sheppard Ave 210,648800,2,2,1,Sheppard Ave,Rouge E11,Toronto,Toronto,E7241460,condo_townhome,2024-01-30
+https://uxbridge.listing.ca/42-bill-knowles-st-42.N7240518.htm#2r-sz,42 Bill Knowles St 42,1075000,3,2,0,Bill Knowles St,Uxbridge,Uxbridge,Durham Region,N7240518,condo_townhome,2024-01-30
+https://hamilton.listing.ca/11-harrisford-st-99.X7239516.htm#2r-t0,11 Harrisford St 99,579500,2,3,1,Harrisford St,Red Hill,Hamilton,Other,X7239516,condo_townhome,2024-01-30
+https://out-of-area.listing.ca/8029-vedette-dr.X7238794.htm#2r-t1,8029 Vedette Dr,469900,3,2,0,Vedette Dr,not_provided,Out of Area,Other,X7238794,condo_townhome,2024-01-30
+https://vaughan.listing.ca/31-honeycrisp-cres-60.N7238804.htm#2r-t2,31 Honeycrisp Cres 60,795000,3,2,0,Honeycrisp Cres,Vaughan Corporate Centre,Vaughan,York Region,N7238804,condo_townhome,2024-01-30
+https://toronto.listing.ca/118-finch-ave-34.C7238598.htm#2r-t3,118 Finch Ave 34,848800,3,3,0,Finch Ave,Newtonbrook West,Toronto,Toronto,C7238598,condo_townhome,2024-01-30
+https://newmarket.listing.ca/754-wendy-culbert-cres.N7238430.htm#2r-t4,754 Wendy Culbert Cres,1018000,3,3,0,Wendy Culbert Cres,Stonehaven-Wyndham,Newmarket,York Region,N7238430,condo_townhome,2024-01-30
+https://ajax.listing.ca/135-deacon-lane-135.E7237586.htm#2r-t5,135 Deacon Lane 135,785000,3,4,1,Deacon Lane,South East,Ajax,Durham Region,E7237586,condo_townhome,2024-01-30
+https://central-elgin.listing.ca/374-front-st-46.X7236500.htm#2r-t6,374 Front St 46,824900,3,2,0,Front St,not_provided,Central Elgin,Other,X7236500,condo_townhome,2024-01-30
+https://london.listing.ca/1090-kipps-lane-179.X7236394.htm#2r-t7,1090 Kipps Lane 179,299900,1,2,0,Kipps Lane,not_provided,London,Other,X7236394,condo_townhome,2024-01-30
+https://kenora-remote-area.listing.ca/2791-pipestone-peninsula-n-a-6.X6640690.htm#2r-t8,2791 Pipestone Peninsula N/A 6,249000,2,3,0,Pipestone Peninsula N/A,not_provided,Kenora Remote Area,Other,X6640690,condo_townhome,2024-01-30
+https://oro-medonte.listing.ca/90-highland-dr-2240-41.S7236224.htm#2r-t9,90 Highland Dr 2240-41,659000,2,2,0,Highland Dr,Horseshoe Valley,Oro-Medonte,Other,S7236224,condo_townhome,2024-01-30
+https://north-kawartha.listing.ca/1579-anstruther-lake-rd-7.X7235176.htm#2r-ta,1579 Anstruther Lake Rd 7,575000,2,2,0,Anstruther Lake Rd,Rural North Kawartha,North Kawartha,Other,X7235176,condo_townhome,2024-01-30
+https://welland.listing.ca/125-woodlawn-rd-17.X7235068.htm#2r-tb,125 Woodlawn Rd 17,589000,3,4,1,Woodlawn Rd,not_provided,Welland,Other,X7235068,condo_townhome,2024-01-30
+https://vaughan.listing.ca/5289-highway-7-d1203.N7234984.htm#2r-tc,5289 Highway 7 D1203,769900,3,2,0,Highway 7,Vaughan Grove,Vaughan,York Region,N7234984,condo_townhome,2024-01-30
+https://toronto.listing.ca/1455-oconnor-dr-10.E7235316.htm#2r-td,1455 Oconnor Dr 10,1299900,3,2,1,Oconnor Dr,O'Connor-Parkview,Toronto,Toronto,E7235316,condo_townhome,2024-01-30
+https://london.listing.ca/925-lawson-rd-12.X7233010.htm#2r-te,925 Lawson Rd 12,439900,2,3,0,Lawson Rd,not_provided,London,Other,X7233010,condo_townhome,2024-01-30
+https://brampton.listing.ca/100-dufay-rd-53.W7233036.htm#2r-tf,100 Dufay Rd 53,779000,2,2,0,Dufay Rd,Northwest Brampton,Brampton,Peel Region,W7233036,condo_townhome,2024-01-30
+https://collingwood.listing.ca/8-barker-blvd.S7232572.htm#2r-tg,8 Barker Blvd,799000,3,3,0,Barker Blvd,Collingwood,Collingwood,Other,S7232572,condo_townhome,2024-01-30
+https://ramara.listing.ca/100-laguna-pkwy-3.S7232038.htm#2r-th,100 Laguna Pkwy 3,564900,4,2,0,Laguna Pkwy,Brechin,Ramara,Other,S7232038,condo_townhome,2024-01-30
+https://new-tecumseth.listing.ca/210-greenbriar-rd.N7232110.htm#2r-ti,210 Greenbriar Rd,659000,4,2,0,Greenbriar Rd,Alliston,New Tecumseth,Other,N7232110,condo_townhome,2024-01-30
+https://toronto.listing.ca/130-ling-rd-76.E7232474.htm#2r-tj,130 Ling Rd 76,589000,1,3,0,Ling Rd,West Hill,Toronto,Toronto,E7232474,condo_townhome,2024-01-30
+https://mississauga.listing.ca/1128-dundas-st-92.W7230954.htm#2r-tk,1128 Dundas St 92,879900,3,3,0,Dundas St,Erindale,Mississauga,Peel Region,W7230954,condo_townhome,2024-01-30
+https://toronto.listing.ca/4140-lawrence-ave-14.E7229852.htm#2r-tl,4140 Lawrence Ave 14,658000,2,3,1,Lawrence Ave,West Hill,Toronto,Toronto,E7229852,condo_townhome,2024-01-30
+https://belleville.listing.ca/16-lane-ave-2.X7228352.htm#2r-tm,16 Lane Ave 2,520000,3,2,1,Lane Ave,not_provided,Belleville,Other,X7228352,condo_townhome,2024-01-30
+https://cambridge.listing.ca/350-fisher-mills-rd-63.X7227138.htm#2r-tn,350 Fisher Mills Rd # 63,629999,3,3,1,Fisher Mills Rd,not_provided,Cambridge,Other,X7227138,condo_townhome,2024-01-30
+https://cobourg.listing.ca/120-university-ave-102.X7226980.htm#2r-to,120 University Ave 102,669999,4,1,1,University Ave,Cobourg,Cobourg,Other,X7226980,condo_townhome,2024-01-30
+https://toronto.listing.ca/581-scarlett-rd-1.W7226714.htm#2r-tp,581 Scarlett Rd 1,1249000,4,3,0,Scarlett Rd,Humber Heights,Toronto,Toronto,W7226714,condo_townhome,2024-01-30
+https://new-tecumseth.listing.ca/76-riverview-rd.N7224454.htm#2r-tq,76 Riverview Rd,749000,3,2,0,Riverview Rd,Rural New Tecumseth,New Tecumseth,Other,N7224454,condo_townhome,2024-01-30
+https://oro-medonte.listing.ca/90-highland-dr-2006.S7223208.htm#2r-tr,90 Highland Dr 2006,637999,2,2,0,Highland Dr,Shanty Bay,Oro-Medonte,Other,S7223208,condo_townhome,2024-01-30
+https://grimsby.listing.ca/8-lakelawn-rd-28.X7222166.htm#2r-ts,8 Lakelawn Rd 28,724900,3,3,0,Lakelawn Rd,not_provided,Grimsby,Other,X7222166,condo_townhome,2024-01-30
+https://niagara-falls.listing.ca/5727-kalar-rd-1.X7221458.htm#2r-tt,5727 Kalar Rd 1,649900,3,3,1,Kalar Rd,not_provided,Niagara Falls,Other,X7221458,condo_townhome,2024-01-30
+https://richmond-hill.listing.ca/1000-elgin-mills-rd-604.N7221792.htm#2r-tu,1000 Elgin Mills Rd 604,818800,3,2,0,Elgin Mills Rd,Crosby,Richmond Hill,York Region,N7221792,condo_townhome,2024-01-30
+https://toronto.listing.ca/1357-neilson-rd-80.E7221276.htm#2r-tv,1357 Neilson Rd 80,638000,1,2,1,Neilson Rd,Malvern,Toronto,Toronto,E7221276,condo_townhome,2024-01-30
+https://kitchener.listing.ca/388-old-huron-rd-5d.X7220156.htm#2r-tw,388 Old Huron Rd 5D,435000,1,1,0,Old Huron Rd 5D,not_provided,Kitchener,Other,X7220156,condo_townhome,2024-01-30
+https://brampton.listing.ca/39-amarillo-rd.W7220546.htm#2r-tx,39 Amarillo Rd,1225000,4,2,0,Amarillo Rd,Sandringham-Wellington,Brampton,Peel Region,W7220546,condo_townhome,2024-01-30
+https://markham.listing.ca/29-pinehurst-club-way.N7220148.htm#2r-ty,29 Pinehurst Club Way,899000,3,2,1,Pinehurst Club Way,Greensborough,Markham,York Region,N7220148,condo_townhome,2024-01-30
+https://brampton.listing.ca/40-halliford-pl-502-18.W7218890.htm#2r-tz,40 Halliford Pl 502 #18,815000,1,2,0,Halliford Pl,Brampton East,Brampton,Peel Region,W7218890,condo_townhome,2024-01-30
+https://pickering.listing.ca/2635-william-jackson-dr-1102.E7217134.htm#2r-u0,2635 William Jackson Dr 1102,579900,1,1,0,William Jackson Dr,Duffin Heights,Pickering,Durham Region,E7217134,condo_townhome,2024-01-30
+https://pelham.listing.ca/154-port-robinson-rd-85.X7216458.htm#2r-u1,154 Port Robinson Rd 85,999000,3,2,1,Port Robinson Rd,not_provided,Pelham,Other,X7216458,condo_townhome,2024-01-30
+https://hamilton.listing.ca/41-sister-kern-terr.X7215932.htm#2r-u2,41 Sister Kern Terr,619000,2,1,0,Sister Kern Terr,Kennedy,Hamilton,Other,X7215932,condo_townhome,2024-01-30
+https://prince-edward-county.listing.ca/10-natures-lane.X7216668.htm#2r-u3,10 Nature's Lane,299000,2,2,0,Nature's Lane,Athol,Prince Edward County,Other,X7216668,condo_townhome,2024-01-30
+https://guelph.listing.ca/675-victoria-rd-8.X7214506.htm#2r-u4,675 Victoria Rd 8,839000,3,3,0,Victoria Rd,Brant,Guelph,Other,X7214506,condo_townhome,2024-01-30
+https://markham.listing.ca/14-lindisfarne-way-111.N7213414.htm#2r-u5,14 Lindisfarne Way 111,768800,2,3,0,Lindisfarne Way,Markham Village,Markham,York Region,N7213414,condo_townhome,2024-01-30
+https://newmarket.listing.ca/240-davis-dr-289.N7213360.htm#2r-u6,240 Davis Dr 289,999999,3,3,0,Davis Dr,Glenway Estates,Newmarket,York Region,N7213360,condo_townhome,2024-01-30
+https://new-tecumseth.listing.ca/16-parkdale-dr.N7212246.htm#2r-u7,16 Parkdale Dr,579999,2,1,1,Parkdale Dr,Alliston,New Tecumseth,Other,N7212246,condo_townhome,2024-01-30
+https://toronto.listing.ca/871-sheppard-ave-37.C7212324.htm#2r-u8,871 Sheppard Ave 37,899900,3,2,1,Sheppard Ave,Clanton Park,Toronto,Toronto,C7212324,condo_townhome,2024-01-30
+https://toronto.listing.ca/98-carr-st-7.C7210824.htm#2r-u9,98 Carr St 7,749000,1,1,0,Carr St,Kensington-Chinatown,Toronto,Toronto,C7210824,condo_townhome,2024-01-30
+https://brampton.listing.ca/180-howden-blvd-54.W7212890.htm#2r-ua,180 Howden Blvd 54,699000,3,3,0,Howden Blvd,Westgate,Brampton,Peel Region,W7212890,condo_townhome,2024-01-30
+https://blue-mountains.listing.ca/796468-19-grey-road-rd-103.X7210138.htm#2r-ub,796468 19 Grey Road Rd 103,469000,1,1,0,19 Grey Road Rd,Blue Mountain Resort Area,Blue Mountains,Other,X7210138,condo_townhome,2024-01-30
+https://toronto.listing.ca/760-lawrence-ave-90.W7206398.htm#2r-uc,760 Lawrence Ave 90,965000,3,3,0,Lawrence Ave,Yorkdale-Glen Park,Toronto,Toronto,W7206398,condo_townhome,2024-01-30
+https://newmarket.listing.ca/24-lytham-green-circ-14.N7206418.htm#2r-ud,24 Lytham Green Circ 14,1049900,3,3,0,Lytham Green Circ,Glenway Estates,Newmarket,York Region,N7206418,condo_townhome,2024-01-30
+https://vaughan.listing.ca/8315-kipling-ave.N7203318.htm#2r-ue,8315 Kipling Ave,1168800,3,3,1,Kipling Ave,West Woodbridge,Vaughan,York Region,N7203318,condo_townhome,2024-01-30
+https://london.listing.ca/2-cadeau-terr-47.X7065260.htm#2r-uf,2 Cadeau Terr 47,699900,3,3,0,Cadeau Terr,not_provided,London,Other,X7065260,condo_townhome,2024-01-30
+https://mississauga.listing.ca/3472-widdicombe-way-27.W7061404.htm#2r-ug,3472 Widdicombe Way 27,799999,3,2,0,Widdicombe Way,Erin Mills,Mississauga,Peel Region,W7061404,condo_townhome,2024-01-30
+https://grimsby.listing.ca/86-windward-dr.X7060868.htm#2r-uh,86 Windward Dr,895000,3,3,0,Windward Dr,not_provided,Grimsby,Other,X7060868,condo_townhome,2024-01-30
+https://guelph.listing.ca/22-marshall-dr-3.X7058510.htm#2r-ui,22 Marshall Dr 3,750000,3,3,0,Marshall Dr,Grange Hill East,Guelph,Other,X7058510,condo_townhome,2024-01-30
+https://pickering.listing.ca/2517-boston-glen.E7061066.htm#2r-uj,2517 Boston Glen,750000,3,2,0,Boston Glen,Duffin Heights,Pickering,Durham Region,E7061066,condo_townhome,2024-01-30
+https://toronto.listing.ca/36-wild-ginger-way-36.C7060776.htm#2r-uk,36 Wild Ginger Way 36,989995,3,3,0,Wild Ginger Way,Bathurst Manor,Toronto,Toronto,C7060776,condo_townhome,2024-01-30
+https://norfolk.listing.ca/114-richardson-dr-23.X7055224.htm#2r-ul,114 Richardson Dr 23,429000,1,3,0,Richardson Dr,Norfolk,Norfolk,Other,X7055224,condo_townhome,2024-01-30
+https://toronto.listing.ca/15-brin-dr-5.W7057734.htm#2r-um,15 Brin Dr 5,899900,2,3,0,Brin Dr,Edenbridge-Humber Valley,Toronto,Toronto,W7057734,condo_townhome,2024-01-30
+https://barrie.listing.ca/244-penetanguishene-rd-8.S7055218.htm#2r-un,244 Penetanguishene Rd 8,499900,4,4,0,Penetanguishene Rd,Georgian Drive,Barrie,Other,S7055218,condo_townhome,2024-01-30
+https://milton.listing.ca/8175-britannia-rd-228.W7053334.htm#2r-uo,8175 Britannia Rd 228,775000,2,2,0,Britannia Rd,Cobban,Milton,Halton Region,W7053334,condo_townhome,2024-01-30
+https://toronto.listing.ca/14-london-green-crt-93.W7053142.htm#2r-up,14 London Green Crt 93,724990,2,4,0,London Green Crt,Glenfield-Jane Heights,Toronto,Toronto,W7053142,condo_townhome,2024-01-30
+https://ramara.listing.ca/71-laguna-pkwy-23.S7051672.htm#2r-uq,71 Laguna Pkwy 23,498000,2,3,0,Laguna Pkwy,Brechin,Ramara,Other,S7051672,condo_townhome,2024-01-30
+https://vaughan.listing.ca/11-honeycrisp-cres-23.N7054622.htm#2r-ur,11 Honeycrisp Cres 23,737900,3,2,0,Honeycrisp Cres,Vaughan Corporate Centre,Vaughan,York Region,N7054622,condo_townhome,2024-01-30
+https://mississauga.listing.ca/6855-glen-erin-dr-6.W7047674.htm#2r-us,6855 Glen Erin Dr 6,699999,3,4,0,Glen Erin Dr,Meadowvale,Mississauga,Peel Region,W7047674,condo_townhome,2024-01-30
+https://ramara.listing.ca/21-laguna-pkwy-8.S7049840.htm#2r-ut,21 Laguna Pkwy 8,491000,2,2,0,Laguna Pkwy,Brechin,Ramara,Other,S7049840,condo_townhome,2024-01-30
+https://orillia.listing.ca/1095-mississaga-st-143.S7048192.htm#2r-uu,1095 Mississaga St 143,388800,1,3,0,Mississaga St,Orillia,Orillia,Other,S7048192,condo_townhome,2024-01-30
+https://richmond-hill.listing.ca/1000-elgin-mills-rd-th1237.N7050812.htm#2r-uv,1000 Elgin Mills Rd Th1237,779000,3,2,0,Elgin Mills Rd,Crosby,Richmond Hill,York Region,N7050812,condo_townhome,2024-01-30
+https://whitchurch-stouffville.listing.ca/11782-ninth-line-104-a.N7049276.htm#2r-uw,11782 Ninth Line 104 A,888000,3,2,1,Ninth Line,Stouffville,Whitchurch-Stouffville,York Region,N7049276,condo_townhome,2024-01-30
+https://toronto.listing.ca/4001-don-mills-rd-119.C7050064.htm#2r-ux,4001 Don Mills Rd 119,695000,3,2,0,Don Mills Rd,Hillcrest Village,Toronto,Toronto,C7050064,condo_townhome,2024-01-30
+https://mississauga.listing.ca/2095-roche-crt-188.W7047510.htm#2r-uy,2095 Roche Crt 188,649000,2,4,0,Roche Crt,Sheridan,Mississauga,Peel Region,W7047510,condo_townhome,2024-01-30
+https://london.listing.ca/25-erica-cres-21.X7047336.htm#2r-uz,25 Erica Cres 21,519900,2,3,0,Erica Cres,not_provided,London,Other,X7047336,condo_townhome,2024-01-30
+https://brampton.listing.ca/1020-central-park-dr-33.W7047070.htm#2r-v0,1020 Central Park Dr 33,679950,2,3,1,Central Park Dr,Brampton North,Brampton,Peel Region,W7047070,condo_townhome,2024-01-30
+https://hamilton.listing.ca/109-wilson-st-17.X7045966.htm#2r-v1,109 Wilson St 17,829900,3,3,0,Wilson St,Ancaster,Hamilton,Other,X7045966,condo_townhome,2024-01-30
+https://toronto.listing.ca/861-sheppard-ave-43.C7045540.htm#2r-v2,861 Sheppard Ave 43,880000,3,2,0,Sheppard Ave,Clanton Park,Toronto,Toronto,C7045540,condo_townhome,2024-01-30
+https://cobourg.listing.ca/79-king-st-403.X7044602.htm#2r-v3,79 King St 403,546000,1,2,0,King St,Cobourg,Cobourg,Other,X7044602,condo_townhome,2024-01-30
+https://hamilton.listing.ca/34-southbrook-dr-4.X7043720.htm#2r-v4,34 Southbrook Dr 4,649900,3,1,2,Southbrook Dr,Binbrook,Hamilton,Other,X7043720,condo_townhome,2024-01-30
+https://brampton.listing.ca/180-howden-blvd-10.W7045012.htm#2r-v5,180 Howden Blvd 10,699990,3,2,0,Howden Blvd,Westgate,Brampton,Peel Region,W7045012,condo_townhome,2024-01-30
+https://toronto.listing.ca/703-burnhamthorpe-rd-67.W7044644.htm#2r-v6,703 Burnhamthorpe Rd 67,799999,2,3,1,Burnhamthorpe Rd,Markland Wood,Toronto,Toronto,W7044644,condo_townhome,2024-01-30
+https://blue-mountains.listing.ca/107-wintergreen-pl-117.X7044358.htm#2r-v7,107 Wintergreen Pl 117,1275000,3,3,0,Wintergreen Pl,Blue Mountain Resort Area,Blue Mountains,Other,X7044358,condo_townhome,2024-01-30
+https://markham.listing.ca/4-woodglen-way.N7040906.htm#2r-v8,4 Woodglen Way,1068000,4,3,0,Woodglen Way,Unionville,Markham,York Region,N7040906,condo_townhome,2024-01-30
+https://toronto.listing.ca/38-jenkinson-way.E7045112.htm#2r-v9,38 Jenkinson Way,889000,4,4,0,Jenkinson Way,Dorset Park,Toronto,Toronto,E7045112,condo_townhome,2024-01-30
+https://toronto.listing.ca/3644-kingston-rd-34.E7042600.htm#2r-va,3644 Kingston Rd 34,729900,2,3,0,Kingston Rd,Scarborough Village,Toronto,Toronto,E7042600,condo_townhome,2024-01-30
+https://mississauga.listing.ca/2530-eglinton-ave-118.W7040006.htm#2r-vb,2530 Eglinton Ave 118,799000,3,3,0,Eglinton Ave,Central Erin Mills,Mississauga,Peel Region,W7040006,condo_townhome,2024-01-30
+https://toronto.listing.ca/85-mcmahon-dr-v208.C7039382.htm#2r-vc,85 Mcmahon Dr V208,2150000,4,5,0,Mcmahon Dr,Bayview Village,Toronto,Toronto,C7039382,condo_townhome,2024-01-30
+https://mississauga.listing.ca/1624-bloor-st-30.W7037406.htm#2r-vd,1624 Bloor St 30,699000,2,3,0,Bloor St,Applewood,Mississauga,Peel Region,W7037406,condo_townhome,2024-01-30
+https://toronto.listing.ca/1837-eglinton-ave-225.C7038504.htm#2r-ve,1837 Eglinton Ave 225,798000,3,3,0,Eglinton Ave,Victoria Village,Toronto,Toronto,C7038504,condo_townhome,2024-01-30
+https://peterborough.listing.ca/996-sydenham-rd-46.X7035118.htm#2r-vf,996 Sydenham Rd #46,349900,2,3,0,Sydenham Rd,Ashburnham,Peterborough,Other,X7035118,condo_townhome,2024-01-30
+https://blue-mountains.listing.ca/214-blueski-george-cres-32.X7035112.htm#2r-vg,214 Blueski George Cres 32,1299999,3,3,0,Blueski George Cres,Blue Mountain Resort Area,Blue Mountains,Other,X7035112,condo_townhome,2024-01-30
+https://costa-rica.listing.ca/27-cartagena-way.Z7029448.htm#2r-vh,27 Cartagena Way,8700000,9,7,0,Cartagena Way,not_provided,Costa Rica,Other,Z7029448,condo_townhome,2024-01-30
+https://markham.listing.ca/141-clark-ave-th-68.N7031174.htm#2r-vi,141 Clark Ave Th-68,968800,2,3,1,Clark Ave,Thornhill,Markham,York Region,N7031174,condo_townhome,2024-01-30
+https://hamilton.listing.ca/10-angus-rd-47.X7026446.htm#2r-vj,10 Angus Rd 47,579777,2,3,0,Angus Rd,Vincent,Hamilton,Other,X7026446,condo_townhome,2024-01-30
+https://toronto.listing.ca/630-rogers-rd-10.W7026116.htm#2r-vk,630 Rogers Rd 10,598800,2,2,0,Rogers Rd,Keelesdale-Eglinton West,Toronto,Toronto,W7026116,condo_townhome,2024-01-30
+https://brampton.listing.ca/10-halliford-pl-313.W7024308.htm#2r-vl,10 Halliford Pl 313,759999,2,2,0,Halliford Pl,Bram East,Brampton,Peel Region,W7024308,condo_townhome,2024-01-30
+https://mississauga.listing.ca/2120-rathburn-rd-119.W7023064.htm#2r-vm,2120 Rathburn Rd 119,948000,4,3,0,Rathburn Rd,Rathwood,Mississauga,Peel Region,W7023064,condo_townhome,2024-01-30
+https://london.listing.ca/230-clarke-rd-26.X7024882.htm#2r-vn,230 Clarke Rd 26,389900,2,3,0,Clarke Rd,not_provided,London,Other,X7024882,condo_townhome,2024-01-30
+https://brampton.listing.ca/2-orchard-park-gate.W7022592.htm#2r-vo,2 Orchard Park Gate,1269000,3,2,1,Orchard Park Gate,Sandringham-Wellington,Brampton,Peel Region,W7022592,condo_townhome,2024-01-30
+https://toronto.listing.ca/100-canon-jackson-dr-g101.W7022408.htm#2r-vp,100 Canon Jackson Dr G101,695000,1,2,0,Canon Jackson Dr,Beechborough-Greenbrook,Toronto,Toronto,W7022408,condo_townhome,2024-01-30
+https://mississauga.listing.ca/3380-south-millway-n-a-41.W7021754.htm#2r-vq,3380 South Millway N/A 41,939900,2,3,0,South Millway N/A,Erin Mills,Mississauga,Peel Region,W7021754,condo_townhome,2024-01-30
+https://prince-edward-county.listing.ca/17-rosemary-crt.X7017538.htm#2r-vr,17 Rosemary Crt,649000,2,2,0,Rosemary Crt,Picton,Prince Edward County,Other,X7017538,condo_townhome,2024-01-30
+https://toronto.listing.ca/56-sidney-belsey-cres-103.W7014934.htm#2r-vs,56 Sidney Belsey Cres 103,649900,2,3,0,Sidney Belsey Cres,Weston,Toronto,Toronto,W7014934,condo_townhome,2024-01-30
+https://mississauga.listing.ca/3473-widdicombe-way-14.W7014604.htm#2r-vt,3473 Widdicombe Way 14,820000,3,2,0,Widdicombe Way,Erin Mills,Mississauga,Peel Region,W7014604,condo_townhome,2024-01-30
+https://newmarket.listing.ca/11-lytham-green-circ-15.N7015914.htm#2r-vu,11 Lytham Green Circ 15,654900,1,1,0,Lytham Green Circ,Glenway Estates,Newmarket,York Region,N7015914,condo_townhome,2024-01-30
+https://centre-wellington.listing.ca/67-westminster-cres.X7009226.htm#2r-vv,67 Westminster Cres,700000,4,3,0,Westminster Cres,Fergus,Centre Wellington,Other,X7009226,condo_townhome,2024-01-30
+https://barrie.listing.ca/355-blake-st-4.S7011136.htm#2r-vw,355 Blake St 4,530000,2,2,0,Blake St,Codrington,Barrie,Other,S7011136,condo_townhome,2024-01-30
+https://richmond-hill.listing.ca/6-sayers-lane-8.N7011142.htm#2r-vx,6 Sayers Lane 8,1099000,3,3,0,Sayers Lane,Oak Ridges,Richmond Hill,York Region,N7011142,condo_townhome,2024-01-30
+https://clearview.listing.ca/90-south-rd.S7006670.htm#2r-vy,90 South Rd,1200000,3,3,1,South Rd,Devil's Glen,Clearview,Other,S7006670,condo_townhome,2024-01-30
+https://oshawa.listing.ca/2500-hill-rise-crt-95.E7006542.htm#2r-vz,2500 Hill Rise Crt 95,725000,3,3,0,Hill Rise Crt,Windfields,Oshawa,Durham Region,E7006542,condo_townhome,2024-01-30
+https://toronto.listing.ca/69-upper-canada-dr-2.C7006516.htm#2r-w0,69 Upper Canada Dr 2,1038000,2,2,0,Upper Canada Dr,St. Andrew-Windfields,Toronto,Toronto,C7006516,condo_townhome,2024-01-30
+https://kingston.listing.ca/1-place-darmes-st-51.X7004582.htm#2r-w1,1 Place D'armes St 51,649900,3,3,0,Place D'armes St,not_provided,Kingston,Other,X7004582,condo_townhome,2024-01-30
+https://london.listing.ca/1781-henrica-ave-56.X7004518.htm#2r-w2,1781 Henrica Ave 56,739900,4,4,0,Henrica Ave,not_provided,London,Other,X7004518,condo_townhome,2024-01-30
+https://toronto.listing.ca/28-admiral-rd-6.C7004502.htm#2r-w3,28 Admiral Rd 6,1749000,3,4,0,Admiral Rd,Annex,Toronto,Toronto,C7004502,condo_townhome,2024-01-30
+https://georgina.listing.ca/17-davy-point-circ.N6818274.htm#2r-w4,17 Davy Point Circ,1195000,3,3,1,Davy Point Circ,Keswick North,Georgina,York Region,N6818274,condo_townhome,2024-01-30
+https://richmond-hill.listing.ca/8-sayers-lane-8.N6817334.htm#2r-w5,8 Sayers Lane 8,968000,3,3,0,Sayers Lane,Oak Ridges,Richmond Hill,York Region,N6817334,condo_townhome,2024-01-30
+https://norfolk.listing.ca/1-cranberry-cres.X6815564.htm#2r-w6,1 Cranberry Cres,679900,3,2,1,Cranberry Cres,Simcoe,Norfolk,Other,X6815564,condo_townhome,2024-01-30
+https://toronto.listing.ca/300-avenue-rd-th1.C6816122.htm#2r-w7,300 Avenue Rd Th1,1449000,2,2,0,Avenue Rd,Casa Loma,Toronto,Toronto,C6816122,condo_townhome,2024-01-30
+https://toronto.listing.ca/67-foxbar-rd.C6814078.htm#2r-w8,67 Foxbar Rd,4199000,5,3,1,Foxbar Rd,Yonge-St. Clair,Toronto,Toronto,C6814078,condo_townhome,2024-01-30
+https://oakville.listing.ca/95-brookfield-rd-7.W6813120.htm#2r-w9,95 Brookfield Rd 7,1929900,3,3,0,Brookfield Rd,Old Oakville,Oakville,Halton Region,W6813120,condo_townhome,2024-01-30
+https://toronto.listing.ca/115-george-appleton-way-2137.W6809034.htm#2r-wa,115 George Appleton Way 2137,729900,2,3,0,George Appleton Way,Downsview-Roding-CFB,Toronto,Toronto,W6809034,condo_townhome,2024-01-30
+https://toronto.listing.ca/125-george-appleton-way-1004.W6805978.htm#2r-wb,125 George Appleton Way 1004,719900,2,2,1,George Appleton Way,Downsview-Roding-CFB,Toronto,Toronto,W6805978,condo_townhome,2024-01-30
+https://prince-edward-county.listing.ca/1-rosemary-crt-22.X6805488.htm#2r-wc,1 Rosemary Crt 22,475000,2,1,0,Rosemary Crt,Picton,Prince Edward County,Other,X6805488,condo_townhome,2024-01-30
+https://toronto.listing.ca/1280-bridletowne-circ-108.E6795110.htm#2r-wd,1280 Bridletowne Circ 108,848000,3,3,1,Bridletowne Circ,L'Amoreaux,Toronto,Toronto,E6795110,condo_townhome,2024-01-30
+https://guelph.listing.ca/39-kay-cres-18.X6801686.htm#2r-we,39 Kay Cres 18,699900,2,2,0,Kay Cres,Guelph South,Guelph,Other,X6801686,condo_townhome,2024-01-30
+https://ramara.listing.ca/2-paradise-blvd-16.S6796020.htm#2r-wf,2 Paradise Blvd 16,499000,2,2,0,Paradise Blvd,Brechin,Ramara,Other,S6796020,condo_townhome,2024-01-30
+https://vaughan.listing.ca/250-interchange-way.N6794744.htm#2r-wg,250 Interchange Way,1048000,3,3,0,Interchange Way,Vaughan Corporate Centre,Vaughan,York Region,N6794744,condo_townhome,2024-01-30
+https://kawartha-lakes.listing.ca/15-eglington-st-18h.X6791378.htm#2r-wh,15 Eglington St 18H,665000,3,2,1,Eglington St,Lindsay,Kawartha Lakes,Other,X6791378,condo_townhome,2024-01-30
+https://oakville.listing.ca/2468-post-rd-27.W6789746.htm#2r-wi,2468 Post Rd 27,649000,2,2,0,Post Rd,River Oaks,Oakville,Halton Region,W6789746,condo_townhome,2024-01-30
+https://aurora.listing.ca/72-springfair-ave.N6783184.htm#2r-wj,72 Springfair Ave,565000,2,3,0,Springfair Ave,Aurora Village,Aurora,York Region,N6783184,condo_townhome,2024-01-30
+https://london.listing.ca/1781-henrica-ave-54.X6782428.htm#2r-wk,1781 Henrica Ave 54,699999,4,4,0,Henrica Ave,not_provided,London,Other,X6782428,condo_townhome,2024-01-30
+https://blue-mountains.listing.ca/115-beacon-dr.X6780984.htm#2r-wl,115 Beacon Dr,1179000,3,3,0,Beacon Dr,Rural Blue Mountains,Blue Mountains,Other,X6780984,condo_townhome,2024-01-30
+https://burlington.listing.ca/1121-cooke-blvd-55.W6776510.htm#2r-wm,1121 Cooke Blvd 55,855000,3,2,0,Cooke Blvd,LaSalle,Burlington,Halton Region,W6776510,condo_townhome,2024-01-30
+https://mississauga.listing.ca/4020-parkside-village-dr-5.W6764872.htm#2r-wn,4020 Parkside Village Dr 5,999999,3,3,0,Parkside Village Dr,City Centre,Mississauga,Peel Region,W6764872,condo_townhome,2024-01-30
+https://toronto.listing.ca/179-william-duncan-rd-2.W6762192.htm#2r-wo,179 William Duncan Rd 2,669900,1,2,1,William Duncan Rd,Downsview-Roding-CFB,Toronto,Toronto,W6762192,condo_townhome,2024-01-30
+https://toronto.listing.ca/160-kingsway-cres-109.W6146260.htm#2r-wp,160 Kingsway Cres 109,1469900,2,2,0,Kingsway Cres,Kingsway South,Toronto,Toronto,W6146260,condo_townhome,2024-01-30
+https://toronto.listing.ca/160-kingsway-cres-101.W6146032.htm#2r-wq,160 Kingsway Cres 101,1199900,2,2,0,Kingsway Cres,Kingsway South,Toronto,Toronto,W6146032,condo_townhome,2024-01-30
+https://toronto.listing.ca/760-lawrence-ave-87.W6751692.htm#2r-wr,760 Lawrence Ave 87,799000,3,2,1,Lawrence Ave,Yorkdale-Glen Park,Toronto,Toronto,W6751692,condo_townhome,2024-01-30
+https://vaughan.listing.ca/9590-islington-ave-u251.N6734610.htm#2r-ws,9590 Islington Ave U251,1049990,3,2,1,Islington Ave,Sonoma Heights,Vaughan,York Region,N6734610,condo_townhome,2024-01-30
+https://mississauga.listing.ca/8-nahani-way-104.W6733666.htm#2r-wt,8 Nahani Way 104,1249999,3,3,2,Nahani Way,Hurontario,Mississauga,Peel Region,W6733666,condo_townhome,2024-01-30
+https://hamilton.listing.ca/261-skinner-rd-22.X6723886.htm#2r-wu,261 Skinner Rd 22,565000,1,0,1,Skinner Rd,Waterdown,Hamilton,Other,X6723886,condo_townhome,2024-01-30
+https://windsor.listing.ca/1730-columbia-crt-97.X6717296.htm#2r-wv,1730 Columbia Crt 97,354900,1,2,0,Columbia Crt,not_provided,Windsor,Other,X6717296,condo_townhome,2024-01-30
+https://niagara-on-the-lake.listing.ca/1397-york-rd-10.X6714934.htm#2r-ww,1397 York Rd 10,1299000,3,3,0,York Rd,not_provided,Niagara-on-the-Lake,Other,X6714934,condo_townhome,2024-01-30
+https://niagara-on-the-lake.listing.ca/1397-york-rd-8.X6714876.htm#2r-wx,1397 York Rd 8,1299000,3,3,0,York Rd,not_provided,Niagara-on-the-Lake,Other,X6714876,condo_townhome,2024-01-30
+https://niagara-on-the-lake.listing.ca/1397-york-rd-7.X6714794.htm#2r-wy,1397 York Rd 7,1334000,3,3,0,York Rd,not_provided,Niagara-on-the-Lake,Other,X6714794,condo_townhome,2024-01-30
+https://niagara-on-the-lake.listing.ca/1397-york-rd-6.X6714782.htm#2r-wz,1397 York Rd 6,1334000,3,3,0,York Rd,not_provided,Niagara-on-the-Lake,Other,X6714782,condo_townhome,2024-01-30
+https://niagara-on-the-lake.listing.ca/1397-york-rd-5.X6714764.htm#2r-x0,1397 York Rd 5,1499000,3,2,0,York Rd,not_provided,Niagara-on-the-Lake,Other,X6714764,condo_townhome,2024-01-30
+https://niagara-on-the-lake.listing.ca/1397-york-rd-2.X6714668.htm#2r-x1,1397 York Rd 2,1299000,3,3,0,York Rd,not_provided,Niagara-on-the-Lake,Other,X6714668,condo_townhome,2024-01-30
+https://cambridge.listing.ca/350-fisher-mills-rd-c01.X6713466.htm#2r-x2,350 Fisher Mills Rd C01,599999,3,3,0,Fisher Mills Rd C,not_provided,Cambridge,Other,X6713466,condo_townhome,2024-01-30
+https://toronto.listing.ca/66-long-branch-ave-20.W6707034.htm#2r-x3,66 Long Branch Ave 20,1180000,3,3,0,Long Branch Ave,Long Branch,Toronto,Toronto,W6707034,condo_townhome,2024-01-30
+https://newmarket.listing.ca/11-lytham-green-circ-26.N6691640.htm#2r-x4,11 Lytham Green Circ 26,899900,3,3,0,Lytham Green Circ,Glenway Estates,Newmarket,York Region,N6691640,condo_townhome,2024-01-30
+https://oro-medonte.listing.ca/90-highland-dr-2312-13.S6690874.htm#2r-x5,90 Highland Dr 2312-13,725000,2,2,0,Highland Dr,Horseshoe Valley,Oro-Medonte,Other,S6690874,condo_townhome,2024-01-30
+https://new-tecumseth.listing.ca/14-via-vistana.N6665008.htm#2r-x6,14 Via Vistana,779000,3,1,1,Via Vistana,Alliston,New Tecumseth,Other,N6665008,condo_townhome,2024-01-30
+https://vaughan.listing.ca/9590-islington-ave-u250.N6202608.htm#2r-x7,9590 Islington Ave U250,1039990,3,2,0,Islington Ave,Sonoma Heights,Vaughan,York Region,N6202608,condo_townhome,2024-01-30
+https://toronto.listing.ca/132-aerodrome-cres-202.C6151524.htm#2r-x8,132 Aerodrome Cres 202,796000,2,2,0,Aerodrome Cres,Leaside,Toronto,Toronto,C6151524,condo_townhome,2024-01-30
+https://aurora.listing.ca/144-milestone-cres.N6136788.htm#2r-x9,144 Milestone Cres,549000,2,3,0,Milestone Cres,Aurora Village,Aurora,York Region,N6136788,condo_townhome,2024-01-30
+https://oshawa.listing.ca/53-taunton-rd-85.E6126772.htm#2r-xa,53 Taunton Rd 85,749000,2,3,0,Taunton Rd,Centennial,Oshawa,Durham Region,E6126772,condo_townhome,2024-01-30
+https://toronto.listing.ca/70-annie-craig-dr-th-104.W6018916.htm#2r-xb,70 Annie Craig Dr Th 104,1250000,3,2,1,Annie Craig Dr,Mimico,Toronto,Toronto,W6018916,condo_townhome,2024-01-30
+https://costa-rica.listing.ca/25-cartagena-las-cats-ave.Z6018116.htm#2r-xc,25 Cartagena Las Cats Ave,4990000,7,5,0,Cartagena Las Cats Ave,not_provided,Costa Rica,Other,Z6018116,condo_townhome,2024-01-30
+https://toronto.listing.ca/161-frederick-tisdale-dr-2.W5994095.htm#2r-xd,161 Frederick Tisdale Dr 2,799000,3,2,0,Frederick Tisdale Dr,Downsview-Roding-CFB,Toronto,Toronto,W5994095,condo_townhome,2024-01-30
