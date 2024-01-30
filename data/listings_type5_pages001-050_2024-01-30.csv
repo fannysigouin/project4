@@ -1,0 +1,991 @@
+url,address,price,baths,beds,dens,street,neighbourhood,mls_id,city,property_type,date_scraped
+https://toronto.listing.ca/2639-keele-st.W8030724.htm#3x-1,2639 Keele St,3950000,12,9,1,Keele St,Maple Leaf,W8030724,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/43-prince-william-crt.E8030966.htm#3x-2,43 Prince William Crt,888888,3,3,1,Prince William Crt,Agincourt South-Malvern West,E8030966,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/146-ascot-ave.W8031028.htm#3x-3,146 Ascot Ave,849000,1,2,0,Ascot Ave,Corso Italia-Davenport,W8031028,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-the-wishbone.W8030996.htm#3x-4,7 The Wishbone,969000,2,3,0,The Wishbone,Brookhaven-Amesbury,W8030996,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/34-laver-rd.W8030990.htm#3x-5,34 Laver Rd,1349900,2,3,1,Laver Rd,Eringate-Centennial-West Deane,W8030990,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/21-fenwood-hts.E8030888.htm#3x-6,21 Fenwood Hts,1599000,3,3,0,Fenwood Hts,Cliffcrest,E8030888,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/31-hoyle-ave.C8031052.htm#3x-7,31 Hoyle Ave,3695000,5,4,1,Hoyle Ave,Mount Pleasant East,C8031052,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/17-harrison-rd.C8030954.htm#3x-8,17 Harrison Rd,3499000,3,4,2,Harrison Rd,St. Andrew-Windfields,C8030954,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/58-appian-dr.C8030654.htm#3x-9,58 Appian Dr,1849000,3,3,0,Appian Dr,Bayview Village,C8030654,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/195-rathburn-rd.W8030630.htm#3x-a,195 Rathburn Rd,1699999,3,3,0,Rathburn Rd,Islington-City Centre West,W8030630,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/80-eastwood-ave.E8030682.htm#3x-b,80 Eastwood Ave,1199800,2,3,0,Eastwood Ave,Birchcliffe-Cliffside,E8030682,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-boxdene-ave.E8030632.htm#3x-c,19 Boxdene Ave,1388000,5,3,2,Boxdene Ave,Milliken,E8030632,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/51-tidefall-dr.E8030554.htm#3x-d,51 Tidefall Dr,1188000,4,4,0,Tidefall Dr,L'Amoreaux,E8030554,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-oshea-cres.C8030562.htm#3x-e,20 O'shea Cres,1388000,3,4,1,O'shea Cres,Don Valley Village,C8030562,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-croham-rd.W8030538.htm#3x-f,19 Croham Rd,999000,2,3,0,Croham Rd,Briar Hill-Belgravia,W8030538,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/293-churchill-ave.C8030520.htm#3x-g,293 Churchill Ave,2100000,3,3,2,Churchill Ave,Willowdale West,C8030520,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-alderton-crt.W8030202.htm#3x-h,5 Alderton Crt,2850000,4,4,1,Alderton Crt,Edenbridge-Humber Valley,W8030202,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/67-blue-springs-rd.W8030168.htm#3x-i,67 Blue Springs Rd,1299000,2,3,1,Blue Springs Rd,Maple Leaf,W8030168,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/73-brimley-rd.E8030100.htm#3x-j,73 Brimley Rd,1700000,5,5,5,Brimley Rd,Cliffcrest,E8030100,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3-puckeridge-cres.W8029972.htm#3x-k,3 Puckeridge Cres,2699000,6,4,1,Puckeridge Cres,Princess-Rosethorn,W8029972,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/54-chiswick-ave.W8029804.htm#3x-l,54 Chiswick Ave,1348000,4,4,2,Chiswick Ave,Brookhaven-Amesbury,W8029804,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/181-symington-ave.W8029594.htm#3x-m,181 Symington Ave,1199900,2,3,0,Symington Ave,Dovercourt-Wallace Emerson-Junction,W8029594,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-esposito-crt.W8029556.htm#3x-n,20 Esposito Crt,2899900,6,4,1,Esposito Crt,Eringate-Centennial-West Deane,W8029556,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/21-esposito-crt.W8029546.htm#3x-o,21 Esposito Crt,2949900,5,4,2,Esposito Crt,Eringate-Centennial-West Deane,W8029546,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/65-pettit-dr.W8029422.htm#3x-p,65 Pettit Dr,2299999,4,4,0,Pettit Dr,Willowridge-Martingrove-Richview,W8029422,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/328-high-park-ave.W8029338.htm#3x-q,328 High Park Ave,1999000,5,7,0,High Park Ave,Junction Area,W8029338,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/392-rimilton-ave.W8029202.htm#3x-r,392 Rimilton Ave,1499900,3,4,1,Rimilton Ave,Alderwood,W8029202,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/28-gibson-ave.W8023572.htm#3x-s,28 Gibson Ave,1399900,3,3,0,Gibson Ave,Thistletown-Beaumonde Heights,W8023572,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/172-neville-park-blvd.E8029596.htm#3x-t,172 Neville Park Blvd,1679000,2,3,0,Neville Park Blvd,The Beaches,E8029596,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-east-rd.E8029428.htm#3x-u,2 East Rd,1588800,3,4,1,East Rd,Birchcliffe-Cliffside,E8029428,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/70-linnsmore-cres.E8029150.htm#3x-v,70 Linnsmore Cres,1489900,2,3,0,Linnsmore Cres,Danforth,E8029150,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/30-emerson-ave.W8029378.htm#3x-w,30 Emerson Ave,1595000,5,6,1,Emerson Ave,Dovercourt-Wallace Emerson-Junction,W8029378,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/180-cocksfield-ave.C8029900.htm#3x-x,180 Cocksfield Ave,1990000,2,3,1,Cocksfield Ave,Bathurst Manor,C8029900,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/44-rumsey-rd.C8029290.htm#3x-y,44 Rumsey Rd,2899000,5,3,1,Rumsey Rd,Leaside,C8029290,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/86-comay-rd.W8028328.htm#3x-z,86 Comay Rd,1499999,4,3,1,Comay Rd,Brookhaven-Amesbury,W8028328,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/32-waxham-rd.W8028312.htm#3x-10,32 Waxham Rd,999900,2,3,0,Waxham Rd,West Humber-Clairville,W8028312,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/31-roskell-cres.W8028290.htm#3x-11,31 Roskell Cres,1225000,2,3,1,Roskell Cres,York University Heights,W8028290,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/91-drayton-ave.E8029064.htm#3x-12,91 Drayton Ave,1025000,2,1,0,Drayton Ave,Woodbine Corridor,E8029064,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/64-glen-echo-rd.C8028976.htm#3x-13,64 Glen Echo Rd,1799000,2,3,0,Glen Echo Rd,Lawrence Park North,C8028976,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-clementine-sq.E8028914.htm#3x-14,6 Clementine Sq,988800,2,3,1,Clementine Sq,Woburn,E8028914,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/59-lascelles-blvd.C8028960.htm#3x-15,59 Lascelles Blvd,5399999,5,4,0,Lascelles Blvd,Yonge-Eglinton,C8028960,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-coleridge-ave.E8028724.htm#3x-16,40 Coleridge Ave,1299000,6,4,2,Coleridge Ave,Woodbine-Lumsden,E8028724,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-murmouth-rd.E8028440.htm#3x-17,20 Murmouth Rd,974888,2,3,0,Murmouth Rd,Tam O'Shanter-Sullivan,E8028440,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/37-pheasant-rd.C8028956.htm#3x-18,37 Pheasant Rd,2488000,5,4,2,Pheasant Rd,Willowdale East,C8028956,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/34-van-horne-ave.C8028806.htm#3x-19,34 Van Horne Ave,2399000,4,4,0,Van Horne Ave,Don Valley Village,C8028806,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/532-fairlawn-ave.C8028524.htm#3x-1a,532 Fairlawn Ave,3690000,5,4,1,Fairlawn Ave,Bedford Park-Nortown,C8028524,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/221-holmes-ave.C8028416.htm#3x-1b,221 Holmes Ave,1795000,2,3,2,Holmes Ave,Willowdale East,C8028416,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/48-caravan-dr.C8028198.htm#3x-1c,48 Caravan Dr,3399000,4,5,1,Caravan Dr,Banbury-Don Mills,C8028198,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-ivy-ave.E8028068.htm#3x-1d,8 Ivy Ave,1399900,1,3,0,Ivy Ave,South Riverdale,E8028068,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/370-rosewell-ave.C8028152.htm#3x-1e,370 Rosewell Ave,2288900,3,3,0,Rosewell Ave,Lawrence Park South,C8028152,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/54-granlea-rd.C8028144.htm#3x-1f,54 Granlea Rd,2990000,4,4,1,Granlea Rd,Willowdale East,C8028144,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/45-prescott-ave.W8028024.htm#3x-1g,45 Prescott Ave,1988000,5,6,2,Prescott Ave,Weston-Pellam Park,W8028024,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/54-bridley-dr.E8027976.htm#3x-1h,54 Bridley Dr,1198000,4,3,3,Bridley Dr,Agincourt North,E8027976,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/116-blantyre-ave.E8027956.htm#3x-1i,116 Blantyre Ave,1299900,2,3,0,Blantyre Ave,Birchcliffe-Cliffside,E8027956,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/29-sealcove-dr.W8027846.htm#3x-1j,29 Sealcove Dr,1199000,2,3,2,Sealcove Dr,Etobicoke West Mall,W8027846,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/26-brewton-rd.E8027768.htm#3x-1k,26 Brewton Rd,999700,2,3,2,Brewton Rd,Woburn,E8027768,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/66-shandon-dr.E8027392.htm#3x-1l,66 Shandon Dr,1080000,4,3,3,Shandon Dr,Wexford-Maryvale,E8027392,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-garden-pl.W8027172.htm#3x-1m,24 Garden Pl,1399999,3,3,0,Garden Pl,Long Branch,W8027172,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/63-darby-crt.E8027048.htm#3x-1n,63 Darby Crt,1299999,4,5,2,Darby Crt,Rouge E11,E8027048,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/77-acheson-blvd.E8026792.htm#3x-1o,77 Acheson Blvd,1299999,4,3,1,Acheson Blvd,Centennial Scarborough,E8026792,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/44-loney-ave.W8026488.htm#3x-1p,44 Loney Ave,1050000,2,3,1,Loney Ave,Downsview-Roding-CFB,W8026488,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/120-redwater-dr.W8026486.htm#3x-1q,120 Redwater Dr,1199000,3,3,3,Redwater Dr,Rexdale-Kipling,W8026486,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/566-mcroberts-ave.W8026394.htm#3x-1r,566 Mcroberts Ave,1789000,4,3,2,Mcroberts Ave,Caledonia-Fairbank,W8026394,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/14-rotherham-ave.W8026258.htm#3x-1s,14 Rotherham Ave,1849900,6,5,1,Rotherham Ave,Keelesdale-Eglinton West,W8026258,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/77-carsbrooke-rd.W8026190.htm#3x-1t,77 Carsbrooke Rd,1475000,2,3,1,Carsbrooke Rd,Etobicoke West Mall,W8026190,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/91-autumn-glen-circ.W8026090.htm#3x-1u,91 Autumn Glen Circ,799000,3,5,2,Autumn Glen Circ,West Humber-Clairville,W8026090,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/712-brimley-rd.E8025704.htm#3x-1v,712 Brimley Rd,949900,2,3,2,Brimley Rd,Bendale,E8025704,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/204-high-park-ave.W8023474.htm#3x-1w,204 High Park Ave,3999000,4,8,1,High Park Ave,High Park North,W8023474,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-waring-crt.C8025136.htm#3x-1x,19 Waring Crt,1790000,2,4,0,Waring Crt,Willowdale East,C8025136,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/145-bannockburn-ave.C8025088.htm#3x-1y,145 Bannockburn Ave,2299000,4,4,1,Bannockburn Ave,Bedford Park-Nortown,C8025088,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/55-grackle-tr.E8024838.htm#3x-1z,55 Grackle Tr,1049000,4,3,1,Grackle Tr,Rouge E11,E8024838,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/260-westview-blvd.E8024730.htm#3x-20,260 Westview Blvd,1000000,2,2,1,Westview Blvd,O'Connor-Parkview,E8024730,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/434-victoria-park-ave.E8024116.htm#3x-21,434 Victoria Park Ave,2890000,4,5,1,Victoria Park Ave,East End-Danforth,E8024116,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/56-joanith-dr.E8023494.htm#3x-22,56 Joanith Dr,2295999,4,4,0,Joanith Dr,O'Connor-Parkview,E8023494,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/96-dorset-rd.E8022732.htm#3x-23,96 Dorset Rd,1149000,2,2,1,Dorset Rd,Cliffcrest,E8022732,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-slan-ave.E8022568.htm#3x-24,42 Slan Ave,1177000,4,3,2,Slan Ave,Woburn,E8022568,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-sedgemount-dr.E8022422.htm#3x-25,27 Sedgemount Dr,1099900,2,2,0,Sedgemount Dr,Woburn,E8022422,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/116-donside-dr.E8022352.htm#3x-26,116 Donside Dr,2588800,7,4,2,Donside Dr,Clairlea-Birchmount,E8022352,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/168-coronation-dr.E8022326.htm#3x-27,168 Coronation Dr,1115000,2,3,2,Coronation Dr,West Hill,E8022326,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/111-carsbrooke-rd.W8024740.htm#3x-28,111 Carsbrooke Rd,1289000,2,3,0,Carsbrooke Rd,Etobicoke West Mall,W8024740,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/36-montana-ave.W8024726.htm#3x-29,36 Montana Ave,1290000,4,5,1,Montana Ave,Downsview-Roding-CFB,W8024726,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-delabra-rd.W8024600.htm#3x-2a,1 Delabra Rd,1290000,3,3,3,Delabra Rd,Thistletown-Beaumonde Heights,W8024600,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/34-algoma-st.W8024538.htm#3x-2b,34 Algoma St,1089000,2,2,0,Algoma St,Mimico,W8024538,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/46-tealham-dr.W8023640.htm#3x-2c,46 Tealham Dr,1150000,2,3,2,Tealham Dr,West Humber-Clairville,W8023640,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-hamer-blvd.W8023622.htm#3x-2d,24 Hamer Blvd,1299900,3,3,0,Hamer Blvd,Kingsview Village-The Westway,W8023622,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/110-lawnside-dr.W8022648.htm#3x-2e,110 Lawnside Dr,1100000,1,3,0,Lawnside Dr,Rustic,W8022648,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/53-tenth-st.W8022302.htm#3x-2f,53 Tenth St,1949000,4,3,0,Tenth St,New Toronto,W8022302,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-boxbury-rd.W8022044.htm#3x-2g,12 Boxbury Rd,1849900,3,3,3,Boxbury Rd,Markland Wood,W8022044,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-lorahill-rd.W8021980.htm#3x-2h,7 Lorahill Rd,1199000,2,3,1,Lorahill Rd,Stonegate-Queensway,W8021980,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/90-lake-shore-dr.W8021746.htm#3x-2i,90 Lake Shore Dr,1599000,2,4,0,Lake Shore Dr,New Toronto,W8021746,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/22-branch-ave.W8024244.htm#3x-2j,22 Branch Ave,2349000,5,4,2,Branch Ave,Long Branch,W8024244,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-exmoor-dr.W8022874.htm#3x-2k,42 Exmoor Dr,1429900,4,3,0,Exmoor Dr,Long Branch,W8022874,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/55-riderwood-dr.C8024664.htm#3x-2l,55 Riderwood Dr,2988800,6,5,0,Riderwood Dr,St. Andrew-Windfields,C8024664,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/179-sweeney-dr.C8024380.htm#3x-2m,179 Sweeney Dr,1998000,3,3,1,Sweeney Dr,Victoria Village,C8024380,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/56-tefley-rd.C8024368.htm#3x-2n,56 Tefley Rd,2998000,3,4,1,Tefley Rd,Newtonbrook West,C8024368,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/88-montressor-dr.C8023852.htm#3x-2o,88 Montressor Dr,2899000,4,5,0,Montressor Dr,St. Andrew-Windfields,C8023852,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/35-york-rd.C8023166.htm#3x-2p,35 York Rd,4580000,6,4,1,York Rd,St. Andrew-Windfields,C8023166,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-bamboo-grve.C8022288.htm#3x-2q,7 Bamboo Grve,3288000,4,5,1,Bamboo Grve,Banbury-Don Mills,C8022288,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/50-hi-mount-dr.C8022236.htm#3x-2r,50 Hi Mount Dr,6500000,7,4,2,Hi Mount Dr,Bayview Village,C8022236,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/485-mortimer-ave.E8023306.htm#3x-2s,485 Mortimer Ave,1999000,6,8,4,Mortimer Ave,Danforth Village-East York,E8023306,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/248-rustic-rd.W8020736.htm#3x-2t,248 Rustic Rd,1699000,3,5,0,Rustic Rd,Rustic,W8020736,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/176-prince-edward-dr.W8020454.htm#3x-2u,176 Prince Edward Dr,2595000,6,4,1,Prince Edward Dr,Stonegate-Queensway,W8020454,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/69-emerson-ave.W8020174.htm#3x-2v,69 Emerson Ave,1399000,3,3,0,Emerson Ave,Dovercourt-Wallace Emerson-Junction,W8020174,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/10-marshall-blvd.W8019832.htm#3x-2w,10 Marshall Blvd,1425000,4,4,1,Marshall Blvd,Rockcliffe-Smythe,W8019832,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/52-ashmount-cres.W8019408.htm#3x-2x,52 Ashmount Cres,2598000,5,5,1,Ashmount Cres,Willowridge-Martingrove-Richview,W8019408,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-dante-rd.W8019324.htm#3x-2y,7 Dante Rd,1649000,4,3,3,Dante Rd,Rustic,W8019324,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/34-grierson-rd.W8019248.htm#3x-2z,34 Grierson Rd,999990,2,2,1,Grierson Rd,Elms-Old Rexdale,W8019248,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-nordic-pl.C8021550.htm#3x-30,5 Nordic Pl,1535000,3,4,0,Nordic Pl,Parkwoods-Donalda,C8021550,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/73-aldershot-cres.C8021528.htm#3x-31,73 Aldershot Cres,4880000,7,5,1,Aldershot Cres,St. Andrew-Windfields,C8021528,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-grangemill-cres.C8021454.htm#3x-32,42 Grangemill Cres,4499800,6,5,1,Grangemill Cres,Banbury-Don Mills,C8021454,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/186-sweeney-dr.C8021146.htm#3x-33,186 Sweeney Dr,1349900,2,2,1,Sweeney Dr,Victoria Village,C8021146,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/118-haddington-ave.C8021004.htm#3x-34,118 Haddington Ave,4995000,6,4,1,Haddington Ave,Bedford Park-Nortown,C8021004,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/46-stormont-ave.C8020836.htm#3x-35,46 Stormont Ave,2949000,6,6,2,Stormont Ave,Bedford Park-Nortown,C8020836,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/76-roxborough-st.C8020698.htm#3x-36,76 Roxborough St,6295000,5,4,1,Roxborough St,Annex,C8020698,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/11-saguenay-ave.C8020460.htm#3x-37,11 Saguenay Ave,3149000,4,4,2,Saguenay Ave,Bedford Park-Nortown,C8020460,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/70-dunblaine-ave.C8019912.htm#3x-38,70 Dunblaine Ave,4950000,5,4,1,Dunblaine Ave,Bedford Park-Nortown,C8019912,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/87-castlewood-rd.C8019620.htm#3x-39,87 Castlewood Rd,3195000,4,3,0,Castlewood Rd,Lawrence Park South,C8019620,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/696-glengrove-ave.C8019600.htm#3x-3a,696 Glengrove Ave,2980000,6,4,1,Glengrove Ave,Englemount-Lawrence,C8019600,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/235-senlac-rd.C8019504.htm#3x-3b,235 Senlac Rd,1475000,2,4,0,Senlac Rd,Willowdale West,C8019504,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-king-edward-ave.E8021558.htm#3x-3c,7 King Edward Ave,1049000,4,3,1,King Edward Ave,Woodbine-Lumsden,E8021558,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-earl-rd.E8020762.htm#3x-3d,42 Earl Rd,1299000,2,4,1,Earl Rd,Cliffcrest,E8020762,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/106-victoria-park-ave.E8020700.htm#3x-3e,106 Victoria Park Ave,1795000,3,3,2,Victoria Park Ave,Birchcliffe-Cliffside,E8020700,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/9-regency-sq.E8020662.htm#3x-3f,9 Regency Sq,1390000,2,4,1,Regency Sq,Guildwood,E8020662,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/830-scarborough-golfclub-rd.E8020012.htm#3x-3g,830 Scarborough Golfclub Rd,999800,2,3,3,Scarborough Golfclub Rd,Woburn,E8020012,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/57-keystone-ave.E8019742.htm#3x-3h,57 Keystone Ave,999000,2,3,0,Keystone Ave,East End-Danforth,E8019742,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-holland-ave.E8019680.htm#3x-3i,1 Holland Ave,1099000,3,4,2,Holland Ave,O'Connor-Parkview,E8019680,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/60-dunvegan-rd.C7202190.htm#3x-3j,60 Dunvegan Rd,8889000,9,7,0,Dunvegan Rd,Casa Loma,C7202190,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/49-canoe-cres.E8019580.htm#3x-3k,49 Canoe Cres,900000,4,4,0,Canoe Cres,Rouge E11,E8019580,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/32-grapevine-circ.E8019440.htm#3x-3l,32 Grapevine Circ,1499000,3,4,1,Grapevine Circ,Rouge E11,E8019440,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-twin-pauls-cres.E8017886.htm#3x-3m,19 Twin Pauls Cres,1135000,2,3,1,Twin Pauls Cres,Wexford-Maryvale,E8017886,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-holborne-ave.E8017632.htm#3x-3n,1 Holborne Ave,2395000,5,4,0,Holborne Ave,East York,E8017632,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/99-galbraith-ave.E8017012.htm#3x-3o,99 Galbraith Ave,1088000,2,3,0,Galbraith Ave,O'Connor-Parkview,E8017012,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/48-greylawn-cres.E8016838.htm#3x-3p,48 Greylawn Cres,1149000,3,3,1,Greylawn Cres,Wexford-Maryvale,E8016838,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/10-parkland-rd.E8016784.htm#3x-3q,10 Parkland Rd,2999999,5,4,2,Parkland Rd,Birchcliffe-Cliffside,E8016784,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-montvale-dr.E8016600.htm#3x-3r,7 Montvale Dr,1088000,2,3,2,Montvale Dr,Cliffcrest,E8016600,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/35-medford-ave.E8016542.htm#3x-3s,35 Medford Ave,1199000,3,3,1,Medford Ave,Oakridge,E8016542,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/303-sammon-ave.E8016540.htm#3x-3t,303 Sammon Ave,799900,2,1,0,Sammon Ave,Danforth Village-East York,E8016540,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/65-branstone-rd.W8017626.htm#3x-3u,65 Branstone Rd,2499999,4,6,1,Branstone Rd,Caledonia-Fairbank,W8017626,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/9-woodhaven-hts.W8019102.htm#3x-3v,9 Woodhaven Hts,5498000,5,3,1,Woodhaven Hts,Kingsway South,W8019102,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-dominion-rd.W8019032.htm#3x-3w,2 Dominion Rd,1339900,2,3,1,Dominion Rd,Long Branch,W8019032,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/14-waller-ave.W8018664.htm#3x-3x,14 Waller Ave,1889000,2,5,0,Waller Ave,High Park-Swansea,W8018664,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-keegan-cres.W8018562.htm#3x-3y,24 Keegan Cres,1199999,2,3,0,Keegan Cres,York University Heights,W8018562,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-larkin-ave.W8018542.htm#3x-3z,27 Larkin Ave,1949000,2,3,1,Larkin Ave,High Park-Swansea,W8018542,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/63-methuen-ave.W8017748.htm#3x-40,63 Methuen Ave,2898000,5,4,0,Methuen Ave,Lambton Baby Point,W8017748,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/81-powell-rd.W8017328.htm#3x-41,81 Powell Rd,1499000,2,3,0,Powell Rd,Downsview-Roding-CFB,W8017328,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/159-brentwood-rd.W8017112.htm#3x-42,159 Brentwood Rd,4125000,7,4,1,Brentwood Rd,Kingsway South,W8017112,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-lydon-ave.W8016894.htm#3x-43,19 Lydon Ave,1195000,2,3,1,Lydon Ave,Rockcliffe-Smythe,W8016894,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/372-george-st.C8018894.htm#3x-44,372 George St,2699000,4,9,6,George St,Moss Park,C8018894,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/157-booth-ave.E8017312.htm#3x-45,157 Booth Ave,1249000,3,2,1,Booth Ave,South Riverdale,E8017312,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-citation-dr.C8018880.htm#3x-46,18 Citation Dr,5880000,7,5,1,Citation Dr,Bayview Village,C8018880,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/159-fenn-ave.C8018668.htm#3x-47,159 Fenn Ave,2538000,3,3,2,Fenn Ave,St. Andrew-Windfields,C8018668,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-stonedene-blvd.C8018576.htm#3x-48,5 Stonedene Blvd,1649000,4,3,2,Stonedene Blvd,Westminster-Branson,C8018576,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/11-bowman-st.C8018508.htm#3x-49,11 Bowman St,1499000,1,3,0,Bowman St,Cabbagetown-South St. James Town,C8018508,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/55-jersey-ave.C8018414.htm#3x-4a,55 Jersey Ave,1199000,3,4,0,Jersey Ave,Palmerston-Little Italy,C8018414,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/123-forest-heights-blvd.C8018304.htm#3x-4b,123 Forest Heights Blvd,7995000,5,4,1,Forest Heights Blvd,St. Andrew-Windfields,C8018304,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/496-fairlawn-ave.C8018298.htm#3x-4c,496 Fairlawn Ave,5100000,6,4,1,Fairlawn Ave,Bedford Park-Nortown,C8018298,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/54-gwendolen-ave.C8018100.htm#3x-4d,54 Gwendolen Ave,1699000,2,2,0,Gwendolen Ave,Lansing-Westgate,C8018100,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-king-high-ave.C8018062.htm#3x-4e,25 King High Ave,999900,2,2,0,King High Ave,Clanton Park,C8018062,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/899-dundas-st.C8017532.htm#3x-4f,899 Dundas St,3595000,3,2,0,Dundas St,Trinity-Bellwoods,C8017532,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/356-brooke-ave.C8017452.htm#3x-4g,356 Brooke Ave,3750000,5,4,1,Brooke Ave,Bedford Park-Nortown,C8017452,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/412-deloraine-ave.C8017180.htm#3x-4h,412 Deloraine Ave,2490000,4,3,0,Deloraine Ave,Bedford Park-Nortown,C8017180,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/9-dornfell-st.C8017088.htm#3x-4i,9 Dornfell St,3948000,8,4,2,Dornfell St,Newtonbrook West,C8017088,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/62-rose-park-dr.C8017056.htm#3x-4j,62 Rose Park Dr,3495000,3,3,0,Rose Park Dr,Rosedale-Moore Park,C8017056,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/33-hopperton-dr.C8016602.htm#3x-4k,33 Hopperton Dr,2288000,2,4,0,Hopperton Dr,St. Andrew-Windfields,C8016602,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/428-lansdowne-ave.C8016518.htm#3x-4l,428 Lansdowne Ave,1499900,4,4,1,Lansdowne Ave,Dufferin Grove,C8016518,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/16-bellefair-ave.E8016498.htm#3x-4m,16 Bellefair Ave,1759900,2,3,0,Bellefair Ave,The Beaches,E8016498,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/163-king-edward-ave.E8016494.htm#3x-4n,163 King Edward Ave,1099000,3,3,1,King Edward Ave,Woodbine-Lumsden,E8016494,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/48-harold-st.W8016084.htm#3x-4o,48 Harold St,1848800,4,3,0,Harold St,Mimico,W8016084,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/34-appledale-rd.W8015858.htm#3x-4p,34 Appledale Rd,1299900,2,3,0,Appledale Rd,Princess-Rosethorn,W8015858,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-weatherell-st.W8015768.htm#3x-4q,1 Weatherell St,1498000,1,2,1,Weatherell St,Runnymede-Bloor West Village,W8015768,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/23-radway-ave.W8015702.htm#3x-4r,23 Radway Ave,2289000,4,4,0,Radway Ave,Markland Wood,W8015702,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/17-brynston-rd.W8014812.htm#3x-4s,17 Brynston Rd,1498900,2,3,0,Brynston Rd,Princess-Rosethorn,W8014812,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/67-runnymede-rd.W8014740.htm#3x-4t,67 Runnymede Rd,2148000,3,5,0,Runnymede Rd,High Park-Swansea,W8014740,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/69-brentwood-rd.W8014104.htm#3x-4u,69 Brentwood Rd,1695000,2,2,0,Brentwood Rd,Stonegate-Queensway,W8014104,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/343-caledonia-rd.W8013914.htm#3x-4v,343 Caledonia Rd,930000,2,2,1,Caledonia Rd,Caledonia-Fairbank,W8013914,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/213-alderbrae-ave.W8013704.htm#3x-4w,213 Alderbrae Ave,1298000,2,2,1,Alderbrae Ave,Alderwood,W8013704,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/237-pellatt-ave.W8012980.htm#3x-4x,237 Pellatt Ave,2059000,5,4,2,Pellatt Ave,Humberlea-Pelmo Park W4,W8012980,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/60-emily-ave.W8012564.htm#3x-4y,60 Emily Ave,1198888,4,4,1,Emily Ave,Humber Summit,W8012564,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/57-bloem-ave.W8011788.htm#3x-4z,57 Bloem Ave,1849000,7,4,3,Bloem Ave,Caledonia-Fairbank,W8011788,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-massingham-rd.W8011684.htm#3x-50,24 Massingham Rd,1299000,2,2,2,Massingham Rd,Eringate-Centennial-West Deane,W8011684,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1172-wilson-ave.W8011510.htm#3x-51,1172 Wilson Ave,1099000,3,3,1,Wilson Ave,Downsview-Roding-CFB,W8011510,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1128-glengrove-ave.W8010980.htm#3x-52,1128 Glengrove Ave,1288800,4,3,0,Glengrove Ave,Yorkdale-Glen Park,W8010980,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2181-kipling-ave.W8010942.htm#3x-53,2181 Kipling Ave,999000,2,3,3,Kipling Ave,Rexdale-Kipling,W8010942,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/476-valermo-dr.W8010622.htm#3x-54,476 Valermo Dr,1149999,2,2,2,Valermo Dr,Alderwood,W8010622,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/122-rangoon-rd.W8010518.htm#3x-55,122 Rangoon Rd,1048800,2,3,1,Rangoon Rd,Eringate-Centennial-West Deane,W8010518,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-bloomington-cres.W8010246.htm#3x-56,2 Bloomington Cres,959000,2,4,1,Bloomington Cres,Black Creek,W8010246,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-wexford-blvd.E8016160.htm#3x-57,40 Wexford Blvd,988000,2,3,2,Wexford Blvd,Wexford-Maryvale,E8016160,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/254-cedarvale-ave.E8015842.htm#3x-58,254 Cedarvale Ave,1100000,2,2,0,Cedarvale Ave,Woodbine-Lumsden,E8015842,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/181-ferris-rd.E8015824.htm#3x-59,181 Ferris Rd,1299000,4,4,1,Ferris Rd,O'Connor-Parkview,E8015824,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-holton-rd.E8015802.htm#3x-5a,1 Holton Rd,1069000,2,3,3,Holton Rd,Woburn,E8015802,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-doris-dr.E8015660.htm#3x-5b,6 Doris Dr,1999000,5,4,1,Doris Dr,O'Connor-Parkview,E8015660,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/225-king-edward-ave.E8014926.htm#3x-5c,225 King Edward Ave,2150000,5,4,1,King Edward Ave,Woodbine-Lumsden,E8014926,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-lynvalley-cres.E8014490.htm#3x-5d,19 Lynvalley Cres,1295000,3,3,2,Lynvalley Cres,Wexford-Maryvale,E8014490,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/135-midland-ave.E8014098.htm#3x-5e,135 Midland Ave,1199000,2,3,1,Midland Ave,Cliffcrest,E8014098,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/23-starfire-dr.E8014062.htm#3x-5f,23 Starfire Dr,1980000,5,4,0,Starfire Dr,Highland Creek,E8014062,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/28-windover-dr.E8014052.htm#3x-5g,28 Windover Dr,1198900,3,3,1,Windover Dr,Woburn,E8014052,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/57-thornbeck-dr.E8014034.htm#3x-5h,57 Thornbeck Dr,999990,3,3,2,Thornbeck Dr,Woburn,E8014034,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6436-kingston-rd.E8013718.htm#3x-5i,6436 Kingston Rd,1700000,1,2,0,Kingston Rd,Highland Creek,E8013718,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-ada-cres.E8013066.htm#3x-5j,12 Ada Cres,1199000,2,3,2,Ada Cres,Bendale,E8013066,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/78-andona-cres.E8012064.htm#3x-5k,78 Andona Cres,999000,3,3,1,Andona Cres,Centennial Scarborough,E8012064,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/124-manse-rd.E8011186.htm#3x-5l,124 Manse Rd,1937777,5,4,1,Manse Rd,West Hill,E8011186,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/150-lot-number-cres.E8011052.htm#3x-5m,150 Lot Number Cres,2100000,6,4,2,Lot Number Cres,Bendale,E8011052,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2946-st-clair-ave.E8010302.htm#3x-5n,2946 St Clair Ave,699999,2,4,2,St Clair Ave,O'Connor-Parkview,E8010302,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2946-st-clair-ave.E8010146.htm#3x-5o,2946 St Clair Ave,699999,2,4,2,St Clair Ave,O'Connor-Parkview,E8010146,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1112-greenwood-ave.E8010048.htm#3x-5p,1112 Greenwood Ave,1340000,2,2,2,Greenwood Ave,East York,E8010048,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/32-parade-sq.E8009790.htm#3x-5q,32 Parade Sq,999000,3,3,0,Parade Sq,Highland Creek,E8009790,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1937-lawrence-ave.W8013270.htm#3x-5r,1937 Lawrence Ave,2888800,8,7,0,Lawrence Ave,Weston,W8013270,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/22-chelmsford-ave.C8016470.htm#3x-5s,22 Chelmsford Ave,2499999,6,4,3,Chelmsford Ave,Newtonbrook West,C8016470,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/31-kirkdale-cres.C8015596.htm#3x-5t,31 Kirkdale Cres,4149000,7,5,1,Kirkdale Cres,Banbury-Don Mills,C8015596,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/38-tangmere-rd.C8015346.htm#3x-5u,38 Tangmere Rd,2798000,4,3,0,Tangmere Rd,Banbury-Don Mills,C8015346,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/65-bannockburn-ave.C8015162.htm#3x-5v,65 Bannockburn Ave,4649000,6,4,1,Bannockburn Ave,Bedford Park-Nortown,C8015162,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-bayberry-cres.C8015112.htm#3x-5w,2 Bayberry Cres,2108000,3,3,1,Bayberry Cres,Bayview Village,C8015112,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/61-hawksbury-dr.C8015068.htm#3x-5x,61 Hawksbury Dr,4998000,6,4,1,Hawksbury Dr,Bayview Village,C8015068,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/237-horsham-ave.C8015022.htm#3x-5y,237 Horsham Ave,4088000,7,4,3,Horsham Ave,Willowdale West,C8015022,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/85-kingsdale-ave.C8014858.htm#3x-5z,85 Kingsdale Ave,4258000,7,4,1,Kingsdale Ave,Willowdale East,C8014858,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/77-northcote-ave.C8014792.htm#3x-60,77 Northcote Ave,1695000,4,4,1,Northcote Ave,Little Portugal,C8014792,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/72-glengowan-rd.C8014774.htm#3x-61,72 Glengowan Rd,4525000,5,5,1,Glengowan Rd,Lawrence Park South,C8014774,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/521-spadina-rd.C8014664.htm#3x-62,521 Spadina Rd,8999000,6,4,1,Spadina Rd,Forest Hill South,C8014664,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/72-cheltenham-ave.C8014530.htm#3x-63,72 Cheltenham Ave,5389000,6,4,1,Cheltenham Ave,Lawrence Park South,C8014530,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/159-brian-dr.C8014444.htm#3x-64,159 Brian Dr,1998000,4,3,1,Brian Dr,Pleasant View,C8014444,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/38-lorraine-dr.C8014294.htm#3x-65,38 Lorraine Dr,3990000,7,5,2,Lorraine Dr,Willowdale West,C8014294,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/56-knollview-cres.C8014054.htm#3x-66,56 Knollview Cres,1988000,4,4,2,Knollview Cres,Bayview Village,C8014054,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/149-dunvegan-rd.C8012040.htm#3x-67,149 Dunvegan Rd,8199000,5,4,1,Dunvegan Rd,Forest Hill South,C8012040,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/73-william-durie-way.C8011952.htm#3x-68,73 William Durie Way,2349980,5,4,0,William Durie Way,Newtonbrook West,C8011952,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-fennings-st.C8011598.htm#3x-69,19 Fennings St,3799000,3,2,1,Fennings St,Trinity-Bellwoods,C8011598,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/228-robina-ave.C8011164.htm#3x-6a,228 Robina Ave,1088000,2,3,0,Robina Ave,Oakwood Village,C8011164,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-clarendon-ave.C8010796.htm#3x-6b,19 Clarendon Ave,3739000,4,3,0,Clarendon Ave,Casa Loma,C8010796,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/673-conacher-dr.C8010452.htm#3x-6c,673 Conacher Dr,1987000,3,3,0,Conacher Dr,Willowdale East,C8010452,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-craigmore-cres.C8010240.htm#3x-6d,27 Craigmore Cres,1800000,2,2,1,Craigmore Cres,Willowdale East,C8010240,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/473-vaughan-rd.C8009736.htm#3x-6e,473 Vaughan Rd,1199888,2,2,4,Vaughan Rd,Oakwood Village,C8009736,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/149-gainsborough-rd.E8016280.htm#3x-6f,149 Gainsborough Rd,2579900,5,9,2,Gainsborough Rd,Woodbine Corridor,E8016280,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/97-lee-ave.E8011556.htm#3x-6g,97 Lee Ave,9190000,11,9,8,Lee Ave,The Beaches,E8011556,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-muirlands-dr.E8010676.htm#3x-6h,12 Muirlands Dr,998800,3,3,1,Muirlands Dr,Milliken,E8010676,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/348-betty-ann-dr.C7322172.htm#3x-6i,348 Betty Ann Dr,3395000,6,4,2,Betty Ann Dr,Willowdale West,C7322172,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/162-finch-ave-unit-b.C8015950.htm#3x-6j,162 Finch Ave Unit B,1799000,4,4,0,Finch Ave,Newtonbrook East,C8015950,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/49-harnworth-dr.C8010908.htm#3x-6k,49 Harnworth Dr,1258800,2,3,0,Harnworth Dr,Hillcrest Village,C8010908,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/73-ash-cres.W8009432.htm#3x-6l,73 Ash Cres,1650000,2,4,0,Ash Cres,Long Branch,W8009432,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/190-combe-ave.C8009482.htm#3x-6m,190 Combe Ave,1598888,3,3,3,Combe Ave,Bathurst Manor,C8009482,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-blackdown-cres.W8008894.htm#3x-6n,2 Blackdown Cres,1898000,3,3,0,Blackdown Cres,Princess-Rosethorn,W8008894,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/96-westhumber-blvd.W8008438.htm#3x-6o,96 Westhumber Blvd,1100000,3,4,1,Westhumber Blvd,West Humber-Clairville,W8008438,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/168-lansdowne-ave.W8008276.htm#3x-6p,168 Lansdowne Ave,2199000,4,3,1,Lansdowne Ave,Roncesvalles,W8008276,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/14-amberwood-rd.W8007932.htm#3x-6q,14 Amberwood Rd,1179999,2,3,1,Amberwood Rd,Eringate-Centennial-West Deane,W8007932,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-faversham-cres.W8007506.htm#3x-6r,19 Faversham Cres,1174999,2,3,2,Faversham Cres,Eringate-Centennial-West Deane,W8007506,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/124-allanhurst-dr.W8007156.htm#3x-6s,124 Allanhurst Dr,1399900,2,3,1,Allanhurst Dr,Edenbridge-Humber Valley,W8007156,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-bonnyview-dr.W7406190.htm#3x-6t,6 Bonnyview Dr,1499900,2,3,1,Bonnyview Dr,Stonegate-Queensway,W7406190,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/22-the-kingsway.W7404838.htm#3x-6u,22 The Kingsway,4250000,6,4,1,The Kingsway,Kingsway South,W7404838,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/88-saint-george-st.W7404762.htm#3x-6v,88 Saint George St,3479000,8,4,2,Saint George St,Mimico,W7404762,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-weybridge-crt.W7404506.htm#3x-6w,19 Weybridge Crt,1799000,2,3,0,Weybridge Crt,Princess-Rosethorn,W7404506,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/55-northridge-ave.E8009192.htm#3x-6x,55 Northridge Ave,1350000,2,2,2,Northridge Ave,East York,E8009192,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/143-drayton-ave.E8008948.htm#3x-6y,143 Drayton Ave,1829000,4,3,0,Drayton Ave,East End-Danforth,E8008948,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/60-rosemount-dr.E7406732.htm#3x-6z,60 Rosemount Dr,1999000,7,5,3,Rosemount Dr,Ionview,E7406732,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/170-ingleton-blvd.E7405792.htm#3x-70,170 Ingleton Blvd,1399000,4,3,1,Ingleton Blvd,Milliken,E7405792,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/141-kalmar-ave.E7405614.htm#3x-71,141 Kalmar Ave,1949900,4,4,1,Kalmar Ave,Birchcliffe-Cliffside,E7405614,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-bethune-blvd.E7405198.htm#3x-72,8 Bethune Blvd,1199000,2,3,1,Bethune Blvd,Guildwood,E7405198,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/144-dorset-rd.E7405124.htm#3x-73,144 Dorset Rd,1199900,3,3,4,Dorset Rd,Cliffcrest,E7405124,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-chatterton-blvd.E7404984.htm#3x-74,20 Chatterton Blvd,2699990,5,5,2,Chatterton Blvd,Scarborough Village,E7404984,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/433-ashdale-ave.E7404594.htm#3x-75,433 Ashdale Ave,1628000,3,3,0,Ashdale Ave,Greenwood-Coxwell,E7404594,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/13-savoy-ave.E7404542.htm#3x-76,13 Savoy Ave,2148000,5,3,1,Savoy Ave,Woodbine-Lumsden,E7404542,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/32-andes-rd.E7404408.htm#3x-77,32 Andes Rd,1398000,4,4,2,Andes Rd,L'Amoreaux,E7404408,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/135-hove-st.C8008712.htm#3x-78,135 Hove St,2600000,5,5,1,Hove St,Bathurst Manor,C8008712,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-heathview-ave.C8008262.htm#3x-79,42 Heathview Ave,3888000,3,4,0,Heathview Ave,Bayview Village,C8008262,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-yeomans-rd.C8008228.htm#3x-7a,5 Yeomans Rd,2999000,6,4,1,Yeomans Rd,Clanton Park,C8008228,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/54-banstock-dr.C8008140.htm#3x-7b,54 Banstock Dr,3288000,5,6,0,Banstock Dr,Bayview Woods-Steeles,C8008140,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/275-estelle-ave.C8008090.htm#3x-7c,275 Estelle Ave,1999000,4,4,1,Estelle Ave,Willowdale East,C8008090,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/45-sandale-gdns.C8007972.htm#3x-7d,45 Sandale Gdns,1598000,2,3,0,Sandale Gdns,Bathurst Manor,C8007972,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-lionel-hts-cres.C8007672.htm#3x-7e,25 Lionel Hts Cres,1538800,2,4,1,Lionel Hts Cres,Parkwoods-Donalda,C8007672,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/133-blake-ave.C8007358.htm#3x-7f,133 Blake Ave,1699000,3,5,1,Blake Ave,Newtonbrook West,C8007358,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/44-chatsworth-dr.C7406214.htm#3x-7g,44 Chatsworth Dr,2449000,2,4,0,Chatsworth Dr,Lawrence Park South,C7406214,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/14-brookfield-rd.C7405934.htm#3x-7h,14 Brookfield Rd,3995000,1,3,0,Brookfield Rd,Bridle Path-Sunnybrook-York Mills,C7405934,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/34-green-valley-rd.C7405558.htm#3x-7i,34 Green Valley Rd,5995000,4,3,2,Green Valley Rd,Bridle Path-Sunnybrook-York Mills,C7405558,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/32-servington-cres.C7405454.htm#3x-7j,32 Servington Cres,3988800,4,4,1,Servington Cres,Mount Pleasant West,C7405454,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/149-sherwood-ave.C7404886.htm#3x-7k,149 Sherwood Ave,2666000,3,3,0,Sherwood Ave,Mount Pleasant East,C7404886,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/125-madison-ave.C7405208.htm#3x-7l,125 Madison Ave,2745000,9,9,0,Madison Ave,Annex,C7405208,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/103-wallasey-ave.W7403758.htm#3x-7m,103 Wallasey Ave,1295000,2,3,0,Wallasey Ave,Humberlea-Pelmo Park W5,W7403758,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-magdalena-crt.W7403504.htm#3x-7n,5 Magdalena Crt,1149000,3,3,1,Magdalena Crt,Mount Olive-Silverstone-Jamestown,W7403504,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/180-burnhamthorpe-rd.W7403410.htm#3x-7o,180 Burnhamthorpe Rd,1599900,2,3,0,Burnhamthorpe Rd,Islington-City Centre West,W7403410,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-elder-ave.W7402404.htm#3x-7p,42 Elder Ave,1299900,3,3,1,Elder Ave,Long Branch,W7402404,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-markwood-cres.W7402346.htm#3x-7q,5 Markwood Cres,1799000,3,4,0,Markwood Cres,Markland Wood,W7402346,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/147-perry-cres.W7402228.htm#3x-7r,147 Perry Cres,2399900,3,3,1,Perry Cres,Princess-Rosethorn,W7402228,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/36-samba-dr.W7401992.htm#3x-7s,36 Samba Dr,1299000,3,3,2,Samba Dr,Humbermede,W7401992,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/39-fred-young-dr.W7402574.htm#3x-7t,39 Fred Young Dr,1349900,4,4,1,Fred Young Dr,Downsview-Roding-CFB,W7402574,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/60-valhalla-blvd.E7404114.htm#3x-7u,60 Valhalla Blvd,2089000,5,4,2,Valhalla Blvd,Birchcliffe-Cliffside,E7404114,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/128-greyabbey-tr.E7403936.htm#3x-7v,128 Greyabbey Tr,1099000,3,4,2,Greyabbey Tr,Guildwood,E7403936,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6432-kingston-rd.E7402694.htm#3x-7w,6432 Kingston Rd,1600000,4,3,3,Kingston Rd,Highland Creek,E7402694,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/32-staverton-crt.E7402582.htm#3x-7x,32 Staverton Crt,1369900,5,5,3,Staverton Crt,Milliken,E7402582,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-parkview-hts.E7402420.htm#3x-7y,2 Parkview Hts,3350000,4,5,1,Parkview Hts,Birchcliffe-Cliffside,E7402420,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/133-porchester-dr.E7401944.htm#3x-7z,133 Porchester Dr,1095000,2,3,1,Porchester Dr,Woburn,E7401944,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/17-cheyenne-dr.E7401892.htm#3x-80,17 Cheyenne Dr,1299000,2,5,0,Cheyenne Dr,Woburn,E7401892,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/60-winnifred-ave.E7401890.htm#3x-81,60 Winnifred Ave,1395000,2,3,0,Winnifred Ave,South Riverdale,E7401890,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/509-winona-dr.C7404080.htm#3x-82,509 Winona Dr,2262150,5,4,1,Winona Dr,Oakwood Village,C7404080,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/471-vaughan-rd.C7403608.htm#3x-83,471 Vaughan Rd,1150000,3,2,3,Vaughan Rd,Oakwood Village,C7403608,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/558-kingston-rd.E7403402.htm#3x-84,558 Kingston Rd,7000000,0,0,0,Kingston Rd,The Beaches,E7403402,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/562-kingston-rd.E7403294.htm#3x-85,562 Kingston Rd,3500000,4,8,0,Kingston Rd,The Beaches,E7403294,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/558-kingston-rd.E7403292.htm#3x-86,558 Kingston Rd,3500000,4,8,0,Kingston Rd,The Beaches,E7403292,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/135-crescent-rd-coach.C7403594.htm#3x-87,135 Crescent Rd + Coach,11895000,6,5,1,Crescent Rd,Rosedale-Moore Park,C7403594,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-gloucester-lane.C7403590.htm#3x-88,18 Gloucester Lane,8495000,10,2,0,Gloucester Lane,Church-Yonge Corridor,C7403590,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/135-crescent-rd.C7403588.htm#3x-89,135 Crescent Rd,9995000,6,5,1,Crescent Rd,Rosedale-Moore Park,C7403588,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/135-crescent-rd-coach-h.C7403580.htm#3x-8a,135 Crescent Rd Coach H,2500000,3,2,0,Crescent Rd,Rosedale-Moore Park,C7403580,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/17-artinger-crt.C7403530.htm#3x-8b,17 Artinger Crt,7995000,9,5,1,Artinger Crt,Banbury-Don Mills,C7403530,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/11-bunty-lane.C7403168.htm#3x-8c,11 Bunty Lane,2688888,3,3,2,Bunty Lane,Bayview Village,C7403168,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/272-cranbrooke-ave.C7403116.htm#3x-8d,272 Cranbrooke Ave,3850000,5,4,1,Cranbrooke Ave,Lawrence Park North,C7403116,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/35-belcourt-rd.C7402602.htm#3x-8e,35 Belcourt Rd,1739000,2,3,0,Belcourt Rd,Mount Pleasant East,C7402602,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/73-centre-ave.C7402328.htm#3x-8f,73 Centre Ave,1888000,3,4,2,Centre Ave,Willowdale East,C7402328,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-boulton-dr.C7402098.htm#3x-8g,6 Boulton Dr,2995000,5,7,2,Boulton Dr,Casa Loma,C7402098,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/552-morrish-rd.E7401776.htm#3x-8h,552 Morrish Rd,1598900,4,4,2,Morrish Rd,Highland Creek,E7401776,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/157-berry-rd.W7401384.htm#3x-8i,157 Berry Rd,2595000,4,8,0,Berry Rd,Stonegate-Queensway,W7401384,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/107-whitmore-ave.C7401772.htm#3x-8j,107 Whitmore Ave,2280000,4,3,1,Whitmore Ave,Forest Hill North,C7401772,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/178-blythwood-rd.C7401542.htm#3x-8k,178 Blythwood Rd,3300000,2,4,0,Blythwood Rd,Lawrence Park South,C7401542,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/67-montressor-dr.C7401368.htm#3x-8l,67 Montressor Dr,6799000,7,5,1,Montressor Dr,St. Andrew-Windfields,C7401368,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-edenvale-cres.W7401164.htm#3x-8m,25 Edenvale Cres,2450000,4,4,0,Edenvale Cres,Edenbridge-Humber Valley,W7401164,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/44-lexfield-ave.W7400984.htm#3x-8n,44 Lexfield Ave,1288800,2,3,0,Lexfield Ave,Downsview-Roding-CFB,W7400984,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/37-archway-cres.W7400898.htm#3x-8o,37 Archway Cres,1250000,2,3,0,Archway Cres,Humbermede,W7400898,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/157-princess-anne-cres.W7400640.htm#3x-8p,157 Princess Anne Cres,1898000,3,4,0,Princess Anne Cres,Princess-Rosethorn,W7400640,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/49-edgevalley-dr.W7400574.htm#3x-8q,49 Edgevalley Dr,4798000,5,3,1,Edgevalley Dr,Edenbridge-Humber Valley,W7400574,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/91-delma-dr.W7400380.htm#3x-8r,91 Delma Dr,1249000,3,3,1,Delma Dr,Alderwood,W7400380,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/229-rustic-rd.W7400194.htm#3x-8s,229 Rustic Rd,1599000,2,4,0,Rustic Rd,Rustic,W7400194,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/43-robertsfield-cres.E7401052.htm#3x-8t,43 Robertsfield Cres,1149900,2,3,1,Robertsfield Cres,Wexford-Maryvale,E7401052,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-leameadow-way.E7400212.htm#3x-8u,42 Leameadow Way,934900,3,3,1,Leameadow Way,Rouge E11,E7400212,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/110-clovelly-ave.C7400874.htm#3x-8v,110 Clovelly Ave,2350000,6,4,1,Clovelly Ave,Oakwood Village,C7400874,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/104-de-vere-gdns.C7400732.htm#3x-8w,104 De Vere Gdns,2595000,5,3,1,De Vere Gdns,Bedford Park-Nortown,C7400732,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-becky-cheung-crt.C7400238.htm#3x-8x,7 Becky Cheung Crt,3288800,6,4,1,Becky Cheung Crt,Willowdale East,C7400238,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/204-holmes-ave.C7400218.htm#3x-8y,204 Holmes Ave,2198000,3,3,0,Holmes Ave,Willowdale East,C7400218,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/32-brookfield-rd.C7400126.htm#3x-8z,32 Brookfield Rd,5888000,5,4,0,Brookfield Rd,Bridle Path-Sunnybrook-York Mills,C7400126,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-becky-cheung-crt.C7400118.htm#3x-90,5 Becky Cheung Crt,2998000,6,4,1,Becky Cheung Crt,Willowdale East,C7400118,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-wesley-st.W7399518.htm#3x-91,18 Wesley St,1200000,2,2,1,Wesley St,Mimico,W7399518,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/343-mckee-ave.C7399898.htm#3x-92,343 Mckee Ave,4998000,7,4,1,Mckee Ave,Willowdale East,C7399898,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/52-hendrick-ave.C7399776.htm#3x-93,52 Hendrick Ave,1698000,2,3,0,Hendrick Ave,Wychwood,C7399776,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/17-mandel-cres.C7399498.htm#3x-94,17 Mandel Cres,1738000,3,4,1,Mandel Cres,Bayview Woods-Steeles,C7399498,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/126-sears-st.E7399118.htm#3x-95,126 Sears St,3697000,3,4,0,Sears St,Greenwood-Coxwell,E7399118,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/67-spring-forest-sq.E7398978.htm#3x-96,67 Spring Forest Sq,1188000,4,3,2,Spring Forest Sq,Agincourt South-Malvern West,E7398978,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-chadbury-pl.E7398770.htm#3x-97,6 Chadbury Pl,1550000,4,4,1,Chadbury Pl,Steeles,E7398770,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/11-brule-cres.W7398884.htm#3x-98,11 Brule Cres,2699999,2,3,0,Brule Cres,High Park-Swansea,W7398884,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/80-amesbury-dr.W7398652.htm#3x-99,80 Amesbury Dr,1235000,3,3,1,Amesbury Dr,Brookhaven-Amesbury,W7398652,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/29-millburn-dr.W7398236.htm#3x-9a,29 Millburn Dr,2499000,8,5,3,Millburn Dr,Eringate-Centennial-West Deane,W7398236,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/349-fairlawn-ave.C7399350.htm#3x-9b,349 Fairlawn Ave,3088000,5,4,1,Fairlawn Ave,Bedford Park-Nortown,C7399350,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/178-cedric-ave.C7399310.htm#3x-9c,178 Cedric Ave,849900,2,1,1,Cedric Ave,Oakwood Village,C7399310,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/370-hillsdale-ave.C7399290.htm#3x-9d,370 Hillsdale Ave,2899000,5,4,1,Hillsdale Ave,Mount Pleasant East,C7399290,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/150-viewmount-ave.C7399280.htm#3x-9e,150 Viewmount Ave,3374000,5,4,1,Viewmount Ave,Englemount-Lawrence,C7399280,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/75-florence-ave.C7399106.htm#3x-9f,75 Florence Ave,2050000,3,3,0,Florence Ave,Lansing-Westgate,C7399106,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/185-dawlish-ave.C7399088.htm#3x-9g,185 Dawlish Ave,10995000,8,5,1,Dawlish Ave,Lawrence Park South,C7399088,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/23-misty-cres.C7399086.htm#3x-9h,23 Misty Cres,12288000,8,5,1,Misty Cres,Banbury-Don Mills,C7399086,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/127-orchard-view-blvd.C7398896.htm#3x-9i,127 Orchard View Blvd,2499000,4,3,0,Orchard View Blvd,Yonge-Eglinton,C7398896,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/51-wilmar-rd.W7396648.htm#3x-9j,51 Wilmar Rd,2988000,5,4,0,Wilmar Rd,Islington-City Centre West,W7396648,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-raymore-dr.W7396310.htm#3x-9k,12 Raymore Dr,1398000,3,4,0,Raymore Dr,Humber Heights,W7396310,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/143-princess-anne-cres.W7395994.htm#3x-9l,143 Princess Anne Cres,2400000,7,7,0,Princess Anne Cres,Princess-Rosethorn,W7395994,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/87-bonacres-ave.E7397070.htm#3x-9m,87 Bonacres Ave,1790000,5,4,0,Bonacres Ave,Centennial Scarborough,E7397070,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-garden-park-ave.E7396920.htm#3x-9n,27 Garden Park Ave,1429000,4,3,3,Garden Park Ave,Agincourt South-Malvern West,E7396920,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-camilla-cres.E7396060.htm#3x-9o,1 Camilla Cres,1999900,5,4,2,Camilla Cres,Clairlea-Birchmount,E7396060,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/39-kenworthy-ave.E7396024.htm#3x-9p,39 Kenworthy Ave,759000,2,2,2,Kenworthy Ave,Oakridge,E7396024,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-ampleford-pl.E7395930.htm#3x-9q,4 Ampleford Pl,1299000,4,3,1,Ampleford Pl,Milliken,E7395930,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-choiceland-blvd.E7395920.htm#3x-9r,5 Choiceland Blvd,1650000,4,4,3,Choiceland Blvd,Highland Creek,E7395920,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/91-burncrest-dr.C7397128.htm#3x-9s,91 Burncrest Dr,3690000,5,4,1,Burncrest Dr,Bedford Park-Nortown,C7397128,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-gatehead-rd.C7396624.htm#3x-9t,42 Gatehead Rd,1888000,3,5,0,Gatehead Rd,Bayview Village,C7396624,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/228-dunvegan-rd.C7396534.htm#3x-9u,228 Dunvegan Rd,14300000,9,5,1,Dunvegan Rd,Forest Hill South,C7396534,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/59-anndale-dr.C7395496.htm#3x-9v,59 Anndale Dr,1850000,3,2,1,Anndale Dr,Willowdale East,C7395496,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-florence-ave.C7395408.htm#3x-9w,18 Florence Ave,2580000,5,3,1,Florence Ave,Lansing-Westgate,C7395408,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/127-eighth-st.W7394838.htm#3x-9x,127 Eighth St,1095888,1,3,0,Eighth St,New Toronto,W7394838,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/68-leggett-ave.W7394830.htm#3x-9y,68 Leggett Ave,2299000,3,4,1,Leggett Ave,Humber Heights,W7394830,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/38-ravensbourne-cres.W7394694.htm#3x-9z,38 Ravensbourne Cres,4977990,5,5,0,Ravensbourne Cres,Princess-Rosethorn,W7394694,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/413-nairn-ave.W7394486.htm#3x-a0,413 Nairn Ave,999999,3,4,2,Nairn Ave,Caledonia-Fairbank,W7394486,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/52-lockerbie-ave.W7394432.htm#3x-a1,52 Lockerbie Ave,1089000,2,2,0,Lockerbie Ave,Humberlea-Pelmo Park W4,W7394432,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/189-parkside-dr.W7394216.htm#3x-a2,189 Parkside Dr,2149000,4,5,1,Parkside Dr,South Parkdale,W7394216,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1132-warden-ave.E7394742.htm#3x-a3,1132 Warden Ave,1499990,2,3,3,Warden Ave,Wexford-Maryvale,E7394742,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/37-euclid-ave.E7394158.htm#3x-a4,37 Euclid Ave,3189000,7,4,1,Euclid Ave,Highland Creek,E7394158,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/119-sweeney-dr.C7394462.htm#3x-a5,119 Sweeney Dr,1399000,2,3,2,Sweeney Dr,Victoria Village,C7394462,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/129-morningview-tr.E7393900.htm#3x-a6,129 Morningview Tr,999000,4,4,2,Morningview Tr,Rouge E11,E7393900,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/257-john-tabor-tr.E7393872.htm#3x-a7,257 John Tabor Tr,1200000,2,3,2,John Tabor Tr,Malvern,E7393872,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/183-island-rd.E7393756.htm#3x-a8,183 Island Rd,999000,2,3,1,Island Rd,Rouge E10,E7393756,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2536-st-clair-ave.E7392424.htm#3x-a9,2536 St Clair Ave,2635000,5,4,0,St Clair Ave,O'Connor-Parkview,E7392424,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/234-concord-ave.C7393746.htm#3x-aa,234 Concord Ave,1999988,4,5,0,Concord Ave,Palmerston-Little Italy,C7393746,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/74-cornerbrook-dr.C7393494.htm#3x-ab,74 Cornerbrook Dr,1349900,2,3,2,Cornerbrook Dr,Parkwoods-Donalda,C7393494,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/71-horsham-ave.C7393378.htm#3x-ac,71 Horsham Ave,3255000,6,4,1,Horsham Ave,Willowdale West,C7393378,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/94-pemberton-ave.C7392972.htm#3x-ad,94 Pemberton Ave,2388000,3,4,0,Pemberton Ave,Newtonbrook East,C7392972,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/163-roe-ave.C7392698.htm#3x-ae,163 Roe Ave,2195000,4,3,0,Roe Ave,Bedford Park-Nortown,C7392698,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/282-homewood-ave.C7392588.htm#3x-af,282 Homewood Ave,1489999,1,2,0,Homewood Ave,Newtonbrook West,C7392588,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/135-ranee-ave.C7392570.htm#3x-ag,135 Ranee Ave,3350000,7,5,3,Ranee Ave,Englemount-Lawrence,C7392570,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-hilldowntree-rd.W7315876.htm#3x-ah,40 Hilldowntree Rd,3489000,6,5,1,Hilldowntree Rd,Edenbridge-Humber Valley,W7315876,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/56-stanley-greene-blvd.W7288402.htm#3x-ai,56 Stanley Greene Blvd,1998000,4,4,0,Stanley Greene Blvd,Downsview-Roding-CFB,W7288402,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-dominion-rd.W7389980.htm#3x-aj,18 Dominion Rd,1595000,3,5,2,Dominion Rd,Long Branch,W7389980,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/113-mcintosh-st.E7391156.htm#3x-ak,113 Mcintosh St,699000,0,2,0,Mcintosh St,Birchcliffe-Cliffside,E7391156,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-robaldon-rd.W7392058.htm#3x-al,12 Robaldon Rd,2350000,4,4,1,Robaldon Rd,Edenbridge-Humber Valley,W7392058,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/47-ambleside-ave.W7391944.htm#3x-am,47 Ambleside Ave,3288000,6,4,2,Ambleside Ave,Stonegate-Queensway,W7391944,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/127-greenlaw-ave.W7390820.htm#3x-an,127 Greenlaw Ave,1899000,3,3,1,Greenlaw Ave,Corso Italia-Davenport,W7390820,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-brinloor-blvd.E7389914.htm#3x-ao,7 Brinloor Blvd,2799000,7,4,1,Brinloor Blvd,Scarborough Village,E7389914,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3-rosalind-cres.E7389860.htm#3x-ap,3 Rosalind Cres,1249900,3,4,1,Rosalind Cres,Clairlea-Birchmount,E7389860,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/214-shaver-ave.W7390154.htm#3x-aq,214 Shaver Ave,3649000,7,4,1,Shaver Ave,Islington-City Centre West,W7390154,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/125-sixteenth-st.W7389792.htm#3x-ar,125 Sixteenth St,1132000,2,3,1,Sixteenth St,New Toronto,W7389792,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/131-perry-cres.W7389722.htm#3x-as,131 Perry Cres,1749900,2,3,0,Perry Cres,Princess-Rosethorn,W7389722,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/45-bayview-ridge.C7391256.htm#3x-at,45 Bayview Ridge,22500000,10,6,2,Bayview Ridge,Bridle Path-Sunnybrook-York Mills,C7391256,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/55-moore-park-ave.C7391246.htm#3x-au,55 Moore Park Ave,2099900,6,5,1,Moore Park Ave,Newtonbrook West,C7391246,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-vesta-dr.C7391126.htm#3x-av,15 Vesta Dr,7295000,6,4,0,Vesta Dr,Forest Hill South,C7391126,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/47-waddington-cres.C7390100.htm#3x-aw,47 Waddington Cres,1349000,2,3,1,Waddington Cres,Don Valley Village,C7390100,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/382-burnhamthorpe-rd.W7389450.htm#3x-ax,382 Burnhamthorpe Rd,1099999,3,4,0,Burnhamthorpe Rd,Islington-City Centre West,W7389450,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/43-ninth-st.W7388484.htm#3x-ay,43 Ninth St,2749900,5,4,2,Ninth St,New Toronto,W7388484,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/28-fairbank-ave.W7388338.htm#3x-az,28 Fairbank Ave,1250000,2,3,1,Fairbank Ave,Briar Hill-Belgravia,W7388338,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/666-beresford-ave.W7387528.htm#3x-b0,666 Beresford Ave,2500000,7,5,2,Beresford Ave,Runnymede-Bloor West Village,W7387528,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/90-bicknell-ave.W7386234.htm#3x-b1,90 Bicknell Ave,1449500,3,3,1,Bicknell Ave,Keelesdale-Eglinton West,W7386234,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-deerhurst-ave.W7386150.htm#3x-b2,25 Deerhurst Ave,1299000,4,3,3,Deerhurst Ave,Humberlea-Pelmo Park W4,W7386150,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/118-martin-grove-rd.W7385988.htm#3x-b3,118 Martin Grove Rd,2997000,5,4,2,Martin Grove Rd,Islington-City Centre West,W7385988,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-twenty-third-st.W7385858.htm#3x-b4,24 Twenty-Third St,1325000,2,3,1,Twenty-Third St,Long Branch,W7385858,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/233-park-lawn-rd.W7385528.htm#3x-b5,233 Park Lawn Rd,2195000,5,4,0,Park Lawn Rd,Stonegate-Queensway,W7385528,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/480-the-kingsway.W7384382.htm#3x-b6,480 The Kingsway,5488000,7,4,1,The Kingsway,Princess-Rosethorn,W7384382,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/76-highhill-dr.E7389506.htm#3x-b7,76 Highhill Dr,1188000,4,3,1,Highhill Dr,Tam O'Shanter-Sullivan,E7389506,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/34-kirkdene-dr.E7388128.htm#3x-b8,34 Kirkdene Dr,1950000,5,4,1,Kirkdene Dr,Rouge E10,E7388128,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/96-preston-st.E7387684.htm#3x-b9,96 Preston St,899000,2,2,0,Preston St,Birchcliffe-Cliffside,E7387684,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/113-mcintosh-st.E7387572.htm#3x-ba,113 Mcintosh St,699000,1,2,0,Mcintosh St,Birchcliffe-Cliffside,E7387572,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/33-marilyn-cres.E7387450.htm#3x-bb,33 Marilyn Cres,2498000,5,4,2,Marilyn Cres,O'Connor-Parkview,E7387450,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/181-ridgewood-rd.E7387198.htm#3x-bc,181 Ridgewood Rd,1799900,5,4,2,Ridgewood Rd,Rouge E10,E7387198,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/114-marcella-st.E7387124.htm#3x-bd,114 Marcella St,1179000,3,4,0,Marcella St,Woburn,E7387124,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-davies-cres.E7387102.htm#3x-be,12 Davies Cres,2575000,4,4,2,Davies Cres,East York,E7387102,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/99-amsterdam-ave.E7386684.htm#3x-bf,99 Amsterdam Ave,1429000,4,3,1,Amsterdam Ave,O'Connor-Parkview,E7386684,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/31-snowy-owl-way.E7386484.htm#3x-bg,31 Snowy Owl Way,1850000,5,4,1,Snowy Owl Way,Rouge E11,E7386484,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/57-treerun-ave.E7385860.htm#3x-bh,57 Treerun Ave,1428000,4,3,1,Treerun Ave,Steeles,E7385860,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/44-parkview-hill-cres.E7385676.htm#3x-bi,44 Parkview Hill Cres,1699000,2,3,1,Parkview Hill Cres,O'Connor-Parkview,E7385676,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/119-deanscroft-sq.E7385664.htm#3x-bj,119 Deanscroft Sq,1249000,3,4,2,Deanscroft Sq,West Hill,E7385664,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-leroy-ave.E7385556.htm#3x-bk,12 Leroy Ave,2250000,5,3,0,Leroy Ave,Danforth Village-East York,E7385556,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/23-blueking-cres.E7383876.htm#3x-bl,23 Blueking Cres,2450000,4,4,1,Blueking Cres,Rouge E10,E7383876,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/527-kingston-rd.E7388794.htm#3x-bm,527 Kingston Rd,2999885,6,9,4,Kingston Rd,The Beaches,E7388794,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-green-spring-dr.E7384514.htm#3x-bn,27 Green Spring Dr,1038000,2,3,0,Green Spring Dr,Milliken,E7384514,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/263-broadview-ave.E7383868.htm#3x-bo,263 Broadview Ave,2899000,5,6,4,Broadview Ave,South Riverdale,E7383868,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1041-lillian-st.C7389002.htm#3x-bp,1041 Lillian St,1848800,3,3,2,Lillian St,Newtonbrook East,C7389002,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/140-holmes-ave.C7388408.htm#3x-bq,140 Holmes Ave,4580000,7,4,1,Holmes Ave,Willowdale East,C7388408,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/77-fairholme-ave.C7387716.htm#3x-br,77 Fairholme Ave,3180000,7,5,2,Fairholme Ave,Englemount-Lawrence,C7387716,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/119-stafford-rd.C7387306.htm#3x-bs,119 Stafford Rd,3388888,6,4,1,Stafford Rd,Willowdale West,C7387306,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-chipstead-rd.C7386200.htm#3x-bt,4 Chipstead Rd,2999990,5,3,1,Chipstead Rd,Banbury-Don Mills,C7386200,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/61-shannon-st.C7385588.htm#3x-bu,61 Shannon St,3599900,6,4,0,Shannon St,Trinity-Bellwoods,C7385588,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/179-northcliffe-blvd.C7385358.htm#3x-bv,179 Northcliffe Blvd,1349000,2,4,1,Northcliffe Blvd,Oakwood Village,C7385358,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/44-churchill-ave.C7385280.htm#3x-bw,44 Churchill Ave,3275000,4,4,1,Churchill Ave,Willowdale West,C7385280,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/26-clarkhill-st.C7384940.htm#3x-bx,26 Clarkhill St,2490000,5,4,2,Clarkhill St,Newtonbrook West,C7384940,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/11-dewbourne-ave.C7384554.htm#3x-by,11 Dewbourne Ave,7360000,8,5,0,Dewbourne Ave,Forest Hill South,C7384554,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/38-burnaby-blvd.C7384542.htm#3x-bz,38 Burnaby Blvd,2995000,5,4,1,Burnaby Blvd,Yonge-Eglinton,C7384542,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/487-glengarry-ave.C7384170.htm#3x-c0,487 Glengarry Ave,3495000,5,4,0,Glengarry Ave,Bedford Park-Nortown,C7384170,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/188-sweeney-dr.C7384166.htm#3x-c1,188 Sweeney Dr,2395000,3,4,2,Sweeney Dr,Victoria Village,C7384166,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-oriole-gdns.C7384010.htm#3x-c2,4 Oriole Gdns,3199000,6,5,3,Oriole Gdns,Yonge-St. Clair,C7384010,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-waring-crt.C7383726.htm#3x-c3,12 Waring Crt,4188000,7,4,1,Waring Crt,Willowdale East,C7383726,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/453-hounslow-ave.C7383678.htm#3x-c4,453 Hounslow Ave,4395000,7,4,1,Hounslow Ave,Willowdale West,C7383678,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-good-rd.E7383362.htm#3x-c5,24 Good Rd,1199000,4,3,0,Good Rd,Highland Creek,E7383362,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-cedarview-dr.E7382568.htm#3x-c6,24 Cedarview Dr,2789000,8,6,4,Cedarview Dr,Centennial Scarborough,E7382568,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-craydon-ave.W7380994.htm#3x-c7,27 Craydon Ave,1325000,5,3,0,Craydon Ave,Mount Dennis,W7380994,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1281-davenport-rd.C7381964.htm#3x-c8,1281 Davenport Rd,1420000,2,3,0,Davenport Rd,Wychwood,C7381964,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/30-deanscroft-sq.E7380920.htm#3x-c9,30 Deanscroft Sq,1049000,2,2,0,Deanscroft Sq,West Hill,E7380920,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-conlins-rd.E7380726.htm#3x-ca,40 Conlins Rd,1899900,2,5,0,Conlins Rd,Highland Creek,E7380726,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-aldergrove-ave.E7380014.htm#3x-cb,42 Aldergrove Ave,1049000,2,3,0,Aldergrove Ave,Woodbine Corridor,E7380014,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/113-confederation-dr.E7379796.htm#3x-cc,113 Confederation Dr,1200000,2,3,0,Confederation Dr,Woburn,E7379796,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/193-scarboro-cres.E7379622.htm#3x-cd,193 Scarboro Cres,1588000,3,3,1,Scarboro Cres,Cliffcrest,E7379622,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/241-waterloo-ave.C7379930.htm#3x-ce,241 Waterloo Ave,3888888,7,4,1,Waterloo Ave,Bathurst Manor,C7379930,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/30-high-point-rd.C7378334.htm#3x-cf,30 High Point Rd,28000000,12,8,0,High Point Rd,Bridle Path-Sunnybrook-York Mills,C7378334,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/135-varna-dr.C7378284.htm#3x-cg,135 Varna Dr,1879000,3,3,1,Varna Dr,Englemount-Lawrence,C7378284,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/320-atlas-ave.C7378192.htm#3x-ch,320 Atlas Ave,1918000,4,3,1,Atlas Ave,Oakwood Village,C7378192,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-swiftdale-pl.C7377472.htm#3x-ci,5 Swiftdale Pl,5200000,5,4,1,Swiftdale Pl,Banbury-Don Mills,C7377472,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/103-botfield-ave.W7378168.htm#3x-cj,103 Botfield Ave,3098000,5,4,2,Botfield Ave,Islington-City Centre West,W7378168,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/221-church-st.W7377616.htm#3x-ck,221 Church St,1349000,4,3,3,Church St,Weston,W7377616,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/41-terrace-ave.C7377340.htm#3x-cl,41 Terrace Ave,2199000,5,4,1,Terrace Ave,Willowdale West,C7377340,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/149-gainsborough-rd.E7376484.htm#3x-cm,149 Gainsborough Rd,2599900,5,9,2,Gainsborough Rd,Woodbine Corridor,E7376484,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/644-rhodes-ave.E7376412.htm#3x-cn,644 Rhodes Ave,1888800,5,4,2,Rhodes Ave,Greenwood-Coxwell,E7376412,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-shier-dr.E7375232.htm#3x-co,18 Shier Dr,1099000,2,3,4,Shier Dr,Woburn,E7375232,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/481-guildwood-pkwy.E7374816.htm#3x-cp,481 Guildwood Pkwy,3880000,6,4,2,Guildwood Pkwy,Guildwood,E7374816,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/273-cornelius-pkwy.W7376852.htm#3x-cq,273 Cornelius Pkwy,2990000,5,4,2,Cornelius Pkwy,Downsview-Roding-CFB,W7376852,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/49-alicewood-crt.W7376008.htm#3x-cr,49 Alicewood Crt,999000,3,3,0,Alicewood Crt,West Humber-Clairville,W7376008,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-lockerbie-ave.W7375004.htm#3x-cs,42 Lockerbie Ave,1600000,3,4,2,Lockerbie Ave,Humberlea-Pelmo Park W4,W7375004,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-jerome-st.W7374982.htm#3x-ct,5 Jerome St,2599000,4,3,1,Jerome St,High Park North,W7374982,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/10-urbandale-ave.C7376384.htm#3x-cu,10 Urbandale Ave,2330000,2,3,0,Urbandale Ave,Newtonbrook East,C7376384,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1566-mount-pleasant-rd.C7376328.htm#3x-cv,1566 Mount Pleasant Rd,2499000,4,3,0,Mount Pleasant Rd,Lawrence Park North,C7376328,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/226-tavistock-rd.W7374792.htm#3x-cw,226 Tavistock Rd,1325000,4,4,0,Tavistock Rd,Downsview-Roding-CFB,W7374792,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/29-winsland-dr.W7374738.htm#3x-cx,29 Winsland Dr,1565000,3,3,1,Winsland Dr,Princess-Rosethorn,W7374738,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/135-rochester-ave.C7375024.htm#3x-cy,135 Rochester Ave,6780000,6,4,1,Rochester Ave,Bridle Path-Sunnybrook-York Mills,C7375024,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/623-vesta-dr.C7374588.htm#3x-cz,623 Vesta Dr,2499000,4,4,1,Vesta Dr,Forest Hill North,C7374588,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/70-dunraven-dr.W7374388.htm#3x-d0,70 Dunraven Dr,699000,0,0,0,Dunraven Dr,Keelesdale-Eglinton West,W7374388,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/47-grant-st.E7374350.htm#3x-d1,47 Grant St,1550000,5,4,0,Grant St,South Riverdale,E7374350,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/31-cedar-dr.E7373752.htm#3x-d2,31 Cedar Dr,1699000,5,5,3,Cedar Dr,Scarborough Village,E7373752,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3-maryhill-dr.W7372022.htm#3x-d3,3 Maryhill Dr,1249000,3,4,1,Maryhill Dr,Mount Olive-Silverstone-Jamestown,W7372022,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/102-foxridge-dr.E7372492.htm#3x-d4,102 Foxridge Dr,1097000,2,3,3,Foxridge Dr,Kennedy Park,E7372492,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/81-woolenscote-circ.W7374132.htm#3x-d5,81 Woolenscote Circ,949999,4,3,2,Woolenscote Circ,West Humber-Clairville,W7374132,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-viamede-cres.C7374172.htm#3x-d6,18 Viamede Cres,4968000,7,4,2,Viamede Cres,Bayview Village,C7374172,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-abbotsford-rd.C7374064.htm#3x-d7,1 Abbotsford Rd,4288000,7,4,1,Abbotsford Rd,Willowdale West,C7374064,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/513-hounslow-ave.C7373610.htm#3x-d8,513 Hounslow Ave,2888000,5,4,2,Hounslow Ave,Willowdale West,C7373610,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-page-ave.C7372268.htm#3x-d9,40 Page Ave,2149000,3,3,3,Page Ave,Bayview Village,C7372268,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/26-moford-cres.W7371874.htm#3x-da,26 Moford Cres,1279888,3,4,0,Moford Cres,Willowridge-Martingrove-Richview,W7371874,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-highcliff-cres.E7371924.htm#3x-db,2 Highcliff Cres,1875000,3,4,0,Highcliff Cres,Cliffcrest,E7371924,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/46-elmer-ave.E7371596.htm#3x-dc,46 Elmer Ave,1999000,4,4,2,Elmer Ave,The Beaches,E7371596,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/16-embers-dr.W7370460.htm#3x-dd,16 Embers Dr,1849000,4,3,2,Embers Dr,Eringate-Centennial-West Deane,W7370460,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/75-shilton-rd.E7369438.htm#3x-de,75 Shilton Rd,1699990,3,4,2,Shilton Rd,Agincourt South-Malvern West,E7369438,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/54-south-woodrow-blvd.E7368418.htm#3x-df,54 South Woodrow Blvd,998000,2,3,1,South Woodrow Blvd,Birchcliffe-Cliffside,E7368418,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/31-falaise-rd.E7368244.htm#3x-dg,31 Falaise Rd,1399000,2,3,2,Falaise Rd,West Hill,E7368244,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/94-lake-cres.W7367484.htm#3x-dh,94 Lake Cres,1895000,4,4,1,Lake Cres,Mimico,W7367484,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3-tedder-st.W7367276.htm#3x-di,3 Tedder St,1650000,4,3,1,Tedder St,Brookhaven-Amesbury,W7367276,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/33-norlong-blvd.E7366304.htm#3x-dj,33 Norlong Blvd,2349900,4,4,1,Norlong Blvd,East York,E7366304,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/51-allview-cres.C7366148.htm#3x-dk,51 Allview Cres,1829000,2,3,1,Allview Cres,Bayview Village,C7366148,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-derwyn-rd.E7365998.htm#3x-dl,15 Derwyn Rd,999999,2,3,1,Derwyn Rd,East York,E7365998,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/564-dufferin-st.C7364818.htm#3x-dm,564 Dufferin St,2379998,6,6,3,Dufferin St,Little Portugal,C7364818,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/127-moore-park-ave.C7364654.htm#3x-dn,127 Moore Park Ave,1688800,2,3,1,Moore Park Ave,Newtonbrook West,C7364654,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/41-kingdom-st.W7364570.htm#3x-do,41 Kingdom St,4775000,0,0,0,Kingdom St,Humber Heights,W7364570,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/84-hadrian-dr.W7364382.htm#3x-dp,84 Hadrian Dr,1088000,2,2,2,Hadrian Dr,Elms-Old Rexdale,W7364382,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/932-greenwood-ave.E7364190.htm#3x-dq,932 Greenwood Ave,1249999,2,2,2,Greenwood Ave,Danforth Village-East York,E7364190,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/82-united-sq.E7364174.htm#3x-dr,82 United Sq,979000,3,3,2,United Sq,Malvern,E7364174,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/105-empringham-dr.E7364112.htm#3x-ds,105 Empringham Dr,1149900,3,3,1,Empringham Dr,Malvern,E7364112,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/45-mountland-dr.E7363980.htm#3x-dt,45 Mountland Dr,1159000,3,3,1,Mountland Dr,Woburn,E7363980,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/29-glen-stewart-cres.E7363906.htm#3x-du,29 Glen Stewart Cres,4380000,6,4,1,Glen Stewart Cres,The Beaches,E7363906,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-tumpane-st.W7362738.htm#3x-dv,19 Tumpane St,1150000,2,3,1,Tumpane St,Downsview-Roding-CFB,W7362738,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/11-palmerston-ave.C7363270.htm#3x-dw,11 Palmerston Ave,4495000,5,3,1,Palmerston Ave,Trinity-Bellwoods,C7363270,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/240-russell-hill-rd.C7363104.htm#3x-dx,240 Russell Hill Rd,8999999,5,5,0,Russell Hill Rd,Casa Loma,C7363104,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-bairstow-cres.W7362168.htm#3x-dy,25 Bairstow Cres,1100000,3,3,3,Bairstow Cres,West Humber-Clairville,W7362168,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/21-tyre-ave.W7361056.htm#3x-dz,21 Tyre Ave,3249999,5,4,1,Tyre Ave,Islington-City Centre West,W7361056,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-glenholme-ave.W7361040.htm#3x-e0,4 Glenholme Ave,1948888,6,5,1,Glenholme Ave,Corso Italia-Davenport,W7361040,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-freeman-rd.W6639284.htm#3x-e1,7 Freeman Rd,2695000,5,4,1,Freeman Rd,Beechborough-Greenbrook,W6639284,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/23-fulham-st.E7361622.htm#3x-e2,23 Fulham St,1688000,1,4,0,Fulham St,Agincourt South-Malvern West,E7361622,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/84-kings-park-blvd.E7360694.htm#3x-e3,84 Kings Park Blvd,1580000,2,2,2,Kings Park Blvd,Danforth Village-East York,E7360694,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/136-spring-garden-ave.C7360272.htm#3x-e4,136 Spring Garden Ave,3798000,6,4,2,Spring Garden Ave,Willowdale East,C7360272,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/752-danforth-rd.E7360080.htm#3x-e5,752 Danforth Rd,1288000,3,4,3,Danforth Rd,Kennedy Park,E7360080,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/188-acton-ave.C7359496.htm#3x-e6,188 Acton Ave,1488000,2,3,0,Acton Ave,Bathurst Manor,C7359496,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-laxton-ave.W7358522.htm#3x-e7,4 Laxton Ave,1299000,4,3,2,Laxton Ave,South Parkdale,W7358522,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-lorne-ave.W7358498.htm#3x-e8,5 Lorne Ave,1039000,1,3,0,Lorne Ave,Stonegate-Queensway,W7358498,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/11-moline-dr.W7358404.htm#3x-e9,11 Moline Dr,1930000,4,5,1,Moline Dr,Kingsview Village-The Westway,W7358404,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3-edgehill-rd.W7358204.htm#3x-ea,3 Edgehill Rd,6495000,6,5,0,Edgehill Rd,Edenbridge-Humber Valley,W7358204,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/242-parkview-ave.C7357886.htm#3x-eb,242 Parkview Ave,3999900,7,4,2,Parkview Ave,Willowdale East,C7357886,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/135-admiral-rd.C7357476.htm#3x-ec,135 Admiral Rd,4999000,4,4,1,Admiral Rd,Annex,C7357476,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/320-spring-garden-ave.C7357420.htm#3x-ed,320 Spring Garden Ave,4088000,7,4,2,Spring Garden Ave,Willowdale East,C7357420,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/162-elmwood-ave.C7357358.htm#3x-ee,162 Elmwood Ave,3050000,6,4,1,Elmwood Ave,Willowdale East,C7357358,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-buckley-cres.W7357312.htm#3x-ef,5 Buckley Cres,1235000,2,3,0,Buckley Cres,Willowridge-Martingrove-Richview,W7357312,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/102-stayner-ave.W7356730.htm#3x-eg,102 Stayner Ave,3389999,5,4,0,Stayner Ave,Yorkdale-Glen Park,W7356730,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/188-humberside-ave.W7356242.htm#3x-eh,188 Humberside Ave,2649900,4,6,1,Humberside Ave,High Park North,W7356242,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/153-ponymeadow-terr.E7356462.htm#3x-ei,153 Ponymeadow Terr,1080000,4,4,1,Ponymeadow Terr,Highland Creek,E7356462,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/481-jones-ave.E7356160.htm#3x-ej,481 Jones Ave,1599900,3,3,0,Jones Ave,Blake-Jones,E7356160,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-jim-wilson-lane.E7355740.htm#3x-ek,4 Jim Wilson Lane,799000,0,0,0,Jim Wilson Lane,East End-Danforth,E7355740,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/29-swansdown-dr.C7356982.htm#3x-el,29 Swansdown Dr,7880000,6,4,1,Swansdown Dr,St. Andrew-Windfields,C7356982,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/71-centre-ave.C7356188.htm#3x-em,71 Centre Ave,2098000,2,3,2,Centre Ave,Newtonbrook East,C7356188,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/599-conacher-dr.C7355928.htm#3x-en,599 Conacher Dr,2199900,2,4,0,Conacher Dr,Newtonbrook East,C7355928,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/255-gamma-st.W7354918.htm#3x-eo,255 Gamma St,1500000,3,4,1,Gamma St,Alderwood,W7354918,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-grenview-blvd.W7354880.htm#3x-ep,12 Grenview Blvd,1764000,3,3,2,Grenview Blvd,Kingsway South,W7354880,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1007-ossington-ave.W7354104.htm#3x-eq,1007 Ossington Ave,1599000,4,3,1,Ossington Ave,Dovercourt-Wallace Emerson-Junction,W7354104,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/150-st-johns-rd.W7353696.htm#3x-er,150 St. Johns Rd,2489000,5,4,2,St. Johns Rd,Junction Area,W7353696,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-morningside-ave.W7353212.htm#3x-es,40 Morningside Ave,1150000,1,3,0,Morningside Ave,High Park-Swansea,W7353212,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/23-greenvale-terr.E7351930.htm#3x-et,23 Greenvale Terr,900000,2,2,1,Greenvale Terr,West Hill,E7351930,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/97-green-meadows-circ.C7353756.htm#3x-eu,97 Green Meadows Circ,1890500,5,4,0,Green Meadows Circ,Don Valley Village,C7353756,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/45-poplar-plains-cres.C7352130.htm#3x-ev,45 Poplar Plains Cres,2995000,3,4,0,Poplar Plains Cres,Casa Loma,C7352130,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-deerhurst-ave.W7351366.htm#3x-ew,15 Deerhurst Ave,1399900,2,3,1,Deerhurst Ave,Humberlea-Pelmo Park W4,W7351366,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1306-victoria-park-ave.E7351514.htm#3x-ex,1306 Victoria Park Ave,1250000,3,3,4,Victoria Park Ave,O'Connor-Parkview,E7351514,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/139-morningview-tr.E7351096.htm#3x-ey,139 Morningview Tr,1449999,4,3,1,Morningview Tr,Rouge E11,E7351096,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/41-beckett-ave.W7350980.htm#3x-ez,41 Beckett Ave,1495000,4,6,6,Beckett Ave,Rustic,W7350980,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/29-skyview-cres.C7350770.htm#3x-f0,29 Skyview Cres,2080000,3,3,1,Skyview Cres,Henry Farm,C7350770,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/298-keele-st.W7349318.htm#3x-f1,298 Keele St,3988888,4,3,2,Keele St,High Park North,W7349318,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-penwood-cres.C7348720.htm#3x-f2,6 Penwood Cres,7498888,7,5,2,Penwood Cres,Banbury-Don Mills,C7348720,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-cardell-ave.W7348338.htm#3x-f3,25 Cardell Ave,1569900,3,3,1,Cardell Ave,Humberlea-Pelmo Park W4,W7348338,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/51-burnhamill-pl.W7347852.htm#3x-f4,51 Burnhamill Pl,1998000,4,5,0,Burnhamill Pl,Eringate-Centennial-West Deane,W7347852,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-ashwood-cres.W7347498.htm#3x-f5,15 Ashwood Cres,2175000,3,3,1,Ashwood Cres,Princess-Rosethorn,W7347498,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/17-thirty-third-st.W7347380.htm#3x-f6,17 Thirty Third St,1049000,1,2,1,Thirty Third St,Long Branch,W7347380,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/87-castleton-ave.W7346292.htm#3x-f7,87 Castleton Ave,1169900,3,3,1,Castleton Ave,Rockcliffe-Smythe,W7346292,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-stonehenge-cres.E7345710.htm#3x-f8,15 Stonehenge Cres,1198800,2,3,2,Stonehenge Cres,Woburn,E7345710,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/114-citation-dr.C7345684.htm#3x-f9,114 Citation Dr,2100000,3,3,1,Citation Dr,Bayview Village,C7345684,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-westhampton-dr.W7345446.htm#3x-fa,5 Westhampton Dr,1279900,3,3,0,Westhampton Dr,Kingsview Village-The Westway,W7345446,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/44-rossburn-dr.W7345424.htm#3x-fb,44 Rossburn Dr,1249900,2,3,1,Rossburn Dr,Etobicoke West Mall,W7345424,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-syndicate-ave.W7344972.htm#3x-fc,24 Syndicate Ave,1298888,4,2,0,Syndicate Ave,Mount Dennis,W7344972,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/361-mcroberts-ave.W7344522.htm#3x-fd,361 Mcroberts Ave,1699000,4,3,1,Mcroberts Ave,Caledonia-Fairbank,W7344522,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/116-seaton-st.C7344920.htm#3x-fe,116 Seaton St,1679000,4,4,0,Seaton St,Moss Park,C7344920,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/165-joicey-blvd.C7345326.htm#3x-ff,165 Joicey Blvd,2998000,5,4,1,Joicey Blvd,Bedford Park-Nortown,C7345326,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-riverside-dr.W7344262.htm#3x-fg,7 Riverside Dr,1429900,2,3,1,Riverside Dr,Humber Summit,W7344262,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/689-crawford-st.C7344244.htm#3x-fh,689 Crawford St,2950000,2,5,2,Crawford St,Palmerston-Little Italy,C7344244,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/91-valecrest-dr.W7343806.htm#3x-fi,91 Valecrest Dr,11999900,8,4,1,Valecrest Dr,Edenbridge-Humber Valley,W7343806,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/36-albright-ave.W7343804.htm#3x-fj,36 Albright Ave,2688000,5,4,0,Albright Ave,Alderwood,W7343804,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/126-lake-cres.W7343712.htm#3x-fk,126 Lake Cres,2648800,5,4,1,Lake Cres,Mimico,W7343712,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/22-yorkleigh-ave.W7342610.htm#3x-fl,22 Yorkleigh Ave,2999900,4,3,2,Yorkleigh Ave,Humber Heights,W7342610,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-muir-ave.W7342288.htm#3x-fm,25 Muir Ave,1899900,5,4,2,Muir Ave,Humber Summit,W7342288,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/98-castle-hill-dr.E7342750.htm#3x-fn,98 Castle Hill Dr,2990000,8,5,1,Castle Hill Dr,L'Amoreaux,E7342750,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/417-brunswick-ave.C7342616.htm#3x-fo,417 Brunswick Ave,2819000,6,7,0,Brunswick Ave,Annex,C7342616,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/110-clovelly-ave.C7342512.htm#3x-fp,110 Clovelly Ave,999999,2,2,0,Clovelly Ave,Oakwood Village,C7342512,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/54-croft-st.C7342310.htm#3x-fq,54 Croft St,2385000,3,3,1,Croft St,University,C7342310,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/49-william-cragg-dr.W7340296.htm#3x-fr,49 William Cragg Dr,1149000,2,3,0,William Cragg Dr,Downsview-Roding-CFB,W7340296,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/235-codsell-ave.C7341050.htm#3x-fs,235 Codsell Ave,2979900,6,4,2,Codsell Ave,Bathurst Manor,C7341050,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/212-sandringham-dr.C7340612.htm#3x-ft,212 Sandringham Dr,6995000,12,7,3,Sandringham Dr,Lansing-Westgate,C7340612,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/58-larabee-cres.C7340594.htm#3x-fu,58 Larabee Cres,4398000,10,6,2,Larabee Cres,Parkwoods-Donalda,C7340594,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/38-scholfield-ave.C7340250.htm#3x-fv,38 Scholfield Ave,9890000,5,6,1,Scholfield Ave,Rosedale-Moore Park,C7340250,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/530-richmond-st.C7340622.htm#3x-fw,530 Richmond St,1875000,3,4,0,Richmond St,Waterfront Communities C1,C7340622,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/604-oakwood-ave.C7224300.htm#3x-fx,604 Oakwood Ave,1157000,1,2,0,Oakwood Ave,Oakwood Village,C7224300,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/603-royal-york-rd.W7339680.htm#3x-fy,603 Royal York Rd,2999900,5,4,1,Royal York Rd,Stonegate-Queensway,W7339680,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/89-darlingside-dr.E7338878.htm#3x-fz,89 Darlingside Dr,1099000,2,3,2,Darlingside Dr,West Hill,E7338878,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/186-allanford-rd.E7338548.htm#3x-g0,186 Allanford Rd,2100000,1,3,0,Allanford Rd,Tam O'Shanter-Sullivan,E7338548,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3-belton-rd.C7339364.htm#3x-g1,3 Belton Rd,1498800,2,3,1,Belton Rd,Banbury-Don Mills,C7339364,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/139-citation-dr.C7339062.htm#3x-g2,139 Citation Dr,2750000,3,3,2,Citation Dr,Bayview Village,C7339062,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/124-laurentide-dr.C7338554.htm#3x-g3,124 Laurentide Dr,3788800,6,5,2,Laurentide Dr,Parkwoods-Donalda,C7338554,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/596-glenholme-ave.C7338432.htm#3x-g4,596 Glenholme Ave,1199000,3,3,1,Glenholme Ave,Oakwood Village,C7338432,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-gerald-st.C7338240.htm#3x-g5,7 Gerald St,5300000,4,4,2,Gerald St,St. Andrew-Windfields,C7338240,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/98-burbank-dr.C7337790.htm#3x-g6,98 Burbank Dr,4887000,6,5,2,Burbank Dr,Bayview Village,C7337790,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/189-hay-ave.W7337020.htm#3x-g7,189 Hay Ave,944000,5,4,1,Hay Ave,Mimico,W7337020,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/203-high-park-ave.W7336348.htm#3x-g8,203 High Park Ave,2495000,3,6,2,High Park Ave,High Park North,W7336348,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/92-harlandale-ave.C7336758.htm#3x-g9,92 Harlandale Ave,2290000,4,5,4,Harlandale Ave,Lansing-Westgate,C7336758,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1972-brimley-rd.E7336250.htm#3x-ga,1972 Brimley Rd,799900,2,3,0,Brimley Rd,Agincourt South-Malvern West,E7336250,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/120-frontenac-ave.C7336208.htm#3x-gb,120 Frontenac Ave,3190000,6,4,1,Frontenac Ave,Bedford Park-Nortown,C7336208,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/61-melbert-rd.W7335720.htm#3x-gc,61 Melbert Rd,2349900,4,7,1,Melbert Rd,Eringate-Centennial-West Deane,W7335720,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-ainsley-gdns.W7335236.htm#3x-gd,2 Ainsley Gdns,1649000,1,3,0,Ainsley Gdns,Princess-Rosethorn,W7335236,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/54-butterworth-ave.E7335960.htm#3x-ge,54 Butterworth Ave,1799000,5,4,2,Butterworth Ave,Oakridge,E7335960,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/263-blantyre-ave.E7333880.htm#3x-gf,263 Blantyre Ave,3375000,5,3,1,Blantyre Ave,Birchcliffe-Cliffside,E7333880,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/236-strathallan-wood.C7335130.htm#3x-gg,236 Strathallan Wood,11888000,9,6,1,Strathallan Wood,Bedford Park-Nortown,C7335130,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/205-finch-ave.C7334996.htm#3x-gh,205 Finch Ave,2748000,2,4,2,Finch Ave,Willowdale West,C7334996,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/62-felbrigg-ave.C7334616.htm#3x-gi,62 Felbrigg Ave,3350000,5,3,1,Felbrigg Ave,Bedford Park-Nortown,C7334616,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-telco-cres.W7332766.htm#3x-gj,8 Telco Cres,1199900,2,3,0,Telco Cres,Humberlea-Pelmo Park W4,W7332766,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/137-geoffrey-st.W7331400.htm#3x-gk,137 Geoffrey St,2600000,4,6,0,Geoffrey St,Roncesvalles,W7331400,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1652-dufferin-st.W7333010.htm#3x-gl,1652 Dufferin St,1549900,3,5,0,Dufferin St,Corso Italia-Davenport,W7333010,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-hatfield-cres.W7332902.htm#3x-gm,19 Hatfield Cres,2800000,8,7,0,Hatfield Cres,Elms-Old Rexdale,W7332902,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-george-henry-blvd.C7333100.htm#3x-gn,12 George Henry Blvd,2495000,4,5,1,George Henry Blvd,Henry Farm,C7333100,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/128-yorkminster-rd.C7332240.htm#3x-go,128 Yorkminster Rd,3998000,7,5,1,Yorkminster Rd,St. Andrew-Windfields,C7332240,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/93-mona-dr.C7331458.htm#3x-gp,93 Mona Dr,6498000,6,5,1,Mona Dr,Lawrence Park South,C7331458,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/29-leland-ave.W7331000.htm#3x-gq,29 Leland Ave,3998000,5,4,1,Leland Ave,Stonegate-Queensway,W7331000,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/408-ontario-st.C7330998.htm#3x-gr,408 Ontario St,2695000,5,3,0,Ontario St,Moss Park,C7330998,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/11-gibson-ave.W7329194.htm#3x-gs,11 Gibson Ave,5500000,4,5,2,Gibson Ave,Thistletown-Beaumonde Heights,W7329194,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/155-colonel-danforth-tr.E7329466.htm#3x-gt,155 Colonel Danforth Tr,1399000,2,3,1,Colonel Danforth Tr,Centennial Scarborough,E7329466,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-walder-ave.C7328472.htm#3x-gu,12 Walder Ave,3980000,5,4,1,Walder Ave,Mount Pleasant East,C7328472,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/499-rushton-rd.C7328302.htm#3x-gv,499 Rushton Rd,3500000,5,4,1,Rushton Rd,Humewood-Cedarvale,C7328302,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-braemar-ave.C7328186.htm#3x-gw,5 Braemar Ave,3750000,4,3,2,Braemar Ave,Yonge-Eglinton,C7328186,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/710-morrish-rd.E7328368.htm#3x-gx,710 Morrish Rd,1698786,5,4,3,Morrish Rd,Highland Creek,E7328368,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/247-prescott-ave.W7327820.htm#3x-gy,247 Prescott Ave,2100000,4,5,0,Prescott Ave,Weston-Pellam Park,W7327820,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/50-greenfield-dr.W7327194.htm#3x-gz,50 Greenfield Dr,2575000,5,4,1,Greenfield Dr,Islington-City Centre West,W7327194,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/785-sammon-ave.E7327586.htm#3x-h0,785 Sammon Ave,1799000,3,3,0,Sammon Ave,East York,E7327586,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/21-freemon-redmon-circ.E7327270.htm#3x-h1,21 Freemon Redmon Circ,1450000,5,4,1,Freemon Redmon Circ,Wexford-Maryvale,E7327270,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-brooke-ave.C7326580.htm#3x-h2,5 Brooke Ave,5898000,7,4,1,Brooke Ave,Bedford Park-Nortown,C7326580,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/392-quebec-ave.W7326004.htm#3x-h3,392 Quebec Ave,3499999,5,4,0,Quebec Ave,Junction Area,W7326004,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/22-samuel-teitel-crt.E7325952.htm#3x-h4,22 Samuel Teitel Crt,1680000,4,4,1,Samuel Teitel Crt,Rouge E11,E7325952,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2638-midland-ave.E7022830.htm#3x-h5,2638 Midland Ave,9999998,4,5,1,Midland Ave,Agincourt South-Malvern West,E7022830,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/83-hollywood-cres.E7325330.htm#3x-h6,83 Hollywood Cres,1859000,3,4,1,Hollywood Cres,Woodbine Corridor,E7325330,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/236-ellis-ave.W7325284.htm#3x-h7,236 Ellis Ave,1999999,2,3,1,Ellis Ave,High Park-Swansea,W7325284,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/750-glengrove-ave.W7324298.htm#3x-h8,750 Glengrove Ave,1499000,2,2,0,Glengrove Ave,Yorkdale-Glen Park,W7324298,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-harnish-cres.C7324774.htm#3x-h9,6 Harnish Cres,3599000,6,4,1,Harnish Cres,Newtonbrook East,C7324774,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/30-harrison-rd.C7324452.htm#3x-ha,30 Harrison Rd,6999888,11,6,2,Harrison Rd,St. Andrew-Windfields,C7324452,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/459-renforth-dr.W7323988.htm#3x-hb,459 Renforth Dr,1770000,4,3,2,Renforth Dr,Etobicoke West Mall,W7323988,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/999-caledonia-rd.W7323900.htm#3x-hc,999 Caledonia Rd,1459000,3,4,2,Caledonia Rd,Yorkdale-Glen Park,W7323900,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/102-north-dr.W7323232.htm#3x-hd,102 North Dr,6990000,5,4,1,North Dr,Edenbridge-Humber Valley,W7323232,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/50-twentieth-st.W7322992.htm#3x-he,50 Twentieth St,1299900,2,3,0,Twentieth St,New Toronto,W7322992,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/246-riverside-dr.W7027130.htm#3x-hf,246 Riverside Dr,7980000,6,6,0,Riverside Dr,High Park-Swansea,W7027130,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/142-upper-canada-dr.C7322410.htm#3x-hg,142 Upper Canada Dr,4350000,6,4,1,Upper Canada Dr,St. Andrew-Windfields,C7322410,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/184-thirtieth-st.W7322000.htm#3x-hh,184 Thirtieth St,1330000,2,2,1,Thirtieth St,Alderwood,W7322000,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/180-thirtieth-st.W7321998.htm#3x-hi,180 Thirtieth St,1330000,1,3,0,Thirtieth St,Alderwood,W7321998,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/178-thirtieth-st.W7321996.htm#3x-hj,178 Thirtieth St,1330000,3,3,1,Thirtieth St,Alderwood,W7321996,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/127-thirtieth-st.W7321992.htm#3x-hk,127 Thirtieth St,1702400,2,2,0,Thirtieth St,Alderwood,W7321992,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/50-farnsworth-dr.W7321768.htm#3x-hl,50 Farnsworth Dr,2489900,6,4,0,Farnsworth Dr,Humberlea-Pelmo Park W4,W7321768,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/56-gatesgill-cres.W7320916.htm#3x-hm,56 Gatesgill Cres,1315000,3,3,1,Gatesgill Cres,Downsview-Roding-CFB,W7320916,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/9-wadsworth-blvd.W7320826.htm#3x-hn,9 Wadsworth Blvd,830000,1,2,0,Wadsworth Blvd,Weston,W7320826,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/59-cynthia-rd.W6054365.htm#3x-ho,59 Cynthia Rd,2499900,5,4,1,Cynthia Rd,Rockcliffe-Smythe,W6054365,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-gradwell-dr.E7320564.htm#3x-hp,20 Gradwell Dr,1699900,4,2,0,Gradwell Dr,Cliffcrest,E7320564,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/57-castle-frank-rd.C7322262.htm#3x-hq,57 Castle Frank Rd,4399000,4,5,0,Castle Frank Rd,Rosedale-Moore Park,C7322262,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/229-florence-ave.C7321724.htm#3x-hr,229 Florence Ave,1968000,3,3,2,Florence Ave,Lansing-Westgate,C7321724,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/139-beechwood-ave.C7321340.htm#3x-hs,139 Beechwood Ave,5295000,6,4,1,Beechwood Ave,Bridle Path-Sunnybrook-York Mills,C7321340,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/17-paddock-crt.C7320520.htm#3x-ht,17 Paddock Crt,6500000,9,5,1,Paddock Crt,St. Andrew-Windfields,C7320520,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/213-spring-garden-ave.C7320058.htm#3x-hu,213 Spring Garden Ave,3299000,6,5,2,Spring Garden Ave,Willowdale East,C7320058,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/202-gamma-st.W7318636.htm#3x-hv,202 Gamma St,1199000,2,2,2,Gamma St,Alderwood,W7318636,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/9-westbrook-ave.E7318714.htm#3x-hw,9 Westbrook Ave,1324900,4,4,0,Westbrook Ave,Woodbine-Lumsden,E7318714,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/155-leacrest-rd.C7319776.htm#3x-hx,155 Leacrest Rd,1695000,1,3,0,Leacrest Rd,Leaside,C7319776,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/111-gorman-park-rd.C7319416.htm#3x-hy,111 Gorman Park Rd,1390000,2,3,1,Gorman Park Rd,Clanton Park,C7319416,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-restwell-cres.C7318504.htm#3x-hz,20 Restwell Cres,3899000,2,2,2,Restwell Cres,Bayview Village,C7318504,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/77-hanna-rd.C7318282.htm#3x-i0,77 Hanna Rd,1800000,2,3,1,Hanna Rd,Leaside,C7318282,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/229-holmes-ave.C7318052.htm#3x-i1,229 Holmes Ave,3888000,6,4,1,Holmes Ave,Willowdale East,C7318052,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/120-roxborough-st.C7317898.htm#3x-i2,120 Roxborough St,7250000,6,5,2,Roxborough St,Rosedale-Moore Park,C7317898,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/63-moore-park-ave.C7317862.htm#3x-i3,63 Moore Park Ave,1548000,2,3,1,Moore Park Ave,Newtonbrook West,C7317862,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/83-bonspiel-dr.E7317596.htm#3x-i4,83 Bonspiel Dr,1249500,3,4,0,Bonspiel Dr,Morningside,E7317596,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1193-pharmacy-ave.E7316924.htm#3x-i5,1193 Pharmacy Ave,1149900,4,3,2,Pharmacy Ave,Wexford-Maryvale,E7316924,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/41-nielson-ave.E7316306.htm#3x-i6,41 Nielson Ave,2799700,6,4,2,Nielson Ave,Cliffcrest,E7316306,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/9-lloydminster-cres.C7315378.htm#3x-i7,9 Lloydminster Cres,2099000,2,3,1,Lloydminster Cres,Newtonbrook East,C7315378,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/201-van-dusen-blvd.W7314582.htm#3x-i8,201 Van Dusen Blvd,2899000,6,4,1,Van Dusen Blvd,Islington-City Centre West,W7314582,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/55-renfield-st.W7313964.htm#3x-i9,55 Renfield St,1689000,5,4,1,Renfield St,Brookhaven-Amesbury,W7313964,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-cavell-ave.W7314004.htm#3x-ia,40 Cavell Ave,3079000,6,9,0,Cavell Ave,Mimico,W7314004,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/90-pharmacy-ave.E7314802.htm#3x-ib,90 Pharmacy Ave,1249999,4,3,3,Pharmacy Ave,Oakridge,E7314802,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/17-scarborough-heights-blvd.E7313540.htm#3x-ic,17 Scarborough Heights Blvd,1549900,3,5,0,Scarborough Heights Blvd,Cliffcrest,E7313540,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/22-hillhurst-blvd.C7314446.htm#3x-id,22 Hillhurst Blvd,8599000,7,4,1,Hillhurst Blvd,Lawrence Park South,C7314446,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/37-madison-ave.C7312600.htm#3x-ie,37 Madison Ave,5998000,4,0,0,Madison Ave,Annex,C7312600,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/74-derrydown-rd.W7312174.htm#3x-if,74 Derrydown Rd,1275000,2,3,0,Derrydown Rd,York University Heights,W7312174,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/56-somerdale-sq.E7311784.htm#3x-ig,56 Somerdale Sq,1399999,3,3,0,Somerdale Sq,Guildwood,E7311784,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/77-risebrough-ave.C7312218.htm#3x-ih,77 Risebrough Ave,4999000,8,4,1,Risebrough Ave,Newtonbrook East,C7312218,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/413-lytton-blvd.C7311948.htm#3x-ii,413 Lytton Blvd,12500000,10,6,1,Lytton Blvd,Lawrence Park South,C7311948,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/169-torresdale-ave.C7311888.htm#3x-ij,169 Torresdale Ave,1499000,2,4,1,Torresdale Ave,Westminster-Branson,C7311888,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/137-margueretta-st.C7311186.htm#3x-ik,137 Margueretta St,1889900,4,6,1,Margueretta St,Dufferin Grove,C7311186,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/801-coxwell-ave.E7309674.htm#3x-il,801 Coxwell Ave,1515000,4,3,0,Coxwell Ave,Danforth Village-East York,E7309674,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/73-ames-circ.C7309030.htm#3x-im,73 Ames Circ,2600000,4,4,1,Ames Circ,Banbury-Don Mills,C7309030,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-saunders-cres.W7308520.htm#3x-in,5 Saunders Cres,1795000,4,3,0,Saunders Cres,Stonegate-Queensway,W7308520,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-whittaker-cres.C7308504.htm#3x-io,27 Whittaker Cres,5399999,8,5,2,Whittaker Cres,Bayview Village,C7308504,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-green-valley-rd.C7306420.htm#3x-ip,18 Green Valley Rd,9500000,7,5,0,Green Valley Rd,Bridle Path-Sunnybrook-York Mills,C7306420,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/28-kirkland-blvd.C7306120.htm#3x-iq,28 Kirkland Blvd,2495000,5,3,1,Kirkland Blvd,Englemount-Lawrence,C7306120,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3-geraldton-cres.C7305278.htm#3x-ir,3 Geraldton Cres,2348000,3,3,1,Geraldton Cres,Bayview Village,C7305278,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/41-neelands-cres.E7304856.htm#3x-is,41 Neelands Cres,1498888,3,4,0,Neelands Cres,Morningside,E7304856,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/48-chatfield-dr.C7305092.htm#3x-it,48 Chatfield Dr,1499333,2,3,1,Chatfield Dr,Banbury-Don Mills,C7305092,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/92-sandown-ave.E7304278.htm#3x-iu,92 Sandown Ave,999000,2,3,1,Sandown Ave,Birchcliffe-Cliffside,E7304278,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/92-burncrest-dr.C7304590.htm#3x-iv,92 Burncrest Dr,1299999,2,3,0,Burncrest Dr,Bedford Park-Nortown,C7304590,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-midden-cres.W7302768.htm#3x-iw,1 Midden Cres,1299000,2,3,2,Midden Cres,Willowridge-Martingrove-Richview,W7302768,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/83-yorkminster-rd.C7303922.htm#3x-ix,83 Yorkminster Rd,5995000,6,4,1,Yorkminster Rd,St. Andrew-Windfields,C7303922,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/905-queen-st.C7303440.htm#3x-iy,905 Queen St,3998000,4,2,0,Queen St,Niagara,C7303440,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1321-victoria-park-ave.E7301974.htm#3x-iz,1321 Victoria Park Ave,1188000,2,3,3,Victoria Park Ave,Clairlea-Birchmount,E7301974,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/179-burndale-ave.C7301880.htm#3x-j0,179 Burndale Ave,4288000,7,4,1,Burndale Ave,Lansing-Westgate,C7301880,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-monaco-crt.W7301712.htm#3x-j1,4 Monaco Crt,1149000,5,4,1,Monaco Crt,Black Creek,W7301712,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-fred-young-dr.W7301434.htm#3x-j2,8 Fred Young Dr,1329000,4,4,1,Fred Young Dr,Downsview-Roding-CFB,W7301434,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-toffee-crt.W7300894.htm#3x-j3,25 Toffee Crt,849000,2,3,0,Toffee Crt,New Toronto,W7300894,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/37-eastglen-cres.W7300254.htm#3x-j4,37 Eastglen Cres,3099000,5,4,1,Eastglen Cres,Islington-City Centre West,W7300254,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-duncombe-blvd.E7301082.htm#3x-j5,6 Duncombe Blvd,2750000,5,4,1,Duncombe Blvd,Scarborough Village,E7301082,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/168-sandringham-dr.C7301102.htm#3x-j6,168 Sandringham Dr,7595000,7,4,1,Sandringham Dr,Lansing-Westgate,C7301102,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/49-timberlane-dr.C7301006.htm#3x-j7,49 Timberlane Dr,4200000,4,5,0,Timberlane Dr,Lansing-Westgate,C7301006,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-crossburn-dr.C7300200.htm#3x-j8,15 Crossburn Dr,4350000,5,4,1,Crossburn Dr,Banbury-Don Mills,C7300200,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/17-chieftain-cres.C7299926.htm#3x-j9,17 Chieftain Cres,17600000,9,5,1,Chieftain Cres,St. Andrew-Windfields,C7299926,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/79-brentcliffe-rd.C7299506.htm#3x-ja,79 Brentcliffe Rd,5398000,6,4,1,Brentcliffe Rd,Leaside,C7299506,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/101-dunloe-rd.C7299324.htm#3x-jb,101 Dunloe Rd,13990000,7,4,1,Dunloe Rd,Forest Hill South,C7299324,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/54-bearbury-dr.W7299072.htm#3x-jc,54 Bearbury Dr,1750000,2,3,0,Bearbury Dr,Markland Wood,W7299072,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-kinnie-crt.W7297544.htm#3x-jd,15 Kinnie Crt,1199000,2,4,0,Kinnie Crt,Black Creek,W7297544,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/418-rouge-hills-dr.E7299112.htm#3x-je,418 Rouge Hills Dr,1300000,2,3,2,Rouge Hills Dr,Rouge E10,E7299112,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-bankwell-ave.E7298814.htm#3x-jf,5 Bankwell Ave,1099000,3,3,3,Bankwell Ave,Woburn,E7298814,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/102-midland-ave.E7298038.htm#3x-jg,102 Midland Ave,2880000,4,3,1,Midland Ave,Birchcliffe-Cliffside,E7298038,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/66-amelia-st.C7297938.htm#3x-jh,66 Amelia St,4499000,4,8,0,Amelia St,Cabbagetown-South St. James Town,C7297938,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-braddock-rd.W7296776.htm#3x-ji,25 Braddock Rd,1248000,3,3,2,Braddock Rd,West Humber-Clairville,W7296776,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/139-ranee-ave.C7296380.htm#3x-jj,139 Ranee Ave,1499000,2,3,2,Ranee Ave,Englemount-Lawrence,C7296380,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/318-drewry-ave.C7295388.htm#3x-jk,318 Drewry Ave,2688000,3,5,1,Drewry Ave,Newtonbrook West,C7295388,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/52-rosedale-rd.C7295372.htm#3x-jl,52 Rosedale Rd,12000000,7,5,1,Rosedale Rd,Rosedale-Moore Park,C7295372,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-old-colony-rd.C7295032.htm#3x-jm,15 Old Colony Rd,4900000,6,4,1,Old Colony Rd,Bridle Path-Sunnybrook-York Mills,C7295032,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/151-leacrest-rd.C7295022.htm#3x-jn,151 Leacrest Rd,1729000,2,3,0,Leacrest Rd,Leaside,C7295022,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-marwood-rd.C7294836.htm#3x-jo,4 Marwood Rd,3575000,4,4,1,Marwood Rd,Forest Hill North,C7294836,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/22-glenwood-cres.E7295484.htm#3x-jp,22 Glenwood Cres,3599000,5,4,1,Glenwood Cres,O'Connor-Parkview,E7295484,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-boylen-st.W7294474.htm#3x-jq,20 Boylen St,798888,1,3,0,Boylen St,Humberlea-Pelmo Park W4,W7294474,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-sixth-st.W7294258.htm#3x-jr,40 Sixth St,2999998,5,4,1,Sixth St,New Toronto,W7294258,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-stanhope-ave.E7294672.htm#3x-js,24 Stanhope Ave,2389000,4,4,1,Stanhope Ave,Broadview North,E7294672,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/551-military-tr.E7294002.htm#3x-jt,551 Military Tr,2189000,3,4,0,Military Tr,Morningside,E7294002,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-forest-heights-blvd.C7294282.htm#3x-ju,8 Forest Heights Blvd,5950000,8,5,1,Forest Heights Blvd,St. Andrew-Windfields,C7294282,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/123-browning-ave.E7293508.htm#3x-jv,123 Browning Ave,2500000,2,5,1,Browning Ave,Playter Estates-Danforth,E7293508,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/31-nymark-ave.C7293436.htm#3x-jw,31 Nymark Ave,2199000,3,4,1,Nymark Ave,Don Valley Village,C7293436,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/39-st-quentin-ave.E7292880.htm#3x-jx,39 St Quentin Ave,1169000,2,3,2,St Quentin Ave,Cliffcrest,E7292880,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/30-lansdowne-ave.W7292426.htm#3x-jy,30 Lansdowne Ave,2599900,11,3,8,Lansdowne Ave,Roncesvalles,W7292426,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-beaverbrook-ave.W7292304.htm#3x-jz,18 Beaverbrook Ave,3199000,5,5,0,Beaverbrook Ave,Princess-Rosethorn,W7292304,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-fargo-ave.C7292556.htm#3x-k0,6 Fargo Ave,1688000,3,5,1,Fargo Ave,Newtonbrook West,C7292556,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/26-chatfield-dr.C7292356.htm#3x-k1,26 Chatfield Dr,3588000,5,4,1,Chatfield Dr,Banbury-Don Mills,C7292356,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-fifteenth-st.W7290286.htm#3x-k2,27 Fifteenth St,1975000,5,4,1,Fifteenth St,New Toronto,W7290286,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-weston-wood-rd.W7289758.htm#3x-k3,5 Weston Wood Rd,2650000,5,4,0,Weston Wood Rd,Humber Heights,W7289758,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/31-leafield-dr.E7292070.htm#3x-k4,31 Leafield Dr,1988888,4,3,2,Leafield Dr,L'Amoreaux,E7292070,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/147-mcintosh-st.E7292018.htm#3x-k5,147 Mcintosh St,1610999,5,4,3,Mcintosh St,Birchcliffe-Cliffside,E7292018,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/71-northdale-blvd.E7291914.htm#3x-k6,71 Northdale Blvd,1748000,4,4,0,Northdale Blvd,O'Connor-Parkview,E7291914,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/41-heathfield-dr.E7291798.htm#3x-k7,41 Heathfield Dr,2099900,4,5,0,Heathfield Dr,Scarborough Village,E7291798,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/58-trumpeter-st.E7291228.htm#3x-k8,58 Trumpeter St,1399000,4,4,2,Trumpeter St,Rouge E11,E7291228,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/113-allanford-rd.E7290072.htm#3x-k9,113 Allanford Rd,1898000,4,3,1,Allanford Rd,Tam O'Shanter-Sullivan,E7290072,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1111-gerrard-st.E7291502.htm#3x-ka,1111 Gerrard St,1685000,3,7,0,Gerrard St,South Riverdale,E7291502,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/136-dalemount-ave.C7291888.htm#3x-kb,136 Dalemount Ave,6999000,8,6,2,Dalemount Ave,Englemount-Lawrence,C7291888,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/225-dunview-ave.C7291446.htm#3x-kc,225 Dunview Ave,3888000,6,4,1,Dunview Ave,Willowdale East,C7291446,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1025-spadina-rd.C7290910.htm#3x-kd,1025 Spadina Rd,2495000,5,4,1,Spadina Rd,Forest Hill North,C7290910,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/62-mooreshead-dr.W7286452.htm#3x-ke,62 Mooreshead Dr,1599900,2,3,3,Mooreshead Dr,Etobicoke West Mall,W7286452,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-stubbs-dr.C7286562.htm#3x-kf,6 Stubbs Dr,5995000,7,4,1,Stubbs Dr,St. Andrew-Windfields,C7286562,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/275-hillcrest-ave.C7286528.htm#3x-kg,275 Hillcrest Ave,3488000,7,5,1,Hillcrest Ave,Willowdale East,C7286528,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/287-ossington-ave.C7285994.htm#3x-kh,287 Ossington Ave,3950000,7,9,0,Ossington Ave,Trinity-Bellwoods,C7285994,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/287-valermo-dr.W7288706.htm#3x-ki,287 Valermo Dr,1599900,1,3,0,Valermo Dr,Alderwood,W7288706,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/223-northwood-dr.C7287662.htm#3x-kj,223 Northwood Dr,2099000,2,3,0,Northwood Dr,Newtonbrook East,C7287662,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/136-scarborough-rd.E7285758.htm#3x-kk,136 Scarborough Rd,2250000,3,6,2,Scarborough Rd,The Beaches,E7285758,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/91-bedford-rd.C7285676.htm#3x-kl,91 Bedford Rd,9987000,5,4,1,Bedford Rd,Annex,C7285676,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/136-winston-park-blvd.W7284872.htm#3x-km,136 Winston Park Blvd,1300000,2,3,2,Winston Park Blvd,Downsview-Roding-CFB,W7284872,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/186-westmore-dr.W7283970.htm#3x-kn,186 Westmore Dr,890000,3,3,1,Westmore Dr,West Humber-Clairville,W7283970,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1267-king-st.W7282802.htm#3x-ko,1267 King St,2248000,9,9,1,King St,South Parkdale,W7282802,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/755-morrish-rd.E7284110.htm#3x-kp,755 Morrish Rd,3299900,7,4,2,Morrish Rd,Highland Creek,E7284110,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2636-kennedy-rd.E7282584.htm#3x-kq,2636 Kennedy Rd,2188000,6,4,5,Kennedy Rd,Tam O'Shanter-Sullivan,E7282584,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/236-poplar-plains-rd.C7285046.htm#3x-kr,236 Poplar Plains Rd,6995000,5,5,0,Poplar Plains Rd,Casa Loma,C7285046,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2453-st-clair-ave.W7281938.htm#3x-ks,2453 St Clair Ave,1699000,5,5,0,St Clair Ave,Junction Area,W7281938,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-ludstone-dr.W7281822.htm#3x-kt,8 Ludstone Dr,1399000,2,3,3,Ludstone Dr,Willowridge-Martingrove-Richview,W7281822,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-dixon-rd.W7281406.htm#3x-ku,1 Dixon Rd,1098800,4,4,3,Dixon Rd,Humber Heights,W7281406,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/55-saint-phillips-rd.W7280710.htm#3x-kv,55 Saint Phillips Rd,1799000,4,4,0,Saint Phillips Rd,Humber Heights,W7280710,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-carrington-ave.W7280458.htm#3x-kw,6 Carrington Ave,1499900,3,4,2,Carrington Ave,Caledonia-Fairbank,W7280458,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-rakewood-cres.E7280914.htm#3x-kx,40 Rakewood Cres,1268000,4,4,2,Rakewood Cres,L'Amoreaux,E7280914,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/63-saddle-ridge-dr.C7282082.htm#3x-ky,63 Saddle Ridge Dr,1249000,2,3,1,Saddle Ridge Dr,Victoria Village,C7282082,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/227-ava-rd.C7280080.htm#3x-kz,227 Ava Rd,1559000,2,3,2,Ava Rd,Humewood-Cedarvale,C7280080,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/460-browns-line.W7278590.htm#3x-l0,460 Browns Line,6999000,5,5,0,Browns Line,Alderwood,W7278590,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/109-warren-rd.C7278322.htm#3x-l1,109 Warren Rd,8495000,6,6,1,Warren Rd,Forest Hill South,C7278322,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-jeremiah-lane.E7277096.htm#3x-l2,8 Jeremiah Lane,1200000,4,3,1,Jeremiah Lane,Scarborough Village,E7277096,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/144-lawrence-ave.C7277332.htm#3x-l3,144 Lawrence Ave,1349900,2,2,1,Lawrence Ave,Lawrence Park North,C7277332,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/111-roxborough-dr.C7275918.htm#3x-l4,111 Roxborough Dr,5399000,4,4,1,Roxborough Dr,Rosedale-Moore Park,C7275918,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/26-harrison-rd.C7275582.htm#3x-l5,26 Harrison Rd,3550000,3,4,0,Harrison Rd,St. Andrew-Windfields,C7275582,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/13-knotwood-cres.E7274770.htm#3x-l6,13 Knotwood Cres,1495000,4,4,2,Knotwood Cres,Rouge E11,E7274770,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-ash-cres.W7274140.htm#3x-l7,24 Ash Cres,1380000,2,3,0,Ash Cres,Long Branch,W7274140,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/113-hullrick-dr.W7273768.htm#3x-l8,113 Hullrick Dr,1499000,4,4,2,Hullrick Dr,West Humber-Clairville,W7273768,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-southwell-dr.C7273638.htm#3x-l9,27 Southwell Dr,3300000,3,3,1,Southwell Dr,Banbury-Don Mills,C7273638,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/181-kane-ave.W7273078.htm#3x-la,181 Kane Ave,949000,2,3,0,Kane Ave,Keelesdale-Eglinton West,W7273078,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-leander-crt.E7272876.htm#3x-lb,2 Leander Crt,2950000,7,6,1,Leander Crt,O'Connor-Parkview,E7272876,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/223-langley-ave.E7272022.htm#3x-lc,223 Langley Ave,1449900,2,4,0,Langley Ave,North Riverdale,E7272022,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-crown-acres-crt.E7271578.htm#3x-ld,40 Crown Acres Crt,1150000,4,4,0,Crown Acres Crt,Agincourt South-Malvern West,E7271578,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/65-frater-ave.E7271146.htm#3x-le,65 Frater Ave,1089000,1,2,0,Frater Ave,Danforth Village-East York,E7271146,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/31-lippincott-st.C7271878.htm#3x-lf,31 Lippincott St,3489000,6,4,0,Lippincott St,Kensington-Chinatown,C7271878,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/210-bessborough-dr.C7270756.htm#3x-lg,210 Bessborough Dr,3630000,4,4,1,Bessborough Dr,Leaside,C7270756,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/84-cindy-nicholas-dr.E7270728.htm#3x-lh,84 Cindy Nicholas Dr,1699000,6,5,2,Cindy Nicholas Dr,Morningside,E7270728,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/97-cleta-dr.E7266656.htm#3x-li,97 Cleta Dr,3388000,7,4,2,Cleta Dr,Kennedy Park,E7266656,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2703-lake-shore-blvd.W6189864.htm#3x-lj,2703 Lake Shore Blvd,2050000,2,2,0,Lake Shore Blvd,Mimico,W6189864,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/50-freeman-st.E7262068.htm#3x-lk,50 Freeman St,999999,4,5,1,Freeman St,Birchcliffe-Cliffside,E7262068,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-tyler-pl.W7269050.htm#3x-ll,8 Tyler Pl,1988888,3,3,1,Tyler Pl,Kingsview Village-The Westway,W7269050,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3-allan-park-rd.W7267584.htm#3x-lm,3 Allan Park Rd,2799000,2,2,2,Allan Park Rd,Stonegate-Queensway,W7267584,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/448-browns-line.W7266194.htm#3x-ln,448 Browns Line,1795000,4,2,0,Browns Line,Alderwood,W7266194,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-victoria-ave.W7263362.htm#3x-lo,20 Victoria Ave,5250000,2,4,1,Victoria Ave,Weston,W7263362,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-helen-ave.W7262022.htm#3x-lp,2 Helen Ave,1499900,6,4,0,Helen Ave,Caledonia-Fairbank,W7262022,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/125-charlton-blvd.C7269368.htm#3x-lq,125 Charlton Blvd,1379000,4,4,1,Charlton Blvd,Newtonbrook West,C7269368,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/71-hillholm-rd.C7268064.htm#3x-lr,71 Hillholm Rd,9295000,7,4,1,Hillholm Rd,Forest Hill South,C7268064,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/192-forest-hill-rd.C7265354.htm#3x-ls,192 Forest Hill Rd,5995000,6,4,1,Forest Hill Rd,Forest Hill South,C7265354,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/144-shelborne-ave.C7262228.htm#3x-lt,144 Shelborne Ave,2399000,4,4,7,Shelborne Ave,Englemount-Lawrence,C7262228,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-bunty-lane.C7260388.htm#3x-lu,40 Bunty Lane,2488000,3,4,0,Bunty Lane,Bayview Village,C7260388,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/32-glen-echo-rd.C7260678.htm#3x-lv,32 Glen Echo Rd,1995000,2,4,2,Glen Echo Rd,Lawrence Park North,C7260678,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/72-branstone-rd.W7259582.htm#3x-lw,72 Branstone Rd,1750000,4,4,3,Branstone Rd,Caledonia-Fairbank,W7259582,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/538-queens-dr.W7258984.htm#3x-lx,538 Queens Dr,1269000,2,3,0,Queens Dr,Rustic,W7258984,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-twenty-ninth-st.W7259136.htm#3x-ly,1 Twenty Ninth St,2749000,6,7,0,Twenty Ninth St,Long Branch,W7259136,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/154-shuter-st.C7259754.htm#3x-lz,154 Shuter St,3499995,5,4,0,Shuter St,Moss Park,C7259754,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/208-lake-prom.W7241086.htm#3x-m0,208 Lake Prom,1595900,3,3,1,Lake Prom,Long Branch,W7241086,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-gristone-cres.E7257840.htm#3x-m1,20 Gristone Cres,1199900,3,5,1,Gristone Cres,Rouge E11,E7257840,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/335-boon-ave.W7257596.htm#3x-m2,335 Boon Ave,1255000,3,2,0,Boon Ave,Caledonia-Fairbank,W7257596,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/114-mcnicoll-ave.C7257184.htm#3x-m3,114 Mcnicoll Ave,1629000,3,3,2,Mcnicoll Ave,Hillcrest Village,C7257184,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/21-christine-cres.C7257000.htm#3x-m4,21 Christine Cres,1888000,4,4,2,Christine Cres,Willowdale West,C7257000,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/335-willowdale-ave.C7256936.htm#3x-m5,335 Willowdale Ave,1998000,2,2,1,Willowdale Ave,Willowdale East,C7256936,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/99-jay-st.W7256384.htm#3x-m6,99 Jay St,1299000,2,3,1,Jay St,Maple Leaf,W7256384,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1678-eglinton-ave.W7252432.htm#3x-m7,1678 Eglinton Ave,1150000,5,8,0,Eglinton Ave,Briar Hill-Belgravia,W7252432,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/126-lee-ave.E7252348.htm#3x-m8,126 Lee Ave,3679000,4,5,1,Lee Ave,The Beaches,E7252348,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/30-creekside-rd.C7252176.htm#3x-m9,30 Creekside Rd,2799000,6,5,2,Creekside Rd,Newtonbrook East,C7252176,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-highbourne-rd.C7252712.htm#3x-ma,5 Highbourne Rd,2150000,2,6,0,Highbourne Rd,Yonge-Eglinton,C7252712,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/32-alma-dr.W7251666.htm#3x-mb,32 Alma Dr,1349888,2,2,0,Alma Dr,Humber Heights,W7251666,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/48-annette-st.W7251526.htm#3x-mc,48 Annette St,1849000,0,0,0,Annette St,Junction Area,W7251526,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/444-roxton-rd.C7251502.htm#3x-md,444 Roxton Rd,1880000,0,0,0,Roxton Rd,Trinity-Bellwoods,C7251502,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/143-kendleton-dr.W7250672.htm#3x-me,143 Kendleton Dr,1049000,3,3,4,Kendleton Dr,Mount Olive-Silverstone-Jamestown,W7250672,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/116-shaftesbury-st.C7250562.htm#3x-mf,116 Shaftesbury St,1268000,2,3,2,Shaftesbury St,Bathurst Manor,C7250562,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/278-beta-st.W7249152.htm#3x-mg,278 Beta St,1290000,2,2,1,Beta St,Alderwood,W7249152,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-russell-hill-dr.C7246302.htm#3x-mh,8 Russell Hill Dr,8688000,7,5,1,Russell Hill Dr,Casa Loma,C7246302,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/38-barkwood-cres.C7245438.htm#3x-mi,38 Barkwood Cres,2099888,4,4,4,Barkwood Cres,Hillcrest Village,C7245438,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/269-falstaff-ave.W7245166.htm#3x-mj,269 Falstaff Ave,3499000,5,4,2,Falstaff Ave,Maple Leaf,W7245166,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-maynard-ave.W7245078.htm#3x-mk,1 Maynard Ave,2850000,4,5,0,Maynard Ave,South Parkdale,W7245078,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/237-old-yonge-st.C7244872.htm#3x-ml,237 Old Yonge St,2888000,5,4,1,Old Yonge St,St. Andrew-Windfields,C7244872,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-john-st.W7244146.htm#3x-mm,27 John St,1999000,4,9,2,John St,Weston,W7244146,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/90-aura-lea-blvd.W7243244.htm#3x-mn,90 Aura Lea Blvd,1049888,2,3,0,Aura Lea Blvd,Humberlea-Pelmo Park W5,W7243244,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/224-island-rd.E7241440.htm#3x-mo,224 Island Rd,2390000,6,4,2,Island Rd,Rouge E10,E7241440,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/75-stormont-ave.C7239356.htm#3x-mp,75 Stormont Ave,1999000,3,3,1,Stormont Ave,Bedford Park-Nortown,C7239356,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/412-glengarry-ave.C7239164.htm#3x-mq,412 Glengarry Ave,4200000,6,4,1,Glengarry Ave,Bedford Park-Nortown,C7239164,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/50-slidell-cres.C7239152.htm#3x-mr,50 Slidell Cres,1559000,2,3,1,Slidell Cres,Parkwoods-Donalda,C7239152,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/22-secroft-cres.W7236972.htm#3x-ms,22 Secroft Cres,1198888,2,3,0,Secroft Cres,Black Creek,W7236972,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/244-virginia-ave.E7236614.htm#3x-mt,244 Virginia Ave,1420000,2,3,1,Virginia Ave,Woodbine-Lumsden,E7236614,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-youngmill-dr.E7236012.htm#3x-mu,4 Youngmill Dr,2198000,6,4,1,Youngmill Dr,O'Connor-Parkview,E7236012,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/71-danielle-moore-circ.E7234536.htm#3x-mv,71 Danielle Moore Circ,1814990,3,4,0,Danielle Moore Circ,Bendale,E7234536,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/234-ashdale-ave.E7233934.htm#3x-mw,234 Ashdale Ave,1899900,4,4,1,Ashdale Ave,Greenwood-Coxwell,E7233934,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/123-galloway-rd.E7233474.htm#3x-mx,123 Galloway Rd,799000,2,2,0,Galloway Rd,West Hill,E7233474,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/623-ossington-ave.C7233650.htm#3x-my,623 Ossington Ave,1499999,2,4,0,Ossington Ave,Palmerston-Little Italy,C7233650,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-blueberry-dr.E7231664.htm#3x-mz,6 Blueberry Dr,1388000,3,3,0,Blueberry Dr,Agincourt North,E7231664,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/39-gardiner-rd.C7233130.htm#3x-n0,39 Gardiner Rd,2495000,0,0,0,Gardiner Rd,Forest Hill South,C7233130,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/148-spalding-rd.W7231228.htm#3x-n1,148 Spalding Rd,2688888,5,4,2,Spalding Rd,Downsview-Roding-CFB,W7231228,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/238-south-kingsway-n-a.W7231358.htm#3x-n2,238 South Kingsway N/A,5825000,8,9,6,South Kingsway N/A,High Park-Swansea,W7231358,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/136-chatsworth-dr.C7228208.htm#3x-n3,136 Chatsworth Dr,2500000,4,3,1,Chatsworth Dr,Lawrence Park South,C7228208,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/78-snider-ave.W7223978.htm#3x-n4,78 Snider Ave,1198000,2,3,1,Snider Ave,Briar Hill-Belgravia,W7223978,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/74-reiner-rd.C7226084.htm#3x-n5,74 Reiner Rd,1399000,2,2,2,Reiner Rd,Clanton Park,C7226084,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-sandfield-rd.C7224618.htm#3x-n6,2 Sandfield Rd,5999000,5,5,0,Sandfield Rd,Banbury-Don Mills,C7224618,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/41-glenbrae-ave.C7224600.htm#3x-n7,41 Glenbrae Ave,3598888,5,4,1,Glenbrae Ave,Leaside,C7224600,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-bridesburg-dr.W7221646.htm#3x-n8,8 Bridesburg Dr,1775000,5,8,1,Bridesburg Dr,Kingsview Village-The Westway,W7221646,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/243-lippincott-st.C7221424.htm#3x-n9,243 Lippincott St,1888000,3,7,1,Lippincott St,University,C7221424,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/82-lowther-ave.C7222404.htm#3x-na,82 Lowther Ave,8350000,4,5,2,Lowther Ave,Annex,C7222404,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-lauderdale-dr.C7222244.htm#3x-nb,24 Lauderdale Dr,5995000,7,5,2,Lauderdale Dr,St. Andrew-Windfields,C7222244,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/35-balmoral-ave.C7220190.htm#3x-nc,35 Balmoral Ave,3095000,4,3,1,Balmoral Ave,Yonge-St. Clair,C7220190,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/293-booth-ave.E7218396.htm#3x-nd,293 Booth Ave,1750000,2,3,0,Booth Ave,South Riverdale,E7218396,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/137-alfred-ave.C7219424.htm#3x-ne,137 Alfred Ave,4280000,6,4,1,Alfred Ave,Willowdale East,C7219424,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/76-gray-ave.W7219458.htm#3x-nf,76 Gray Ave,1139000,3,4,0,Gray Ave,Rockcliffe-Smythe,W7219458,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/234-pellatt-ave.W7218916.htm#3x-ng,234 Pellatt Ave,1299000,5,6,2,Pellatt Ave,Humberlea-Pelmo Park W4,W7218916,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-cotton-ave.E7218752.htm#3x-nh,6 Cotton Ave,1799000,5,5,0,Cotton Ave,Clairlea-Birchmount,E7218752,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/24-burleigh-heights-dr.C7217620.htm#3x-ni,24 Burleigh Heights Dr,2250000,3,3,0,Burleigh Heights Dr,Bayview Village,C7217620,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-lantana-crt.C7216316.htm#3x-nj,18 Lantana Crt,1599900,3,4,0,Lantana Crt,Victoria Village,C7216316,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/247-lytton-blvd.C7215792.htm#3x-nk,247 Lytton Blvd,5995000,6,5,1,Lytton Blvd,Lawrence Park South,C7215792,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1529-royal-york-rd.W7213960.htm#3x-nl,1529 Royal York Rd,1799000,3,4,0,Royal York Rd,Humber Heights,W7213960,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-donalbert-rd.W7210974.htm#3x-nm,15 Donalbert Rd,2888000,5,4,1,Donalbert Rd,Islington-City Centre West,W7210974,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1263-woodbine-ave.E7212120.htm#3x-nn,1263 Woodbine Ave,1149000,3,3,0,Woodbine Ave,Woodbine-Lumsden,E7212120,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/90-burndale-ave.C7212404.htm#3x-no,90 Burndale Ave,2999999,4,3,1,Burndale Ave,Lansing-Westgate,C7212404,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/172-maplehurst-ave.C7212160.htm#3x-np,172 Maplehurst Ave,4250000,7,4,1,Maplehurst Ave,Willowdale East,C7212160,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-rockland-dr.C7211876.htm#3x-nq,25 Rockland Dr,2699000,5,4,0,Rockland Dr,Bayview Woods-Steeles,C7211876,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/591-durie-st.W7210186.htm#3x-nr,591 Durie St,1499900,3,4,1,Durie St,Runnymede-Bloor West Village,W7210186,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-ladyshot-cres.W7209796.htm#3x-ns,20 Ladyshot Cres,2888000,4,4,2,Ladyshot Cres,York University Heights,W7209796,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/42-fairfield-ave.W7208130.htm#3x-nt,42 Fairfield Ave,2198000,4,4,0,Fairfield Ave,Long Branch,W7208130,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-marquis-ave.W7207436.htm#3x-nu,6 Marquis Ave,2395000,4,4,0,Marquis Ave,Kingsway South,W7207436,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/45-danby-ave.C7209454.htm#3x-nv,45 Danby Ave,1698000,2,3,1,Danby Ave,Clanton Park,C7209454,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/473-euclid-ave.C7208560.htm#3x-nw,473 Euclid Ave,3699000,4,3,1,Euclid Ave,Palmerston-Little Italy,C7208560,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/321-melrose-ave.C7208234.htm#3x-nx,321 Melrose Ave,3899000,5,4,0,Melrose Ave,Lawrence Park North,C7208234,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/69-munro-blvd.C7206550.htm#3x-ny,69 Munro Blvd,4288000,5,4,2,Munro Blvd,St. Andrew-Windfields,C7206550,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/23-bush-dr.E7205742.htm#3x-nz,23 Bush Dr,1049000,2,2,2,Bush Dr,Highland Creek,E7205742,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-whitelock-cres.C7205330.htm#3x-o0,5 Whitelock Cres,1999000,2,3,0,Whitelock Cres,Bayview Village,C7205330,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/59-blake-st.E7205022.htm#3x-o1,59 Blake St,1450000,2,0,0,Blake St,Blake-Jones,E7205022,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/124-logan-ave.E7203862.htm#3x-o2,124 Logan Ave,2995000,2,0,0,Logan Ave,South Riverdale,E7203862,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/372-old-yonge-st.C7205014.htm#3x-o3,372 Old Yonge St,10888000,10,8,0,Old Yonge St,St. Andrew-Windfields,C7205014,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-lambton-ave.W7202394.htm#3x-o4,19 Lambton Ave,1745000,5,4,1,Lambton Ave,Rockcliffe-Smythe,W7202394,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/82-chestnut-park-rd.C7202922.htm#3x-o5,82 Chestnut Park Rd,16500000,6,4,1,Chestnut Park Rd,Rosedale-Moore Park,C7202922,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/41-hill-cres.E7201768.htm#3x-o6,41 Hill Cres,4588000,7,5,0,Hill Cres,Scarborough Village,E7201768,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-maxome-ave.C6041507.htm#3x-o7,20 Maxome Ave,2218880,4,4,1,Maxome Ave,Willowdale East,C6041507,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/23-christine-cres.C7065098.htm#3x-o8,23 Christine Cres,1900000,4,4,0,Christine Cres,Willowdale West,C7065098,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/38-fifeshire-rd.C7062210.htm#3x-o9,38 Fifeshire Rd,6149000,5,4,1,Fifeshire Rd,St. Andrew-Windfields,C7062210,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-glenbrook-ave.W7061846.htm#3x-oa,12 Glenbrook Ave,1599000,1,2,0,Glenbrook Ave,Yorkdale-Glen Park,W7061846,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/9-laureleaf-rd.C7061668.htm#3x-ob,9 Laureleaf Rd,1898000,3,4,1,Laureleaf Rd,Bayview Woods-Steeles,C7061668,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/10-westwynd-crt.W7058584.htm#3x-oc,10 Westwynd Crt,1299900,3,3,0,Westwynd Crt,Willowridge-Martingrove-Richview,W7058584,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-ardmore-rd.C7061048.htm#3x-od,8 Ardmore Rd,5999999,5,5,1,Ardmore Rd,Forest Hill South,C7061048,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/555-westmount-ave.C7060158.htm#3x-oe,555 Westmount Ave,1299000,2,3,0,Westmount Ave,Oakwood Village,C7060158,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-marathon-cres.C7058928.htm#3x-of,27 Marathon Cres,1788000,4,3,0,Marathon Cres,Newtonbrook West,C7058928,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2669-midland-ave.E7055548.htm#3x-og,2669 Midland Ave,2588000,7,5,4,Midland Ave,Agincourt South-Malvern West,E7055548,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-citation-dr.C7057340.htm#3x-oh,15 Citation Dr,4950000,5,5,0,Citation Dr,Bayview Village,C7057340,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2639-lake-shore-blvd.W7053962.htm#3x-oi,2639 Lake Shore Blvd,7000000,4,7,0,Lake Shore Blvd,Mimico,W7053962,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/65-ames-circ.C7053662.htm#3x-oj,65 Ames Circ,6980,5,5,2,Ames Circ,Banbury-Don Mills,C7053662,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/189-old-yonge-st.C7053610.htm#3x-ok,189 Old Yonge St,8200000,9,5,1,Old Yonge St,St. Andrew-Windfields,C7053610,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/6-millbank-ave.C7053186.htm#3x-ol,6 Millbank Ave,5995000,5,3,1,Millbank Ave,Forest Hill South,C7053186,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/30-hawarden-cres.C7053022.htm#3x-om,30 Hawarden Cres,5995000,6,5,0,Hawarden Cres,Forest Hill South,C7053022,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/304-johnston-ave.C7052460.htm#3x-on,304 Johnston Ave,3250000,6,4,1,Johnston Ave,Lansing-Westgate,C7052460,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/135-high-park-ave.W7050674.htm#3x-oo,135 High Park Ave,2790000,6,6,2,High Park Ave,High Park North,W7050674,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/73-stevenharris-dr.W7047850.htm#3x-op,73 Stevenharris Dr,1849000,2,3,1,Stevenharris Dr,Markland Wood,W7047850,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/108-sandringham-dr.C7050816.htm#3x-oq,108 Sandringham Dr,15998000,8,5,1,Sandringham Dr,Lansing-Westgate,C7050816,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/161-winchester-st.C7049032.htm#3x-or,161 Winchester St,2799000,4,2,0,Winchester St,Cabbagetown-South St. James Town,C7049032,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/9-post-rd.C7048374.htm#3x-os,9 Post Rd,7995000,10,7,1,Post Rd,Bridle Path-Sunnybrook-York Mills,C7048374,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/14-cardell-ave.W7007156.htm#3x-ot,14 Cardell Ave,1399880,5,9,0,Cardell Ave,Humberlea-Pelmo Park W4,W7007156,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/61-dane-ave.W7047256.htm#3x-ou,61 Dane Ave,4880000,5,5,4,Dane Ave,Yorkdale-Glen Park,W7047256,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3261-lakeshore-blvd.W7046954.htm#3x-ov,3261 Lakeshore Blvd,5100000,10,8,1,Lakeshore Blvd,Long Branch,W7046954,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/81-fulbert-cres.E7047028.htm#3x-ow,81 Fulbert Cres,1588800,3,3,1,Fulbert Cres,Agincourt South-Malvern West,E7047028,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/18-north-park-dr.W7045866.htm#3x-ox,18 North Park Dr,2088888,5,4,0,North Park Dr,Maple Leaf,W7045866,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/821-the-queensway-n-a.W7043950.htm#3x-oy,821 The Queensway N/A,8900000,2,3,0,The Queensway N/A,Stonegate-Queensway,W7043950,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/16-brendwin-rd.W7043216.htm#3x-oz,16 Brendwin Rd,1150000,2,3,0,Brendwin Rd,Rockcliffe-Smythe,W7043216,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/40-hill-cres.E7044404.htm#3x-p0,40 Hill Cres,2499900,4,3,3,Hill Cres,Scarborough Village,E7044404,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/374-beechgrove-dr.E7042448.htm#3x-p1,374 Beechgrove Dr,1888888,5,4,2,Beechgrove Dr,West Hill,E7042448,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-norden-cres.C7044998.htm#3x-p2,5 Norden Cres,3850000,6,4,2,Norden Cres,Banbury-Don Mills,C7044998,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/35-tournament-dr.C7040562.htm#3x-p3,35 Tournament Dr,2695000,5,5,1,Tournament Dr,St. Andrew-Windfields,C7040562,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/796-jane-st.W7039202.htm#3x-p4,796 Jane St,859000,2,2,2,Jane St,Rockcliffe-Smythe,W7039202,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-treeview-dr.W7038988.htm#3x-p5,4 Treeview Dr,2195000,5,4,1,Treeview Dr,Alderwood,W7038988,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/101-westcroft-dr.E7035722.htm#3x-p6,101 Westcroft Dr,1010000,3,3,1,Westcroft Dr,West Hill,E7035722,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/9-doverwood-crt.C7036702.htm#3x-p7,9 Doverwood Crt,1880000,3,3,4,Doverwood Crt,Newtonbrook East,C7036702,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/377-brooke-ave.C7036332.htm#3x-p8,377 Brooke Ave,4588000,6,4,2,Brooke Ave,Bedford Park-Nortown,C7036332,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/366-greenfield-ave.C7034500.htm#3x-p9,366 Greenfield Ave,3380000,5,3,1,Greenfield Ave,Willowdale East,C7034500,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/692-richmond-st.C7034600.htm#3x-pa,692 Richmond St,2800000,4,3,0,Richmond St,Niagara,C7034600,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/119-gilley-rd.W7031808.htm#3x-pb,119 Gilley Rd,1175000,2,3,1,Gilley Rd,Downsview-Roding-CFB,W7031808,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/27-thornly-cres.W7028452.htm#3x-pc,27 Thornly Cres,1899000,4,4,0,Thornly Cres,Princess-Rosethorn,W7028452,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3025-queen-st.E7032938.htm#3x-pd,3025 Queen St,6090000,0,9,0,Queen St,The Beaches,E7032938,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/75-kenilworth-ave.E7031112.htm#3x-pe,75 Kenilworth Ave,2999900,5,3,1,Kenilworth Ave,The Beaches,E7031112,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/62-arjay-cres.C7033788.htm#3x-pf,62 Arjay Cres,5995000,6,4,1,Arjay Cres,Bridle Path-Sunnybrook-York Mills,C7033788,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/20-averdon-cres.C7032270.htm#3x-pg,20 Averdon Cres,2700000,6,4,1,Averdon Cres,Parkwoods-Donalda,C7032270,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/89-sun-row-dr.W7026278.htm#3x-ph,89 Sun Row Dr,1849888,3,2,2,Sun Row Dr,Willowridge-Martingrove-Richview,W7026278,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-sedgemount-dr.E7022824.htm#3x-pi,15 Sedgemount Dr,1050000,3,3,3,Sedgemount Dr,Woburn,E7022824,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/41-transwell-ave.C7022880.htm#3x-pj,41 Transwell Ave,3388000,7,4,2,Transwell Ave,Newtonbrook West,C7022880,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/111-brookside-dr.E7016754.htm#3x-pk,111 Brookside Dr,1289000,2,2,1,Brookside Dr,East End-Danforth,E7016754,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/270-floyd-ave.E7015040.htm#3x-pl,270 Floyd Ave,2999000,3,4,0,Floyd Ave,Danforth Village-East York,E7015040,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/165-mcallister-rd.C7017020.htm#3x-pm,165 Mcallister Rd,1638000,2,3,2,Mcallister Rd,Clanton Park,C7017020,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3-ledge-rd.E7011722.htm#3x-pn,3 Ledge Rd,2299000,2,4,0,Ledge Rd,Cliffcrest,E7011722,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/179-crawford-st.C7017346.htm#3x-po,179 Crawford St,4199000,2,4,1,Crawford St,Trinity-Bellwoods,C7017346,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/345-gladstone-ave.C7013084.htm#3x-pp,345 Gladstone Ave,3549000,6,7,0,Gladstone Ave,Dufferin Grove,C7013084,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1172-wilson-ave.W7010152.htm#3x-pq,1172 Wilson Ave,1475000,3,3,3,Wilson Ave,Downsview-Roding-CFB,W7010152,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/314-weston-rd.W7008834.htm#3x-pr,314 Weston Rd,1250000,4,5,2,Weston Rd,Junction Area,W7008834,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/10-silversand-pl.E7010724.htm#3x-ps,10 Silversand Pl,2299000,5,6,2,Silversand Pl,Morningside,E7010724,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-shady-oaks-cres.C7009450.htm#3x-pt,8 Shady Oaks Cres,6398800,7,5,2,Shady Oaks Cres,Bridle Path-Sunnybrook-York Mills,C7009450,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/168-haddington-ave.C7008360.htm#3x-pu,168 Haddington Ave,2550000,6,4,1,Haddington Ave,Bedford Park-Nortown,C7008360,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-king-maple-pl.C7007590.htm#3x-pv,12 King Maple Pl,3689000,3,4,2,King Maple Pl,Bayview Village,C7007590,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/32-wexford-blvd.E7007414.htm#3x-pw,32 Wexford Blvd,1249000,2,3,3,Wexford Blvd,Wexford-Maryvale,E7007414,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-cardell-ave.W7005606.htm#3x-px,19 Cardell Ave,1399000,2,4,0,Cardell Ave,Humberlea-Pelmo Park W4,W7005606,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/10-ansell-ave.W7003524.htm#3x-py,10 Ansell Ave,899500,3,2,0,Ansell Ave,Long Branch,W7003524,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/25-mcclinchy-ave.W7002812.htm#3x-pz,25 Mcclinchy Ave,1739000,2,2,0,Mcclinchy Ave,Kingsway South,W7002812,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/233-carmichael-ave.C7002096.htm#3x-q0,233 Carmichael Ave,4389000,5,5,0,Carmichael Ave,Bedford Park-Nortown,C7002096,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-abrams-pl.C6817296.htm#3x-q1,5 Abrams Pl,6280000,9,4,1,Abrams Pl,St. Andrew-Windfields,C6817296,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/54-cotswold-cres.C6815978.htm#3x-q2,54 Cotswold Cres,2980000,3,3,1,Cotswold Cres,St. Andrew-Windfields,C6815978,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/134-helendale-ave.C6807382.htm#3x-q3,134 Helendale Ave,1588000,3,3,0,Helendale Ave,Yonge-Eglinton,C6807382,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/33-rockcliffe-blvd.W6804124.htm#3x-q4,33 Rockcliffe Blvd,950000,4,2,2,Rockcliffe Blvd,Rockcliffe-Smythe,W6804124,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/16-ruden-cres.C6802320.htm#3x-q5,16 Ruden Cres,2999000,4,4,0,Ruden Cres,Parkwoods-Donalda,C6802320,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/218-newton-dr.C6799854.htm#3x-q6,218 Newton Dr,2350000,3,3,0,Newton Dr,Newtonbrook East,C6799854,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/216-newton-dr.C6799850.htm#3x-q7,216 Newton Dr,2300000,2,3,0,Newton Dr,Newtonbrook East,C6799850,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/313-sheppard-ave.C6796954.htm#3x-q8,313 Sheppard Ave,2858880,3,3,2,Sheppard Ave,Willowdale East,C6796954,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/256-grenview-blvd.W6795354.htm#3x-q9,256 Grenview Blvd,3195000,6,4,0,Grenview Blvd,Stonegate-Queensway,W6795354,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/102-bernard-ave.C6791756.htm#3x-qa,102 Bernard Ave,3199000,4,7,0,Bernard Ave,Annex,C6791756,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/242-glen-park-ave.W6789702.htm#3x-qb,242 Glen Park Ave,1188800,2,2,0,Glen Park Ave,Yorkdale-Glen Park,W6789702,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-greening-cres.W6789654.htm#3x-qc,7 Greening Cres,1849800,2,3,0,Greening Cres,Princess-Rosethorn,W6789654,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/379-walmer-rd.C6788312.htm#3x-qd,379 Walmer Rd,7500000,6,7,1,Walmer Rd,Casa Loma,C6788312,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/60-waverley-rd.E6786690.htm#3x-qe,60 Waverley Rd,4200000,4,3,1,Waverley Rd,The Beaches,E6786690,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/5-byworth-blvd.W6784408.htm#3x-qf,5 Byworth Blvd,1699888,3,4,0,Byworth Blvd,Kingsview Village-The Westway,W6784408,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/76-citation-dr.C6783044.htm#3x-qg,76 Citation Dr,2380000,2,3,2,Citation Dr,Bayview Village,C6783044,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/4-braywin-dr.W6782174.htm#3x-qh,4 Braywin Dr,3288000,5,4,1,Braywin Dr,Kingsview Village-The Westway,W6782174,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/131-drewry-ave.C6782208.htm#3x-qi,131 Drewry Ave,1618000,2,4,0,Drewry Ave,Newtonbrook West,C6782208,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/93-lynnhaven-rd.C6781862.htm#3x-qj,93 Lynnhaven Rd,1299999,2,3,1,Lynnhaven Rd,Englemount-Lawrence,C6781862,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/36-old-yonge-st.C6774922.htm#3x-qk,36 Old Yonge St,8980000,9,5,1,Old Yonge St,Bridle Path-Sunnybrook-York Mills,C6774922,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/16-davis-downs-pl.E6770770.htm#3x-ql,16 Davis Downs Pl,1224900,2,3,1,Davis Downs Pl,West Hill,E6770770,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3525-st-clair-ave.E6763998.htm#3x-qm,3525 St Clair Ave,1150000,2,2,2,St Clair Ave,Clairlea-Birchmount,E6763998,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/57-regent-rd.W6761558.htm#3x-qn,57 Regent Rd,1399900,3,3,1,Regent Rd,Downsview-Roding-CFB,W6761558,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/80-fairholme-ave.C6742976.htm#3x-qo,80 Fairholme Ave,3298000,8,5,3,Fairholme Ave,Englemount-Lawrence,C6742976,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/85-kenilworth-ave.E6220804.htm#3x-qp,85 Kenilworth Ave,1759000,2,3,0,Kenilworth Ave,The Beaches,E6220804,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-ivanhoe-crt.E6738890.htm#3x-qq,7 Ivanhoe Crt,1348000,2,3,2,Ivanhoe Crt,Wexford-Maryvale,E6738890,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/81-markham-st.C6730330.htm#3x-qr,81 Markham St,3250000,4,5,0,Markham St,Trinity-Bellwoods,C6730330,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/31-benlight-cres.E6730000.htm#3x-qs,31 Benlight Cres,1300000,4,3,3,Benlight Cres,Woburn,E6730000,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3024-bayview-ave.C6728810.htm#3x-qt,3024 Bayview Ave,1988000,3,3,2,Bayview Ave,Willowdale East,C6728810,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/55-danzig-st.E6725934.htm#3x-qu,55 Danzig St,1229000,3,3,1,Danzig St,West Hill,E6725934,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/26-birchard-st.E6722274.htm#3x-qv,26 Birchard St,1458000,2,3,3,Birchard St,Tam O'Shanter-Sullivan,E6722274,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-country-lane.C6721798.htm#3x-qw,19 Country Lane,19800000,11,5,2,Country Lane,Bridle Path-Sunnybrook-York Mills,C6721798,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2629-kennedy-rd.E6718322.htm#3x-qx,2629 Kennedy Rd,1400800,2,2,1,Kennedy Rd,Tam O'Shanter-Sullivan,E6718322,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/51-berkindale-dr.C6716982.htm#3x-qy,51 Berkindale Dr,7800000,8,5,1,Berkindale Dr,St. Andrew-Windfields,C6716982,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/12-sunvale-dr.W6712350.htm#3x-qz,12 Sunvale Dr,4225000,8,5,2,Sunvale Dr,Willowridge-Martingrove-Richview,W6712350,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/10-oconnor-dr.E6713146.htm#3x-r0,10 Oconnor Dr,1579800,2,3,2,Oconnor Dr,Broadview North,E6713146,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/16-rambert-cres.W6689656.htm#3x-r1,16 Rambert Cres,1799000,2,4,0,Rambert Cres,High Park-Swansea,W6689656,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/131-clearbrooke-circ.W6690964.htm#3x-r2,131 Clearbrooke Circ,1099888,1,3,0,Clearbrooke Circ,Rexdale-Kipling,W6690964,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/3163-bayview-ave.C6687078.htm#3x-r3,3163 Bayview Ave,2180000,5,4,1,Bayview Ave,Bayview Village,C6687078,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/992-dundas-st.C6674418.htm#3x-r4,992 Dundas St,2700000,4,5,2,Dundas St,Trinity-Bellwoods,C6674418,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/7-kirkdale-cres.C6662790.htm#3x-r5,7 Kirkdale Cres,7100000,7,4,1,Kirkdale Cres,Banbury-Don Mills,C6662790,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2-valleyanna-dr.C6662722.htm#3x-r6,2 Valleyanna Dr,5500000,3,5,0,Valleyanna Dr,Bridle Path-Sunnybrook-York Mills,C6662722,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/36-lawnmere-cres.E6643426.htm#3x-r7,36 Lawnmere Cres,1690000,2,4,0,Lawnmere Cres,Agincourt South-Malvern West,E6643426,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/8-swansdown-dr.C6639454.htm#3x-r8,8 Swansdown Dr,11490000,10,4,1,Swansdown Dr,St. Andrew-Windfields,C6639454,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/22-reidmount-ave.E6631496.htm#3x-r9,22 Reidmount Ave,1420000,4,4,2,Reidmount Ave,Agincourt South-Malvern West,E6631496,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/125-scarlett-rd.W6212940.htm#3x-ra,125 Scarlett Rd,4800000,6,9,1,Scarlett Rd,Rockcliffe-Smythe,W6212940,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/15-fernwood-gdns.E6213228.htm#3x-rb,15 Fernwood Gdns,3888000,6,5,0,Fernwood Gdns,Broadview North,E6213228,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/29-north-woodrow-blvd.E6205400.htm#3x-rc,29 North Woodrow Blvd,769900,2,2,1,North Woodrow Blvd,Clairlea-Birchmount,E6205400,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/275-reiner-rd.C6035896.htm#3x-rd,275 Reiner Rd,2588000,5,4,1,Reiner Rd,Clanton Park,C6035896,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/11-ridgewood-rd.C6018791.htm#3x-re,11 Ridgewood Rd,11500000,7,4,1,Ridgewood Rd,Forest Hill South,C6018791,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/217-danforth-rd.E6009607.htm#3x-rf,217 Danforth Rd,2075000,3,2,1,Danforth Rd,Clairlea-Birchmount,E6009607,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/19-royal-oak-dr.C5939643.htm#3x-rg,19 Royal Oak Dr,7500000,9,7,0,Royal Oak Dr,Bridle Path-Sunnybrook-York Mills,C5939643,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/1-country-lane.C5752376.htm#3x-rh,1 Country Lane,5500000,3,2,1,Country Lane,Bridle Path-Sunnybrook-York Mills,C5752376,Toronto,detached_home,2024-01-30
+https://toronto.listing.ca/2445-bayview-ave.C5379567.htm#3x-ri,2445 Bayview Ave,5500000,3,3,1,Bayview Ave,Bridle Path-Sunnybrook-York Mills,C5379567,Toronto,detached_home,2024-01-30
