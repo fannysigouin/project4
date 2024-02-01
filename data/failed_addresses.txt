@@ -1,106 +1,85 @@
-Frederick Todd Way
-Frederick Todd Way
-Forest Manor Rd P
-Merchants Wharf St
-Frederick Todd Way
-Rean Ave
-Tretti Way
-Lisgar St Lph06E
-Parliment St
-Heintzman Pl
-Sherway Garderns Rd
-Shorebreeze Drive
-Donmills Rd
-The Esplanade St
-Pavane Line
-Bremmer Blvd
-Tretti Way
-Front St S
-Richmond St L
-Lotherton Pkwy
-Frederick Todd Way
-Frederick Todd Way
-San Romano Way
-The Esplanade Drive
-Bridlestowne Circ
-Mill Rd G
-Front St S
-Bruyeres Mews NA
-Pavane Linkway Way
-The Esplanade NA
-Deerlick Drive
-The Esplanade St
-Edgecliffe Golfway
-Ann O'reily Rd
-Tretti Way
-The Esplanade NA
-Tretti Way
-Village Green Square Square
-The Queensway NA
-The Donway NA
-Walmer Rd 701Ph
-The Queensway NA
-The Esplanade NA
-Jarvis St Gt
-Sylvan Valley Way
-Duffrin St
-Queens Quay NA
-Northtown NA
-Broadview Ave Lw
-Tretti Way
-Forest Manner Rd
-Capreol Crt Parking
-The Queensway NA
-The Queensway NA
-The Queensway NA
-Clairtrell Rd Rg
-The Esplanade NA
-The Queensway NA
-Front St S
-Broadway Ave Parking
-San Romano Way
-The Esplanade Ave
-Front St N
-The Queensway NA
-Pavane Linkway Lane
-Pavane Linkway NA
-The Esplanade NA
-Gleneverest Rd
-Gibbs St
-Frederick Todd Way
-St. Clair Ave. West Ally
-Akil Thomas Gdns
-Kirtling Pl
-Kirtling Pl
-Hooyo Terr
-Danielle Moore Circ
-Rock Fern Way
-Brickworks Lane Bw
-Kenaston Gdns Gv
-Lloyd Janes Lane
-William Jackson Way Th
-Woody Vine Way
-Candle Lite Way
-Livonia Pl
-William Jackson Way
-Fort York Blvd G
-Dutch Myrtle Way
-The Queensway NA
-Farm Greenway NA
-Avenue Rd C
-Maroon Mill Way
-Brimingham St
-William Jackson Way
-Brickworks Lane Bl
-Fort York Blvd G
-Wild Ginger Way
-Scarborough Golfclub Rd
-Saint George St
-Crescent Rd + Coach
-Crescent Rd Coach H
-TwentyThird St
-Freemon Redmon Circ
-Nielson Ave
-Danielle Moore Circ
-South Kingsway NA
-The Queensway NA
+33 Frederick Todd Way 1108
+33 Frederick Todd Way 1603
+52 Forest Manor Rd P1 03
+55 Merchants Wharf St 723
+33 Frederick Todd Way 1001
+27 Rean Ave 301
+30 Tretti Way 417
+36 Lisgar St Lph06E
+120 Parliment St 402
+60 Heintzman Pl 1426
+225 Sherway Garderns Rd 710
+30 Shorebreeze Dr 427
+725 Donmills Rd 2506
+8 The Esplanade St 1803
+60 Pavane Line 1202
+65 Bremmer Blvd 5301
+30 Tretti Way 905
+455 Front St S325
+73 Richmond St L06
+50 Lotherton Pkwy 1212
+33 Frederick Todd Way 405
+33 Frederick Todd Way 911
+5 San Romano Way 402
+8 The Esplanade Dr 4006
+2500 Bridlestowne Circ 507
+296 Mill Rd G9
+455 Front St S503
+60 Pavane Linkway Way 1901
+10 Deerlick Dr 1305
+8 The Esplanade St 506
+20 Edgecliffe Gfwy 106
+55 Ann O'reily Rd 1407
+30 Tretti Way 720
+30 Tretti Way 225
+125 Village Green Square Sq 1710
+407 Walmer Rd 701-Ph2
+539 Jarvis St Gt 7
+40 Sylvan Valley Way 524
+2433 Duffrin St 506
+90 Broadview Ave Lw12
+30 Tretti Way 509
+38 Forest Manner Rd 702
+10 Capreol Crt Parking
+2 Clairtrell Rd Rg5
+455 Front St S327
+99 Broadway Ave Parking
+5 San Romano Way 1908
+8 The Esplanade Ave 2302
+455 Front St N408
+60 Pavane Linkway Lane 501
+90 Gleneverest Rd 613
+10 Gibbs St 814
+33 Frederick Todd Way 1406
+2300 St. Clair Ave. West Ally 320
+6 Akil Thomas Gdns
+16 Kirtling Pl 7
+16 Kirtling Pl 1
+72 Hooyo Terr 21
+62 Danielle Moore Circ
+89 Rock Fern Way
+111 Brickworks Lane Bw111
+38 Kenaston Gdns Gv115
+10 Lloyd Janes Lane 194
+30 William Jackson Way Th 113
+184 Woody Vine Way 31
+39 Candle Lite Way
+21 Livonia Pl 140
+5 William Jackson Way 50
+108 Fort York Blvd G07
+5 Dutch Myrtle Way 5
+1248 Avenue Rd C
+19 Maroon Mill Way
+225 Brimingham St 150
+30 William Jackson Way 115
+123 Brickworks Lane Bl123
+96 Fort York Blvd G01
+36 Wild Ginger Way 36
+830 Scarborough Golfclub Rd
+88 Saint George St
+135 Crescent Rd + Coach
+135 Crescent Rd Coach H
+24 Twenty-Third St
+21 Freemon Redmon Circ
+41 Nielson Ave
+71 Danielle Moore Circ
