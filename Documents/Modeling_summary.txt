@@ -1,0 +1,21 @@
+
+rf_model = RandomForestClassifier(n_estimators=500, random_state=1)
+Random Forest Train mse =  459155372971.5498  & mae =  139533.9770337576  & rmse =  677610.0449163588
+Random Forest Rest mse =  869459566689.9327  & mae =  375292.3908713693  & rmse =  932448.1576419853
+
+
+
+rf_model = RandomForestClassifier(n_estimators=1000, random_state=1)
+Random Forest Train mse =  443390994948.7288  & mae =  130955.37742114002  & rmse =  665876.1108109592
+Random Forest test mse =  759007355024.785  & mae =  356610.2439834025  & rmse =  871210.281748778
+
+Using binning:
+rf_model = RandomForestClassifier(n_estimators=1000, random_state=1)
+print("Random Forest Train mse = ",rf_mse_train," & mae = ",rf_mae_train," & rmse = ", sqrt(rf_mse_train))
+print("Random Forest Test mse = ",rf_mse_test," & mae = ",rf_mae_test," & rmse = ", sqrt(rf_mse_test))
+
+
+After removing (baths = 0) listings:
+rf_model = RandomForestClassifier(n_estimators=500, random_state=1)
+Random Forest Train mse =  502950249695.5501  & mae =  140518.17291146267  & rmse =  709189.8544787215
+Random Forest Test mse =  1891568197114.4817  & mae =  416270.0207986689  & rmse =  1375342.9380029119
