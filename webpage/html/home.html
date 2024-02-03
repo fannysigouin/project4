@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toronto House Price Predictor</title>
+    <!--Using style sheet from mod 14 belly button challenge-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!--If displaying any graphs, uncomment and insert below-->
+    <!--script src=""></script-->
+</head>    
+
+<body>
+    <header>
+        <h1>Toronto House Price Predictor</h1>
+    </header>
+    <div>
+        <select id="dropdown-neighbourhood">
+        </select>
+        <select id="dropdown-beds">
+        </select>
+        <select id="dropdown-baths">
+        </select>
+        <select id="dropdown-dens">
+            <!-- <option value="optionA">Option A</option>
+            <option value="optionB">Option B</option>
+            <option value="optionC">Option C</option> -->
+        </select>
+        <button onclick="generateOutput()">Generate Price Prediction</button>
+    </div>
+
+    <div id="output"></div>
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="../js/script.js"></script>
+</body>
+</html>
