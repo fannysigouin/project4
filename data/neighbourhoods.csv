@@ -1,0 +1,182 @@
+index,neighbourhoods,walk_score,transit_score,bike_score,is_in_data
+0,East End-Danforth,90,80,68,1
+1,Waterfront Communities C1,94,88,97,1
+2,Mimico,62,76,77,1
+3,South Riverdale,99,93,84,1
+4,Tam O'Shanter-Sullivan,53,68,48,1
+5,Annex,97,97,100,1
+6,Banbury-Don Mills,98,63,64,1
+7,Lansing-Westgate,60,79,43,1
+8,Oakwood Village,92,79,70,1
+9,Willowdale East,77,88,52,1
+10,Church-Yonge Corridor,100,90,85,1
+11,Bay Street Corridor,99,100,86,1
+12,Yonge-St. Clair,97,84,75,1
+13,Mount Pleasant West,91,88,65,1
+14,Kensington-Chinatown,100,100,100,1
+15,Glenfield-Jane Heights,49,71,50,1
+16,Etobicoke West Mall,57,67,56,1
+17,Kingsview Village-The Westway,61,63,42,1
+18,Islington-City Centre West,87,97,52,1
+19,Hillcrest Village,50,74,57,1
+20,South Parkdale,81,95,71,1
+21,O'Connor-Parkview,59,70,57,1
+22,Willowdale West,67,86,52,1
+23,Milliken,51,66,59,1
+24,St. Andrew-Windfields,34,65,34,1
+25,Newtonbrook West,59,80,56,1
+26,Flemingdon Park,52,72,50,1
+27,Moss Park,98,99,99,1
+28,Waterfront Communities C8,94,88,96,1
+29,Junction Area,96,72,82,1
+30,West Hill,34,68,44,1
+31,Henry Farm,51,83,47,1
+32,High Park North,74,94,74,1
+33,York University Heights,55,80,61,1
+34,Humewood-Cedarvale,25,83,100,1
+35,Crescent Town,76,90,77,1
+36,Bendale,55,77,59,1
+37,Cliffcrest,54,66,51,1
+38,Malvern,39,73,40,1
+39,Rosedale-Moore Park,60,67,50,1
+40,Thorncliffe Park,57,73,56,1
+41,Niagara,83,92,89,1
+42,Yonge-Eglinton,87,90,73,1
+43,Newtonbrook East,55,85,52,1
+44,Parkwoods-Donalda,76,59,66,1
+45,Dufferin Grove,93,92,91,1
+46,Casa Loma,78,87,72,1
+47,Englemount-Lawrence,60,80,59,1
+48,Yorkdale-Glen Park,87,78,58,1
+49,Mount Olive-Silverstone-Jamestown,88,72,46,1
+50,West Humber-Clairville,20,70,48,1
+51,Downsview-Roding-CFB,17,62,35,1
+52,Humber Heights,54,72,62,1
+53,Dovercourt-Wallace Emerson-Junction,93,92,92,1
+54,Woburn,43,70,46,1
+55,Kennedy Park,75,83,50,1
+56,Agincourt South-Malvern West,54,75,48,1
+57,Guildwood,32,64,40,1
+58,Leaside,97,70,75,1
+59,Regent Park,87,99,95,1
+60,Cabbagetown-South St. James Town,96,91,97,1
+61,Clanton Park,44,75,49,1
+62,Forest Hill South,70,80,74,1
+63,Trinity-Bellwoods,91,97,82,1
+64,L'Amoreaux,53,70,55,1
+65,Bayview Village,55,68,53,1
+66,Dorset Park,58,70,52,1
+67,North St. James Town,96,91,97,1
+68,Elms-Old Rexdale,57,64,51,1
+69,Agincourt North,53,70,62,1
+70,The Beaches,81,84,75,1
+71,Brookhaven-Amesbury,53,70,37,1
+72,Steeles,54,67,51,1
+73,Rockcliffe-Smythe,46,71,55,1
+74,Eglinton East,59,83,53,1
+75,Bathurst Manor,69,65,39,1
+76,Don Valley Village,56,78,64,1
+77,High Park-Swansea,81,87,55,1
+78,Little Portugal,86,97,84,1
+79,Humbermede,53,67,54,1
+80,Humberlea-Pelmo Park W5,59,63,43,1
+81,Edenbridge-Humber Valley,41,64,59,1
+82,Beechborough-Greenbrook,51,70,48,1
+83,Markland Wood,46,64,55,1
+84,Black Creek,49,78,63,1
+85,Rouge E11,42,64,42,1
+86,Birchcliffe-Cliffside,73,63,49,1
+87,Pleasant View,44,71,49,1
+88,Bedford Park-Nortown,78,62,57,1
+89,Palmerston-Little Italy,95,93,100,1
+90,Stonegate-Queensway,50,70,59,1
+91,New Toronto,72,78,77,1
+92,Danforth,96,80,81,1
+93,Mount Pleasant East,81,77,63,1
+94,University,97,99,100,1
+95,Lawrence Park South,88,79,75,1
+96,Forest Hill North,67,78,76,1
+97,Humber Summit,45,67,55,1
+98,Eringate-Centennial-West Deane,39,63,51,1
+99,Rustic,49,74,41,1
+100,Roncesvalles,97,93,91,1
+101,Mount Dennis,52,78,51,1
+102,Westminster-Branson,74,64,70,1
+103,Bridle Path-Sunnybrook-York Mills,21,47,31,1
+104,Bayview Woods-Steeles,36,61,59,1
+105,Scarborough Village,65,72,50,1
+106,North Riverdale,86,100,78,1
+107,Alderwood,55,62,53,1
+108,Maple Leaf,43,68,40,1
+109,Rexdale-Kipling,71,59,51,1
+110,Clairlea-Birchmount,67,87,45,1
+111,Victoria Village,65,67,54,1
+112,Weston-Pellam Park,96,76,74,1
+113,Kingsway South,83,76,73,1
+114,Briar Hill-Belgravia,70,82,76,1
+115,Ionview,87,94,54,1
+116,Lawrence Park North,23,69,50,1
+117,Wexford-Maryvale,74,61,49,1
+118,Long Branch,64,79,72,1
+119,Weston,72,79,57,1
+120,Greenwood-Coxwell,84,86,79,1
+121,Danforth Village-East York,98,88,82,1
+122,Morningside,25,70,33,1
+123,Keelesdale-Eglinton West,69,75,55,1
+124,Oakridge,62,84,60,1
+125,Broadview North,70,80,80,1
+126,Lambton Baby Point,70,75,81,1
+127,Corso Italia-Davenport,99,78,76,1
+128,Centennial Scarborough,52,58,35,1
+129,Playter Estates-Danforth,95,100,85,1
+130,Blake-Jones,84,93,76,1
+131,Thistletown-Beaumonde Heights,78,62,43,1
+132,Woodbine-Lumsden,90,81,95,1
+133,Rouge E10,42,64,42,1
+134,Caledonia-Fairbank,66,76,61,1
+135,Wychwood,88,77,83,1
+136,East York,81,79,65,1
+137,Woodbine Corridor,80,87,75,1
+138,Runnymede-Bloor West Village,100,92,90,1
+139,Willowridge-Martingrove-Richview,70,72,57,1
+140,Princess-Rosethorn,56,60,48,1
+141,Humberlea-Pelmo Park W4,59,63,43,1
+142,Highland Creek,17,69,36,1
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
