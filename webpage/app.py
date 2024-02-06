@@ -1,6 +1,7 @@
 from flask import Flask, render_template, jsonify, request
 from flask import Markup
-import requests
+from flask_cors import CORS
+import requests, psycopg2
 import sqlalchemy
 from sqlalchemy import create_engine, text
 import psycopg2
@@ -11,20 +12,42 @@ import pandas as pd
 #################################################
 # Flask Setup
 #################################################
-app = Flask(__name__, template_folder='templates')
+app = Flask(__name__, template_folder='html')
+CORS(app)
 
+#Connect to the database using psycopg2
+def connect_to_database():
+    try:
+        conn = psycopg2.connect(host= 'localhost',
+        user =  'postgres',
+        password=  'postgres',
+        dbname = "listings_db",
+        port =  5432
+    )
+        return conn
+    except Exception as error:
+        print(f"Error: Unable to connect to the dataBase - {str(error)}")
+        raise ConnectionError(f"Error: Unable to connect to the Database - {str(error)}")
+
+#Render in HTML template
 @app.route("/")
 def homepage():
     return render_template('home.html') 
 
-
+#fetch unique neighbourhoods from DB to fill drop-down
 @app.route("/get_neighbourhoods")
 def get_neighbourhoods():
-    engine = sqlalchemy.create_engine('postgresql://postgres:postgres@localhost:5432/listings_db')
-    query = text("SELECT distinct neighbourhood FROM toronto_listings")
-    data = engine.execute(query)
-    return data
+    connection = connect_to_database()
+    query = "SELECT * FROM neighbourhoods;"
+    cursor = connection.cursor()
+    cursor.execute(query)
 
+    # Fetch all rows
+    data = cursor.fetchall()
+
+    return jsonify(data)
+
+#generate predictions based on drop-down selections
 @app.route("/predict_Price")
 def predict_Price():
 
