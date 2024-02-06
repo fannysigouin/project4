@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toronto Real Estate Price Predictor</title>
+    <!-- Favicon (https://favicon.io/emoji-favicons/houses/)-->
+    <!-- The graphics are from the open source project Twemoji. Copyright 2020 Twitter, Inc and other contributors. Licensed under CC-BY 4.0. -->
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="favicon_io/site.webmanifest">
+    <!--Using style sheet from mod 14 belly button challenge-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!--If displaying any graphs, uncomment and insert below-->
+    <!--script src=""></script-->
+    <style>
+        /* Container for each dropdown to help align them horizontally */
+        .dropdown-container {
+            float: left;
+            padding: 20px;
+        }
+
+        /* Clear floats after the containers */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        /* Style for the button */
+        .submit-button {
+            clear: both;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="text-center jumbotron">
+        <h1>Toronto Real Estate Price Predictor</h1>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="lead">Select from the drop-downs below to generate a prediction:</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="panel panel-info col-sm-12">
+                <div class="panel-heading form-horizontal row">
+                    <div class="col-xs-12 col-sm-6 col-md-2">
+                        <label for="dropdown-neighbourhood">Neighbourhood</label>
+                        <select id="dropdown-neighbourhood" class="form-control">
+                            <option value="" selected disabled hidden>Choose here</option>
+                        </select>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-2">
+                        <label for="dropdown-beds">Number of beds</label>
+                        <select id="dropdown-beds" class="form-control">
+                            <option value="" selected disabled hidden>Choose here</option>
+                            <option value="1">1 bedroom</option>
+                            <option value="2">2 bedrooms</option>
+                            <option value="3">3 bedrooms</option>
+                            <option value="4">4 bedrooms</option>
+                        </select>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-2">
+                        <label for="dropdown-baths">Number of baths</label>
+                        <select id="dropdown-baths" class="form-control">
+                            <option value="" selected disabled hidden>Choose here</option>
+                            <option value="1">1 bath</option>
+                            <option value="2">2 baths</option>
+                            <option value="3">3 baths</option>
+                            <option value="4">4 baths</option>
+                            <option value="5">5 baths</option>
+                        </select>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-2">
+                        <label for="dropdown-dens">Number of dens</label>
+                        <select id="dropdown-dens" class="form-control">
+                            <option value="" selected disabled hidden>Choose here</option>
+                            <option value="0">No dens</option>
+                            <option value="1">1 den</option>
+                            <option value="2">2 dens</option>
+                        </select>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-2">
+                        <label for="dropdown-property-type">Property type</label>
+                        <select id="dropdown-property-type" class="form-control">
+                            <option value="" selected disabled hidden>Choose here</option>
+                            <option value="condo_apartment">Condo Apartment</option>
+                            <option value="condo_townhome">Condo Townhome</option>
+                            <option value="freehold_townhome">Freehold Townhome</option>
+                            <option value="detached_home">Detached Home</option>
+                        </select>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-2 ">
+                        <button type="button" class="btn btn-primary btn-lg prediction-button"
+                            onclick="generateOutput()">
+                            Predict Price <span class="glyphicon glyphicon-circle-arrow-right"></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="panel-body" id="output"></div>
+            </div>
+        </div>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="../js/script.js"></script>
+</body>
+
+</html>
