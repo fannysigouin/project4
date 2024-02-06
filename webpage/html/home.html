@@ -9,24 +9,78 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!--If displaying any graphs, uncomment and insert below-->
     <!--script src=""></script-->
+    <style>
+        /* Container for each dropdown to help align them horizontally */
+        .dropdown-container {
+            float: left;
+            padding: 20px;
+        }
+        /* Clear floats after the containers */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+        /* Style for the button */
+        .submit-button {
+            clear: both;
+            margin-top: 20px;
+        }
+    </style>
 </head>    
 
 <body>
     <header>
         <h1>Toronto House Price Predictor</h1>
     </header>
-    <div>
+    <h4>Select from the drop-downs below to generate a prediction</h4>
+    <div class="dropdown-container">
+        <div>Neighbourhoods</div>
         <select id="dropdown-neighbourhood">
+            <option value="" selected disabled hidden>Choose here</option>
         </select>
+    </div>
+    <div class="dropdown-container">
+        <div>Number of beds</div>
         <select id="dropdown-beds">
+            <option value="" selected disabled hidden>Choose here</option>
+            <option value="1">One bedroom</option>
+            <option value="2">Two bedrooms</option>
+            <option value="3">Three bedrooms</option>
+            <option value="4">Four bedrooms</option>
         </select>
+    </div>
+    <div class="dropdown-container">
+        <div>Number of baths</div>
         <select id="dropdown-baths">
+            <option value="" selected disabled hidden>Choose here</option>
+            <option value="1">One bath</option>
+            <option value="2">Two baths</option>
+            <option value="3">Three baths</option>
+            <option value="4">Four baths</option>
+            <option value="5">Five baths</option>
         </select>
+    </div>
+    <div class="dropdown-container">
+        <div>Number of dens</div>
         <select id="dropdown-dens">
-            <!-- <option value="optionA">Option A</option>
-            <option value="optionB">Option B</option>
-            <option value="optionC">Option C</option> -->
+            <option value="" selected disabled hidden>Choose here</option>
+            <option value="0">No dens</option>
+            <option value="1">One den</option>
+            <option value="2">Two dens</option>
         </select>
+    </div>
+    <div class="dropdown-container">
+        <div>Property type</div>
+        <select id="dropdown-property-type">
+            <option value="" selected disabled hidden>Choose here</option>
+            <option value="condo_apartment">Condo Apartment</option>
+            <option value="condo_townhome">Condo Townhome</option>
+            <option value="freehold_townhome">Freehold Townhome</option>
+            <option value="detached_home">Detached Home</option>
+        </select>
+    </div>
+    <div class="prediction-button">
         <button onclick="generateOutput()">Generate Price Prediction</button>
     </div>
 
