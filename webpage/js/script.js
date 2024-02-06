@@ -25,18 +25,20 @@ function init() {
 
 // function to load in the model
 async function loadModel() {
-    const model = "insert_model_file_path_here"
+    const model = "insert_model_flask_route_here"
     return model;
 }
 
 // function to predict output based on user input
 async function generateOutput() {
-    const dropdown1 = document.getElementById('dropdown1').value;
-    const dropdown2 = document.getElementById('dropdown2').value;
-    const dropdown3 = document.getElementById('dropdown3').value;
+    const neighbourhood = document.getElementById('dropdown-neighbourhood').value;
+    const beds = document.getElementById('dropdown-beds').value;
+    const baths = document.getElementById('dropdown-baths').value;
+    const dens = document.getElementById('dropdown-dens').value;
+    const property_type = document.getElementById('dropdown-property-type').value;
 
     // prepare input data
-    const inputData = [[dropdown1, dropdown2, dropdown3]]
+    const inputData = [[neighbourhood, beds, baths, dens, property_type]];
 
     // load the model
     const model = await loadModel();
