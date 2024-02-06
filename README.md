@@ -66,6 +66,10 @@ Update once complete
 
 - [AWS Documentation](https://docs.aws.amazon.com/) - AWS documentation for setting up instances and deploying applications.
 
+## Web Development 
+
+- [Bootstrap Documentation](https://getbootstrap.com/docs/3.3/) - Bootstrap documentation for setting up HTML, CSS and Java framekwork. 
+
 ## General
 
 - [SQLAlchemy Documentation](https://docs.sqlalchemy.org/) - Reference for using SQLAlchemy for database interactions.
