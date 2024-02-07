@@ -5,9 +5,9 @@
 const nhood_data_url = "http://127.0.0.1:5000/api/get_neighbourhoods";
 
 // console log the data to make sure it populates
-d3.json(nhood_data_url).then(function(data) {
-    console.log(data);
-})
+// d3.json(nhood_data_url).then(function(data) {
+//     console.log(data);
+// })
 
 // promise function to populate the neighbourhood dropdown
 d3.json(nhood_data_url).then(function(data) {
@@ -35,18 +35,19 @@ async function generateOutput() {
     const dens = document.getElementById('dropdown-dens').value;
     const property_type = document.getElementById('dropdown-property-type').value;
 
-    // prepare input data
-    const inputData = [[neighbourhood, beds, baths, dens, property_type]];
-
-    // load the model
-    const model = await loadModel();
-
-    // get predictions
-    const prediction = model.predict(inputData);
-
-    // display predictions
-    const outputElement = document.getElementById('output');
-    outputElement.innerText = "Predicted Price: $" + prediction
+    const predict_url = "http://127.0.0.1:5000/predict_Price?beds=" + beds + "&baths=" + baths + "&dens=" + dens + "&property_type=" + property_type + "&neighbourhood=" + neighbourhood;
+    
+    fetch(predict_url).then(data => {
+        // const outputElement = document.getElementById('output');
+        // outputElement.innerText = data
+        console.log(data);
+    });
+    
+    //d3.json(predict_url).then(function(data) {
+        //console.log(data);
+        // const outputElement = document.getElementById('output');
+        // outputElement.innerText = "Predicted Price: $" + data
+    //});
 }
 
 // call loadModel function

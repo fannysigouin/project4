@@ -67,7 +67,7 @@ def predict_Price():
     property_type = request.args.get("property_type", type=text)
 
 
-    pkl_model = "housingModel.pkl"  
+    pkl_model = "../model/housingModel.pkl"  
     with open(pkl_model, 'rb') as file:  
         housingModel = pickle.load(file)
 
