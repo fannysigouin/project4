@@ -7,6 +7,7 @@ from sqlalchemy import create_engine, text
 import psycopg2
 import pickle
 import pandas as pd
+import lzma
 
 
 #################################################
@@ -63,28 +64,40 @@ def predict_Price():
     beds = request.args.get("beds", type=int)
     baths = request.args.get("baths", type=int)
     dens = request.args.get("dens", type=int)
-    neighbourhood = request.args.get("neighbourhood", type=text)
-    property_type = request.args.get("property_type", type=text)
+    neighbourhood = request.args.get("neighbourhood", type=str)
+    property_type = request.args.get("property_type", type=str)
 
-
-    pkl_model = "../model/housingModel.pkl"  
-    with open(pkl_model, 'rb') as file:  
+    pkl_model = "../model/housingModel_pkl.xz"  
+    with lzma.open(pkl_model, 'rb') as file:
         housingModel = pickle.load(file)
 
+    columns_path = "../model/fit_columns.pkl"
+    with open(columns_path, 'rb') as file:
+        fit_columns = pickle.load(file)
+
+    house_dict = {}
+    for index, element in enumerate(fit_columns):
+            house_dict[element] = 0
+    
     neighbourhood_key = "neighbourhood_" + neighbourhood
     property_type_key = "property_type_" + property_type
 
-    house_dict = {"beds": beds,
-                  "baths": baths,
-                  "dens": dens,
-                  neighbourhood_key: neighbourhood,
-                  property_type_key: property_type}
+    house_dict[neighbourhood_key] = 1
+    house_dict[property_type_key] = 1
+    house_dict["beds"] = beds
+    house_dict["baths"] = baths
+    house_dict["dens"] = dens
     
-    X = pd.DataFrame(house_dict)
+    X = pd.DataFrame(house_dict, index=[0])
 
-    prediction = housingModel.predict(X)
+    try:
+        prediction = housingModel.predict(X)
+        prediction_string = f"${prediction[0]}"
+    except:
+        prediction_string = ["Sorry, Not Enough Data is Available for " + neighbourhood + ". Please choose a different neighbourhood."]
 
-    return prediction
+   
+    return jsonify(prediction_string)
     
 if __name__ == "__main__":
     app.run(debug=False)
