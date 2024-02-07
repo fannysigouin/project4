@@ -12,7 +12,7 @@ import pandas as pd
 #################################################
 # Flask Setup
 #################################################
-app = Flask(__name__, template_folder='html')
+app = Flask(__name__, static_url_path = '/static', static_folder = 'static')
 CORS(app)
 
 #Connect to the database using psycopg2
@@ -31,21 +31,29 @@ def connect_to_database():
 
 #Render in HTML template
 @app.route("/")
-def homepage():
-    return render_template('home.html') 
+def home():
+    return render_template('html/home.html') 
 
 #fetch unique neighbourhoods from DB to fill drop-down
-@app.route("/get_neighbourhoods")
+@app.route("/api/get_neighbourhoods", methods = ['GET'])
 def get_neighbourhoods():
     connection = connect_to_database()
-    query = "SELECT * FROM neighbourhoods;"
-    cursor = connection.cursor()
-    cursor.execute(query)
 
-    # Fetch all rows
-    data = cursor.fetchall()
-
-    return jsonify(data)
+    if connection:
+        try:
+            query = "SELECT DISTINCT neighbourhood FROM toronto_listings;"
+            cursor = connection.cursor()
+            cursor.execute(query)
+            #fetch all of the rows
+            data = cursor.fetchall()
+            #return jsonified data
+            return jsonify(data)
+        except Exception as error:
+            print(f"Error: Unable to fetch from database - {str(error)}")
+        finally:
+            connection.close()
+    
+    return jsonify({'error': 'Unable to connect to DB'})
 
 #generate predictions based on drop-down selections
 @app.route("/predict_Price")
