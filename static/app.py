@@ -67,13 +67,9 @@ def predict_Price():
     property_type = request.args.get("property_type", type=text)
 
 
-    pkl_model = "housingModel.pkl"  
+    pkl_model = "../model/housingModel.pkl"  
     with open(pkl_model, 'rb') as file:  
         housingModel = pickle.load(file)
-
-    pkl_scaler = "housingScaler.pkl"  
-    with open(pkl_scaler, 'rb') as file:  
-        housingScaler = pickle.load(file)
 
     neighbourhood_key = "neighbourhood_" + neighbourhood
     property_type_key = "property_type_" + property_type
@@ -85,10 +81,8 @@ def predict_Price():
                   property_type_key: property_type}
     
     X = pd.DataFrame(house_dict)
-
-    X_scaled = housingScaler.transform(X)
     
-    prediction = housingModel.predict(X_scaled)
+    prediction = housingModel.predict(X)
 
     return prediction
     
