@@ -81,7 +81,7 @@ def predict_Price():
                   property_type_key: property_type}
     
     X = pd.DataFrame(house_dict)
-    
+
     prediction = housingModel.predict(X)
 
     return prediction
