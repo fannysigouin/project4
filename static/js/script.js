@@ -2,26 +2,24 @@
 
 // assign API URL returning the data for neighbourhood dropdowns to a constant
 
-const input_data_url = "http://"
+const nhood_data_url = "http://127.0.0.1:5000/api/get_neighbourhoods";
 
 // console log the data to make sure it populates
-d3.json(input_data_url).then(function(data) {
+d3.json(nhood_data_url).then(function(data) {
     console.log(data);
 })
 
-// initialization function to populate the neighbourhood dropdown
-function init() {
+// promise function to populate the neighbourhood dropdown
+d3.json(nhood_data_url).then(function(data) {
     // select the dropdown element from home.html
-    let nhood_select = d3.select("dropdown-neighbourhood");
-    // append to dropdown
-    d3.json(input_data_url).then(function(data) {
-        let nhoods = data.neighbourhoods;
-        // loop through neigbourhoods and append to dropdown
-        nhoods.forEach((nhood) => {
-            nhood_select.append("option").text(nhood).property("value", nhood);
-        });
-    })
-}
+    let nhood_select = d3.select("#dropdown-neighbourhood");
+    // assign neighourhoods returned from URL to a variable
+    let nhoods = data
+    // loop through neigbourhoods and append to dropdown
+    nhoods.forEach((nhood) => {
+        nhood_select.append("option").text(nhood).property("value", nhood);
+    });
+})
 
 // function to load in the model
 async function loadModel() {
@@ -53,4 +51,3 @@ async function generateOutput() {
 
 // call loadModel function
 loadModel();
-init();
