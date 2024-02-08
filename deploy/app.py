@@ -1,7 +1,6 @@
-from flask import Flask, render_template, jsonify, request
-from flask import Markup
+from flask import Flask, render_template, jsonify, request, Markup
 from flask_cors import CORS
-import requests, psycopg2
+import requests
 import sqlalchemy
 from sqlalchemy import create_engine, text
 import psycopg2
@@ -13,7 +12,11 @@ import lzma
 #################################################
 # Flask Setup
 #################################################
-app = Flask(__name__, static_url_path = '/static', static_folder = 'static')
+app = Flask(__name__,
+    static_url_path = '/static',
+    static_folder = 'static',
+    template_folder='templates'
+)
 CORS(app)
 
 # Connect to the database using psycopg2
@@ -33,7 +36,7 @@ def connect_to_database():
 # Render in HTML template
 @app.route("/")
 def home():
-    return render_template('html/home.html') 
+    return render_template('home.html') 
 
 # Fetch unique neighbourhoods from DB to fill drop-down
 @app.route("/api/get_neighbourhoods", methods = ['GET'])
@@ -98,5 +101,10 @@ def predict_Price():
 
     return jsonify(prediction_string)
     
-if __name__ == "__main__":
-    app.run(debug=False)
+if __name__ == '__main__':
+    app.run(
+        host='0.0.0.0',
+        port=80
+        # , ssl_context='adhoc'
+        # , debug=True
+    )
