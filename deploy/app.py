@@ -30,8 +30,8 @@ host_name_address = 'localhost'
 db_name = 'listings_db'
 
 engine = create_engine(f"postgresql://{owner_username}:{password}@{host_name_address}/{db_name}")
-conn = engine.connect()
-conn.autocommit = True
+# conn = engine.connect()
+# conn.autocommit = True
 
 # Create database if it does not exist already, and add data
 if not database_exists(engine.url):
@@ -43,10 +43,11 @@ if not database_exists(engine.url):
     for table_name in tables:
         # Define variables for primary key and dtypes
         if not table_name == 'toronto_listings':
-            p_key = 'neighbourhood' if table_name == 'neighbourhoods' else table_name
+            p_key = 'index'
+            value_col = 'neighbourhood' if table_name == 'neighbourhoods' else table_name
             dtype_dict = {
-                "index": Integer,
-                p_key: String(100)
+                p_key: Integer,
+                value_col: String(100)
             }
         else:
             p_key = 'mls_id'
@@ -80,14 +81,15 @@ if not database_exists(engine.url):
             dtype=dtype_dict
         )
         # Alter table to set primary key
-        conn.execute(f'ALTER TABLE {p_key} ADD PRIMARY KEY ("index")')
+        with engine.connect() as conn:
+            conn.execute(f'ALTER TABLE {table_name} ADD PRIMARY KEY ({p_key})')
 # Check if the db exists and the connection was successful
 if database_exists(engine.url):
     print('Database connection was successful.')
 else:
     print('Something went wrong.')
 # Close the connection to the PostgreSQL engine
-conn.close()
+# conn.close()
 
 # # Create the inspector and connect it to the engine
 # inspector = inspect(engine)
@@ -102,11 +104,10 @@ conn.close()
 def connect_to_database():
     try:
         conn = psycopg2.connect(
-            host= 'localhost',
+            host= host_name_address,
             user =  owner_username,
             password=  password,
             dbname = db_name,
-            host_name_address=host_name_address,
             port =  5432
         )
         return conn
