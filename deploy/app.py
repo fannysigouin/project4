@@ -1,12 +1,13 @@
 from flask import Flask, render_template, jsonify, request, Markup
 from flask_cors import CORS
 import requests
-import sqlalchemy
-from sqlalchemy import create_engine, text
+from sqlalchemy import create_engine, text, inspect
+from sqlalchemy import Date, String, Float, Integer
 import psycopg2
 import pickle
 import pandas as pd
 import lzma
+from sqlalchemy_utils import database_exists, create_database
 
 
 #################################################
@@ -19,18 +20,98 @@ app = Flask(__name__,
 )
 CORS(app)
 
+#################################################
+# Database Setup
+#################################################
+# Create engine to the database path
+owner_username = 'postgres'
+password = 'postgres'
+host_name_address = 'localhost'
+db_name = 'listings_db'
+
+engine = create_engine(f"postgresql://{owner_username}:{password}@{host_name_address}/{db_name}")
+conn = engine.connect()
+conn.autocommit = True
+
+# Create database if it does not exist already, and add data
+if not database_exists(engine.url):
+    print('Creating database...')
+    create_database(engine.url)
+    # List of table names
+    tables = ['toronto_listings', 'neighbourhoods', 'beds', 'baths', 'dens']
+    # Loop through tables and add them to db
+    for table_name in tables:
+        # Define variables for primary key and dtypes
+        if not table_name == 'toronto_listings':
+            p_key = 'neighbourhood' if table_name == 'neighbourhoods' else table_name
+            dtype_dict = {
+                "index": Integer,
+                p_key: String(100)
+            }
+        else:
+            p_key = 'mls_id'
+            dtype_dict = {
+                p_key: String(100),
+                "property_type": String(100),
+                "address": String(100),
+                "street": String(100),
+                "neighbourhood": String(100),
+                "city": String(100),
+                "price": Integer,
+                "baths": Integer,
+                "beds": Integer,
+                "dens": Integer,
+                "latitude": Float,
+                "longitude": Float,
+                "date_scraped": Date,
+                "url": String(100)
+            }
+        
+        # Read data
+        df = pd.read_csv(f"tbl/{table_name}.csv")
+        print(f'{len(df)} rows read from {table_name}.csv')
+        # Add data to sql database
+        df.to_sql(
+            table_name,
+            engine,
+            if_exists='replace',
+            index=False,
+            chunksize=500,
+            dtype=dtype_dict
+        )
+        # Alter table to set primary key
+        conn.execute(f'ALTER TABLE {p_key} ADD PRIMARY KEY ("index")')
+# Check if the db exists and the connection was successful
+if database_exists(engine.url):
+    print('Database connection was successful.')
+else:
+    print('Something went wrong.')
+# Close the connection to the PostgreSQL engine
+conn.close()
+
+# # Create the inspector and connect it to the engine
+# inspector = inspect(engine)
+# # Using the inspector to get the columns within the 'salaries' table
+# inspected_columns = inspector.get_columns('salaries')
+# # Create list of columns
+# columns = [column['name'] for column in inspected_columns]
+# print('Column names fetched from salaries table.')
+# print(columns)
+
 # Connect to the database using psycopg2
 def connect_to_database():
     try:
-        conn = psycopg2.connect(host= 'localhost',
-        user =  'postgres',
-        password=  'postgres',
-        dbname = "listings_db",
-        port =  5432
-    )
+        conn = psycopg2.connect(
+            host= 'localhost',
+            user =  owner_username,
+            password=  password,
+            dbname = db_name,
+            host_name_address=host_name_address,
+            port =  5432
+        )
         return conn
     except Exception as error:
-        print(f"Error: Unable to connect to the dataBase - {str(error)}")
+        print(f"Error: Unable to connect to the Database - {str(error)}")
         raise ConnectionError(f"Error: Unable to connect to the Database - {str(error)}")
 
 # Render in HTML template

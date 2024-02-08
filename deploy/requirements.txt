@@ -2,5 +2,7 @@ flask==2.2.5
 numpy==1.24.3
 SQLAlchemy==1.4.39
 flask-cors==4.0.0
+sqlalchemy_utils
+psycopg2
 # Flask-SSLify==0.1.5
 # pyopenssl==23.2.0
