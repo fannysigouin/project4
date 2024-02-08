@@ -37,6 +37,9 @@ async function generateOutput() {
 
     const predict_url = "http://127.0.0.1:5000/predict_Price?beds=" + beds + "&baths=" + baths + "&dens=" + dens + "&property_type=" + property_type + "&neighbourhood=" + neighbourhood;
     
+    const outputElement = document.getElementById('output');
+    outputElement.innerText = "Predicting Price. Please wait..."
+
     // fetch(predict_url).then(data => {
     //     const outputElement = document.getElementById('output');
     //     outputElement.innerText = data
@@ -45,7 +48,6 @@ async function generateOutput() {
     
     d3.json(predict_url).then(function(data) {
         console.log(data);
-        const outputElement = document.getElementById('output');
         outputElement.innerText = data
     });
 }
