@@ -1,11 +1,12 @@
 from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS
-from sqlalchemy import create_engine, Date, String, Float, Integer
+from sqlalchemy import create_engine, Date, String, Float, Integer, text
 from sqlalchemy_utils import database_exists, create_database
 import psycopg2
 from joblib import load
 import pandas as pd
 import lzma
+import os
 
 #################################################
 # Flask Setup
@@ -22,11 +23,11 @@ CORS(app)
 # Database Setup
 #################################################
 # Create engine to the database path
-owner_username = 'postgres'
-password = 'postgres'
+owner_username = os.environ.get('POSTGRES_USER')
+password = os.environ.get('POSTGRES_PASSWORD')
 host_name_address = 'localhost'
 db_name = 'listings_db'
-engine = create_engine(f"postgresql://{owner_username}:{password}@{host_name_address}/{db_name}")
+engine = create_engine(f"postgresql://{owner_username}:{password}@{host_name_address}:5432/{db_name}")
 # Create database if it does not exist already, and add data
 if not database_exists(engine.url):
     print('Creating database...')
@@ -76,7 +77,7 @@ if not database_exists(engine.url):
         )
         # Alter table to set primary key
         with engine.connect() as conn:
-            conn.execute(f'ALTER TABLE {table_name} ADD PRIMARY KEY ({p_key})')
+            conn.execute(text(f'ALTER TABLE {table_name} ADD PRIMARY KEY ({p_key})'))
     # Log successful database creation
     print('Database creation was successful.')
 # Check if the db exists
