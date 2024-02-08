@@ -65,7 +65,6 @@ if not database_exists(engine.url):
         
         # Read data
         df = pd.read_csv(f"resources/{table_name}.csv")
-        print(f'{len(df)} rows read from {table_name}.csv')
         # Add data to sql database
         df.to_sql(
             table_name,
