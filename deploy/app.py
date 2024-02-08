@@ -1,13 +1,11 @@
 from flask import Flask, render_template, jsonify, request, Markup
 from flask_cors import CORS
-import requests
-from sqlalchemy import create_engine, text, inspect
-from sqlalchemy import Date, String, Float, Integer
+from sqlalchemy import create_engine, Date, String, Float, Integer
+from sqlalchemy_utils import database_exists, create_database
 import psycopg2
 import pickle
 import pandas as pd
 import lzma
-from sqlalchemy_utils import database_exists, create_database
 
 #################################################
 # Flask Setup
@@ -101,6 +99,9 @@ def connect_to_database():
         print(f"Error: Unable to connect to the Database - {str(error)}")
         raise ConnectionError(f"Error: Unable to connect to the Database - {str(error)}")
 
+#################################################
+# Routes
+#################################################
 # Render HTML template
 @app.route("/")
 def home():
@@ -133,7 +134,7 @@ def get_coordinates(neighbourhood):
 
     if connection:
         try:
-            query = "SELECT avg(latitude) as latitude, avg(longitude) as longitude FROM toronto_listings where neighbourhood = '"+neighbourhood+"';"
+            query = "SELECT avg(latitude) as latitude, avg(longitude) as longitude FROM toronto_listings where neighbourhood = '" + neighbourhood + "';"
             cursor = connection.cursor()
             cursor.execute(query)
             #fetch all of the rows
@@ -198,5 +199,10 @@ def predict_Price():
 
     return jsonify(prediction_string)
     
-if __name__ == "__main__":
-    app.run(debug=False)
+if __name__ == '__main__':
+    app.run(
+        host='0.0.0.0',
+        port=80
+        # , ssl_context='adhoc'
+        # , debug=True
+    )
