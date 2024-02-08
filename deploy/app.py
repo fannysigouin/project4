@@ -9,7 +9,6 @@ import pandas as pd
 import lzma
 from sqlalchemy_utils import database_exists, create_database
 
-
 #################################################
 # Flask Setup
 #################################################
@@ -79,8 +78,9 @@ if not database_exists(engine.url):
         # Alter table to set primary key
         with engine.connect() as conn:
             conn.execute(f'ALTER TABLE {table_name} ADD PRIMARY KEY ({p_key})')
-    print('Database created.')
-# Check if the db exists and the connection was successful
+    # Log successful database creation
+    print('Database creation was successful.')
+# Check if the db exists
 if database_exists(engine.url):
     print('Database connection was successful.')
 else:

@@ -2,7 +2,7 @@
 
 // assign API URL returning the data for neighbourhood dropdowns to a constant
 
-const nhood_data_url = "http://127.0.0.1:5000/api/get_neighbourhoods";
+const nhood_data_url = "http://127.0.0.1:80/api/get_neighbourhoods";
 
 // console log the data to make sure it populates
 // d3.json(nhood_data_url).then(function(data) {
@@ -35,7 +35,7 @@ async function generateOutput() {
     const dens = document.getElementById('dropdown-dens').value;
     const property_type = document.getElementById('dropdown-property-type').value;
 
-    const predict_url = "http://127.0.0.1:5000/predict_Price?beds=" + beds + "&baths=" + baths + "&dens=" + dens + "&property_type=" + property_type + "&neighbourhood=" + neighbourhood;
+    const predict_url = "http://127.0.0.1:80/predict_Price?beds=" + beds + "&baths=" + baths + "&dens=" + dens + "&property_type=" + property_type + "&neighbourhood=" + neighbourhood;
     
     // fetch(predict_url).then(data => {
     //     const outputElement = document.getElementById('output');
