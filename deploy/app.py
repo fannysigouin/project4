@@ -16,7 +16,7 @@ import lzma
 app = Flask(__name__, static_url_path = '/static', static_folder = 'static')
 CORS(app)
 
-#Connect to the database using psycopg2
+# Connect to the database using psycopg2
 def connect_to_database():
     try:
         conn = psycopg2.connect(host= 'localhost',
@@ -30,12 +30,12 @@ def connect_to_database():
         print(f"Error: Unable to connect to the dataBase - {str(error)}")
         raise ConnectionError(f"Error: Unable to connect to the Database - {str(error)}")
 
-#Render in HTML template
+# Render in HTML template
 @app.route("/")
 def home():
     return render_template('html/home.html') 
 
-#fetch unique neighbourhoods from DB to fill drop-down
+# Fetch unique neighbourhoods from DB to fill drop-down
 @app.route("/api/get_neighbourhoods", methods = ['GET'])
 def get_neighbourhoods():
     connection = connect_to_database()
@@ -56,7 +56,7 @@ def get_neighbourhoods():
     
     return jsonify({'error': 'Unable to connect to DB'})
 
-#generate predictions based on drop-down selections
+# Generate predictions based on drop-down selections
 @app.route("/predict_Price")
 def predict_Price():
 
@@ -96,7 +96,6 @@ def predict_Price():
     except:
         prediction_string = ["Sorry, Not Enough Data is Available for " + neighbourhood + ". Please choose a different neighbourhood."]
 
-   
     return jsonify(prediction_string)
     
 if __name__ == "__main__":
