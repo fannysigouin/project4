@@ -1,18 +1,18 @@
-from flask import Flask, render_template, jsonify, request, Markup
+from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS
-import requests
-from sqlalchemy import create_engine, text, inspect
-from sqlalchemy import Date, String, Float, Integer
+from sqlalchemy import create_engine, Date, String, Float, Integer, text
+from sqlalchemy_utils import database_exists, create_database
 import psycopg2
-import pickle
+from joblib import load
 import pandas as pd
 import lzma
-from sqlalchemy_utils import database_exists, create_database
+import os
 
 #################################################
 # Flask Setup
 #################################################
-app = Flask(__name__,
+app = Flask(
+    __name__,
     static_url_path = '/static',
     static_folder = 'static',
     template_folder='templates'
@@ -23,11 +23,11 @@ CORS(app)
 # Database Setup
 #################################################
 # Create engine to the database path
-owner_username = 'postgres'
-password = 'postgres'
+owner_username = os.environ.get('POSTGRES_USER')
+password = os.environ.get('POSTGRES_PASSWORD')
 host_name_address = 'localhost'
 db_name = 'listings_db'
-engine = create_engine(f"postgresql://{owner_username}:{password}@{host_name_address}/{db_name}")
+engine = create_engine(f"postgresql://{owner_username}:{password}@{host_name_address}:5432/{db_name}")
 # Create database if it does not exist already, and add data
 if not database_exists(engine.url):
     print('Creating database...')
@@ -64,8 +64,7 @@ if not database_exists(engine.url):
             }
         
         # Read data
-        df = pd.read_csv(f"tbl/{table_name}.csv")
-        print(f'{len(df)} rows read from {table_name}.csv')
+        df = pd.read_csv(f"resources/{table_name}.csv")
         # Add data to sql database
         df.to_sql(
             table_name,
@@ -77,7 +76,7 @@ if not database_exists(engine.url):
         )
         # Alter table to set primary key
         with engine.connect() as conn:
-            conn.execute(f'ALTER TABLE {table_name} ADD PRIMARY KEY ({p_key})')
+            conn.execute(text(f'ALTER TABLE {table_name} ADD PRIMARY KEY ({p_key})'))
     # Log successful database creation
     print('Database creation was successful.')
 # Check if the db exists
@@ -101,6 +100,9 @@ def connect_to_database():
         print(f"Error: Unable to connect to the Database - {str(error)}")
         raise ConnectionError(f"Error: Unable to connect to the Database - {str(error)}")
 
+#################################################
+# Routes
+#################################################
 # Render HTML template
 @app.route("/")
 def home():
@@ -133,7 +135,7 @@ def get_coordinates(neighbourhood):
 
     if connection:
         try:
-            query = "SELECT avg(latitude) as latitude, avg(longitude) as longitude FROM toronto_listings where neighbourhood = '"+neighbourhood+"';"
+            query = "SELECT avg(latitude) as latitude, avg(longitude) as longitude FROM toronto_listings where neighbourhood = '" + neighbourhood + "';"
             cursor = connection.cursor()
             cursor.execute(query)
             #fetch all of the rows
@@ -151,7 +153,7 @@ def get_coordinates(neighbourhood):
 @app.route("/predict_Price")
 def predict_Price():
 
-    #Get Arguments
+    # Get Arguments
     beds = request.args.get("beds", type=int)
     baths = request.args.get("baths", type=int)
     dens = request.args.get("dens", type=int)
@@ -165,13 +167,12 @@ def predict_Price():
     rel_latitude = latitude - 43
     rel_longitude = longitude + 79
 
-    pkl_model = "../model/housingModel_pkl.xz"  
-    with lzma.open(pkl_model, 'rb') as file:
-        housingModel = pickle.load(file)
-
-    columns_path = "../model/fit_columns.pkl"
+    model_path = "resources/housingModel_jl.xz"  
+    with lzma.open(model_path, 'rb') as file:
+        housingModel = load(file)
+    columns_path = "resources/fit_columns.joblib"
     with open(columns_path, 'rb') as file:
-        fit_columns = pickle.load(file)
+        fit_columns = load(file)
 
     house_dict = {}
     for index, element in enumerate(fit_columns):
@@ -198,5 +199,10 @@ def predict_Price():
 
     return jsonify(prediction_string)
     
-if __name__ == "__main__":
-    app.run(debug=False)
+if __name__ == '__main__':
+    app.run(
+        host='0.0.0.0',
+        port=80
+        # , ssl_context='adhoc'
+        # , debug=True
+    )
