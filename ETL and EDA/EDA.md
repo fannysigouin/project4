@@ -30,14 +30,14 @@ The dataset consists of real estate listings in Toronto obtained from Listing.ca
 
 - Listings with 0 baths and more than 5 baths were removed.
 - Outliers were removed based on the Interquartile Range (IQR) for each property type.
-- Latitude information is available for all listings, and longitude information for most, after cleaning.
+- Latitude and longitude information is available for all listings, after cleaning.
 
 ## Modeling and Insights
 
 - A Random Forest Regressor model was trained to predict property prices based on features such as baths, beds, dens, relative latitude, and relative longitude.
 - Cross-validation was employed to evaluate the model's performance, providing Mean Absolute Error (MAE) scores for each fold.
-- The model was applied to the test set, yielding a Test MAE of 107,851.18.
-- Neighbourhood-wise analysis revealed varying ratios of prediction errors, with Corso Italia-Davenport having the highest margin of error (24.41%). This was attributed to a small number of listings in that neighbourhood, impacting data robustness.
+- The model was applied to the test set, yielding a Test MAE of 76,558.39.
+- Neighbourhood-wise analysis revealed varying ratios of prediction errors, with New Toronto having the highest margin of error (13.49%). This was attributed to a small number of listings in that neighbourhood, impacting data robustness.
 
 ## Visualizations
 

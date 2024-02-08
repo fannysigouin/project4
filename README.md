@@ -32,7 +32,19 @@ A Random Forest Regressor model has been implemented to predict property prices 
 
 ## Deployment
 
-Update once complete
+The machine learning model is deployed using a cloud-based infrastructure, specifically on Amazon Web Services (AWS). The deployment process involves the following steps:
+
+1. **Model Serialization:** The trained Random Forest Regressor model is serialized using the `joblib` library. 
+
+2. **Containerization:** The serialized model is encapsulated within a Docker container, with dependencies specified in the `requirements.txt` file to ensure consistent and reproducible deployment across different environments.
+
+3. **Flask API Endpoint:** A Flask web application is set up to serve as an API endpoint for the machine learning model. The Flask application uses Flask and Flask-CORS to handle HTTP requests and responses, providing a seamless interaction with the deployed model.
+
+4. **PostgreSQL Database Interaction:** SQLAlchemy is utilized to interact with the PostgreSQL database named `listings_db`. The database stores relevant information about Toronto real estate listings.
+
+5. **AWS EC2 Instance:** The Docker container, along with the Flask application, is deployed on an AWS EC2 instance.
+
+6. **API Usage:** Users can make HTTP POST requests to the Flask API endpoint, providing property features as input in the request body. The API will respond with predicted property prices.
 
 ## Contributors
 
@@ -65,6 +77,8 @@ Update once complete
 ## Deployment
 
 - [AWS Documentation](https://docs.aws.amazon.com/) - AWS documentation for setting up instances and deploying applications.
+- [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/) - Flask documentation for setting up API endpoint. 
+- [Docker Documentation](https://docs.docker.com/) - Docker documentation for containerization in deployment. 
 
 ## Web Development 
 
