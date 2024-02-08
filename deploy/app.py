@@ -10,7 +10,8 @@ import lzma
 #################################################
 # Flask Setup
 #################################################
-app = Flask(__name__,
+app = Flask(
+    __name__,
     static_url_path = '/static',
     static_folder = 'static',
     template_folder='templates'
@@ -166,11 +167,11 @@ def predict_Price():
     rel_latitude = latitude - 43
     rel_longitude = longitude + 79
 
-    pkl_model = "../model/housingModel_pkl.xz"  
+    pkl_model = "resources/housingModel_pkl.xz"  
     with lzma.open(pkl_model, 'rb') as file:
         housingModel = pickle.load(file)
 
-    columns_path = "../model/fit_columns.pkl"
+    columns_path = "resources/fit_columns.pkl"
     with open(columns_path, 'rb') as file:
         fit_columns = pickle.load(file)
 
