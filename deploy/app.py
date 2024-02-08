@@ -28,11 +28,7 @@ owner_username = 'postgres'
 password = 'postgres'
 host_name_address = 'localhost'
 db_name = 'listings_db'
-
 engine = create_engine(f"postgresql://{owner_username}:{password}@{host_name_address}/{db_name}")
-# conn = engine.connect()
-# conn.autocommit = True
-
 # Create database if it does not exist already, and add data
 if not database_exists(engine.url):
     print('Creating database...')
@@ -83,22 +79,12 @@ if not database_exists(engine.url):
         # Alter table to set primary key
         with engine.connect() as conn:
             conn.execute(f'ALTER TABLE {table_name} ADD PRIMARY KEY ({p_key})')
+    print('Database created.')
 # Check if the db exists and the connection was successful
 if database_exists(engine.url):
     print('Database connection was successful.')
 else:
     print('Something went wrong.')
-# Close the connection to the PostgreSQL engine
-# conn.close()
-
-# # Create the inspector and connect it to the engine
-# inspector = inspect(engine)
-# # Using the inspector to get the columns within the 'salaries' table
-# inspected_columns = inspector.get_columns('salaries')
-# # Create list of columns
-# columns = [column['name'] for column in inspected_columns]
-# print('Column names fetched from salaries table.')
-# print(columns)
 
 # Connect to the database using psycopg2
 def connect_to_database():
