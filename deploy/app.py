@@ -1,41 +1,112 @@
-from flask import Flask, render_template, jsonify, request
-from flask import Markup
+from flask import Flask, render_template, jsonify, request, Markup
 from flask_cors import CORS
-import requests, psycopg2
-import sqlalchemy
-from sqlalchemy import create_engine, text
+import requests
+from sqlalchemy import create_engine, text, inspect
+from sqlalchemy import Date, String, Float, Integer
 import psycopg2
 import pickle
 import pandas as pd
 import lzma
-
+from sqlalchemy_utils import database_exists, create_database
 
 #################################################
 # Flask Setup
 #################################################
-app = Flask(__name__, static_url_path = '/static', static_folder = 'static')
+app = Flask(__name__,
+    static_url_path = '/static',
+    static_folder = 'static',
+    template_folder='templates'
+)
 CORS(app)
 
-#Connect to the database using psycopg2
+#################################################
+# Database Setup
+#################################################
+# Create engine to the database path
+owner_username = 'postgres'
+password = 'postgres'
+host_name_address = 'localhost'
+db_name = 'listings_db'
+engine = create_engine(f"postgresql://{owner_username}:{password}@{host_name_address}/{db_name}")
+# Create database if it does not exist already, and add data
+if not database_exists(engine.url):
+    print('Creating database...')
+    create_database(engine.url)
+    # List of table names
+    tables = ['toronto_listings', 'neighbourhoods', 'beds', 'baths', 'dens']
+    # Loop through tables and add them to db
+    for table_name in tables:
+        # Define variables for primary key and dtypes
+        if not table_name == 'toronto_listings':
+            p_key = 'index'
+            value_col = 'neighbourhood' if table_name == 'neighbourhoods' else table_name
+            dtype_dict = {
+                p_key: Integer,
+                value_col: String(100)
+            }
+        else:
+            p_key = 'mls_id'
+            dtype_dict = {
+                p_key: String(100),
+                "property_type": String(100),
+                "address": String(100),
+                "street": String(100),
+                "neighbourhood": String(100),
+                "city": String(100),
+                "price": Integer,
+                "baths": Integer,
+                "beds": Integer,
+                "dens": Integer,
+                "latitude": Float,
+                "longitude": Float,
+                "date_scraped": Date,
+                "url": String(100)
+            }
+        
+        # Read data
+        df = pd.read_csv(f"tbl/{table_name}.csv")
+        print(f'{len(df)} rows read from {table_name}.csv')
+        # Add data to sql database
+        df.to_sql(
+            table_name,
+            engine,
+            if_exists='replace',
+            index=False,
+            chunksize=500,
+            dtype=dtype_dict
+        )
+        # Alter table to set primary key
+        with engine.connect() as conn:
+            conn.execute(f'ALTER TABLE {table_name} ADD PRIMARY KEY ({p_key})')
+    # Log successful database creation
+    print('Database creation was successful.')
+# Check if the db exists
+if database_exists(engine.url):
+    print('Database connection was successful.')
+else:
+    print('Something went wrong.')
+
+# Connect to the database using psycopg2
 def connect_to_database():
     try:
-        conn = psycopg2.connect(host= 'localhost',
-        user =  'postgres',
-        password=  'postgres',
-        dbname = "listings_db",
-        port =  5432
-    )
+        conn = psycopg2.connect(
+            host= host_name_address,
+            user =  owner_username,
+            password=  password,
+            dbname = db_name,
+            port =  5432
+        )
         return conn
     except Exception as error:
-        print(f"Error: Unable to connect to the dataBase - {str(error)}")
+        print(f"Error: Unable to connect to the Database - {str(error)}")
         raise ConnectionError(f"Error: Unable to connect to the Database - {str(error)}")
 
-#Render in HTML template
+# Render HTML template
 @app.route("/")
 def home():
-    return render_template('html/home.html') 
+    return render_template('home.html') 
 
-#fetch unique neighbourhoods from DB to fill drop-down
+# Fetch unique neighbourhoods from DB to fill drop-down
 @app.route("/api/get_neighbourhoods", methods = ['GET'])
 def get_neighbourhoods():
     connection = connect_to_database()
@@ -76,7 +147,7 @@ def get_coordinates(neighbourhood):
     
     return jsonify({'error': 'Unable to connect to DB'})
 
-#generate predictions based on drop-down selections
+# Generate predictions based on drop-down selections
 @app.route("/predict_Price")
 def predict_Price():
 
@@ -125,7 +196,6 @@ def predict_Price():
     except:
         prediction_string = ["Sorry, Not Enough Data is Available for " + neighbourhood + ". Please choose a different neighbourhood."]
 
-   
     return jsonify(prediction_string)
     
 if __name__ == "__main__":
