@@ -3,6 +3,7 @@ COPY ./app.py /deploy/
 COPY ./requirements.txt /deploy/
 COPY ./templates /deploy/templates
 COPY ./static /deploy/static
+COPY ./resources /deploy/resources
 WORKDIR /deploy/
 RUN pip install -r requirements.txt
 EXPOSE 80
