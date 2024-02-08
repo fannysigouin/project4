@@ -3,7 +3,7 @@ from flask_cors import CORS
 from sqlalchemy import create_engine, Date, String, Float, Integer
 from sqlalchemy_utils import database_exists, create_database
 import psycopg2
-import pickle
+from joblib import load
 import pandas as pd
 import lzma
 
@@ -153,7 +153,7 @@ def get_coordinates(neighbourhood):
 @app.route("/predict_Price")
 def predict_Price():
 
-    #Get Arguments
+    # Get Arguments
     beds = request.args.get("beds", type=int)
     baths = request.args.get("baths", type=int)
     dens = request.args.get("dens", type=int)
@@ -167,13 +167,12 @@ def predict_Price():
     rel_latitude = latitude - 43
     rel_longitude = longitude + 79
 
-    pkl_model = "resources/housingModel_pkl.xz"  
-    with lzma.open(pkl_model, 'rb') as file:
-        housingModel = pickle.load(file)
-
-    columns_path = "resources/fit_columns.pkl"
+    model_path = "resources/housingModel_jl.xz"  
+    with lzma.open(model_path, 'rb') as file:
+        housingModel = load(file)
+    columns_path = "resources/fit_columns.joblib"
     with open(columns_path, 'rb') as file:
-        fit_columns = pickle.load(file)
+        fit_columns = load(file)
 
     house_dict = {}
     for index, element in enumerate(fit_columns):
