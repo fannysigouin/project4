@@ -101,7 +101,7 @@ def connect_to_database():
         print(f"Error: Unable to connect to the Database - {str(error)}")
         raise ConnectionError(f"Error: Unable to connect to the Database - {str(error)}")
 
-# Render in HTML template
+# Render HTML template
 @app.route("/")
 def home():
     return render_template('home.html') 
@@ -127,6 +127,26 @@ def get_neighbourhoods():
     
     return jsonify({'error': 'Unable to connect to DB'})
 
+@app.route("/api/get_coordinates", methods = ['GET'])
+def get_coordinates(neighbourhood):
+    connection = connect_to_database()
+
+    if connection:
+        try:
+            query = "SELECT avg(latitude) as latitude, avg(longitude) as longitude FROM toronto_listings where neighbourhood = '"+neighbourhood+"';"
+            cursor = connection.cursor()
+            cursor.execute(query)
+            #fetch all of the rows
+            data = cursor.fetchall()
+            #return jsonified data  
+            return data
+        except Exception as error:
+            print(f"Error: Unable to fetch from database - {str(error)}")
+        finally:
+            connection.close()
+    
+    return jsonify({'error': 'Unable to connect to DB'})
+
 # Generate predictions based on drop-down selections
 @app.route("/predict_Price")
 def predict_Price():
@@ -137,6 +157,13 @@ def predict_Price():
     dens = request.args.get("dens", type=int)
     neighbourhood = request.args.get("neighbourhood", type=str)
     property_type = request.args.get("property_type", type=str)
+
+    coordinates = get_coordinates(neighbourhood)
+
+    (latitude, longitude) = coordinates[0]
+
+    rel_latitude = latitude - 43
+    rel_longitude = longitude + 79
 
     pkl_model = "../model/housingModel_pkl.xz"  
     with lzma.open(pkl_model, 'rb') as file:
@@ -158,21 +185,18 @@ def predict_Price():
     house_dict["beds"] = beds
     house_dict["baths"] = baths
     house_dict["dens"] = dens
+    house_dict["rel_latitude"] = rel_latitude
+    house_dict["rel_longitude"] = rel_longitude
     
     X = pd.DataFrame(house_dict, index=[0])
 
     try:
         prediction = housingModel.predict(X)
-        prediction_string = f"${prediction[0]}"
+        prediction_string = f'${"{:,.2f}".format(prediction[0])}'
     except:
         prediction_string = ["Sorry, Not Enough Data is Available for " + neighbourhood + ". Please choose a different neighbourhood."]
 
     return jsonify(prediction_string)
     
-if __name__ == '__main__':
-    app.run(
-        host='0.0.0.0',
-        port=80
-        # , ssl_context='adhoc'
-        # , debug=True
-    )
+if __name__ == "__main__":
+    app.run(debug=False)
