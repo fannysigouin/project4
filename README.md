@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves the collection, cleaning, and analysis of Toronto real estate listings data. The goal is to extract valuable insights from the data and create a machine learning model to categorize property prices.
+This project involves the collection, cleaning, and analysis of Toronto real estate listings data. The goal is to extract valuable insights from the data and create a machine learning model to predict property prices.
 
 ## Table of Contents
 
