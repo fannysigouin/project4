@@ -6,6 +6,7 @@ psycopg2-binary==2.9.9
 joblib==1.2.0
 pandas==2.1.4
 scikit-learn==1.3.0
+gunicorn==21.2.0
 ##
 # For https:
 # Flask-SSLify==0.1.5

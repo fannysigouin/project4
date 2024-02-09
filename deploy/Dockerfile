@@ -17,5 +17,5 @@ RUN pip install -r requirements.txt
 EXPOSE 80
 USER postgres
 ENTRYPOINT service postgresql start &&\
-psql --command "CREATE USER docker WITH SUPERUSER PASSWORD 'postgres';" &&\
-python app.py
+    psql --command "CREATE USER docker WITH SUPERUSER PASSWORD 'postgres';" &&\
+    gunicorn --workers 4 --bind 0.0.0.0:80 app:app 
