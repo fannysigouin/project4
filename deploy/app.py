@@ -115,7 +115,11 @@ def get_neighbourhoods():
 
     if connection:
         try:
-            query = "SELECT DISTINCT neighbourhood FROM toronto_listings;"
+            query = '''
+            SELECT DISTINCT neighbourhood
+            FROM toronto_listings
+            ORDER BY neighbourhood ASC;
+            '''
             cursor = connection.cursor()
             cursor.execute(query)
             #fetch all of the rows
