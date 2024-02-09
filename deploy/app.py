@@ -139,7 +139,8 @@ def get_coordinates(neighbourhood):
 
     if connection:
         try:
-            query = "SELECT avg(latitude) as latitude, avg(longitude) as longitude FROM toronto_listings where neighbourhood = '" + neighbourhood + "';"
+            neighbourhood_q = neighbourhood.replace("'", "''")
+            query = "SELECT avg(latitude) as latitude, avg(longitude) as longitude FROM toronto_listings where neighbourhood = '" + neighbourhood_q + "';"
             cursor = connection.cursor()
             cursor.execute(query)
             #fetch all of the rows
