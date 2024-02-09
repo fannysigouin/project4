@@ -1,4 +1,4 @@
-# Toronto Real Estate Listings Project
+# Group 1 - Toronto Real Estate Listings Project 
 
 ## Overview
 
@@ -45,6 +45,8 @@ The machine learning model is deployed using a cloud-based infrastructure, speci
 5. **AWS EC2 Instance:** The Docker container, along with the Flask application, is deployed on an AWS EC2 instance.
 
 6. **API Usage:** Users can make HTTP POST requests to the Flask API endpoint, providing property features as input in the request body. The API will respond with predicted property prices.
+
+7. **URL:** [Toronto Real Estate Price Predictor](http://ec2-3-12-123-12.us-east-2.compute.amazonaws.com/) 
 
 ## Contributors
 
