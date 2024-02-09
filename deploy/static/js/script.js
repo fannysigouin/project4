@@ -1,13 +1,32 @@
 // script to run model predictions based on user input and produce price prediction
+// button and dropdown objects
+const sumbit_button = document.getElementById("submit-button"),
+    dropdown_neighbourhood = document.getElementById('dropdown-neighbourhood'),
+    dropdown_beds = document.getElementById('dropdown-beds'),
+    dropdown_baths = document.getElementById('dropdown-baths'),
+    dropdown_dens = document.getElementById('dropdown-dens'),
+    dropdown_property_type = document.getElementById('dropdown-property-type');
+// disable button element
+sumbit_button.disabled = true;
+
+dropdown_neighbourhood.addEventListener("change", stateHandle);
+dropdown_beds.addEventListener("change", stateHandle);
+dropdown_baths.addEventListener("change", stateHandle);
+dropdown_dens.addEventListener("change", stateHandle);
+dropdown_property_type.addEventListener("change", stateHandle);
+
+
+function stateHandle() {
+    if (dropdown_neighbourhood.value === "" || dropdown_baths.value === "" || dropdown_dens.value === "" || dropdown_property_type.value === "" || dropdown_beds.value === "") {
+        sumbit_button.disabled = true; //button remains disabled
+    } else {
+        sumbit_button.disabled = false; //button is enabled
+    }
+}
+
 
 // assign API URL returning the data for neighbourhood dropdowns to a constant
-
 const nhood_data_url = "/api/get_neighbourhoods";
-
-// console log the data to make sure it populates
-// d3.json(nhood_data_url).then(function(data) {
-//     console.log(data);
-// })
 
 // promise function to populate the neighbourhood dropdown
 d3.json(nhood_data_url).then(function(data) {
@@ -21,36 +40,21 @@ d3.json(nhood_data_url).then(function(data) {
     });
 })
 
-// function to load in the model
-async function loadModel() {
-    const model = "insert_model_flask_route_here"
-    return model;
-}
-
 // function to predict output based on user input
 async function generateOutput() {
-    const neighbourhood = document.getElementById('dropdown-neighbourhood').value;
-    const beds = document.getElementById('dropdown-beds').value;
-    const baths = document.getElementById('dropdown-baths').value;
-    const dens = document.getElementById('dropdown-dens').value;
-    const property_type = document.getElementById('dropdown-property-type').value;
+    const neighbourhood = dropdown_neighbourhood.value;
+    const beds = dropdown_beds.value;
+    const baths = dropdown_baths.value;
+    const dens = dropdown_baths.value;
+    const property_type = dropdown_property_type.value;
 
     const predict_url = "/predict_Price?beds=" + beds + "&baths=" + baths + "&dens=" + dens + "&property_type=" + property_type + "&neighbourhood=" + neighbourhood;
     
     const outputElement = document.getElementById('output');
-    outputElement.innerText = "Predicting Price. Please wait..."
-
-    // fetch(predict_url).then(data => {
-    //     const outputElement = document.getElementById('output');
-    //     outputElement.innerText = data
-    //     console.log(data);
-    // });
+    outputElement.innerHTML = '<span class="spinner-border spinner-border-sm text-primary"></span> Predicting Price. Please wait...'
     
     d3.json(predict_url).then(function(data) {
         console.log(data);
         outputElement.innerText = data
     });
 }
-
-// call loadModel function
-loadModel();
