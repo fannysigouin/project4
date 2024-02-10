@@ -42,6 +42,11 @@
             text-decoration: none;
         }
 
+        .name {
+            color:#fff;
+            text-decoration: none;
+        }
+
         /* Style for side navigation (from https://www.w3schools.com/howto/howto_js_sidenav.asp) */
         .sidenav {
             height: 100%;
@@ -88,8 +93,8 @@
     <div class="container-fluid p-5 bg-primary text-white text-center shadow-sm">
         <div id="sideNav" class="sidenav">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="{{ url_for('about') }}">About Us</a>
-            <a href="{{ url_for('home') }}">Price Predictor</a>
+            <a href="about.html">About Us</a>
+            <a href="home.html">Price Predictor</a>
         </div>
         <span style="font-size:30px;cursor:pointer;float:left" onclick="openNav()">&#9776;</span>
         <h1>About Us</h1>
@@ -101,19 +106,29 @@
     </div>
     <div class="person-container">
         <div class="person-box">
-            <h4 class="lead">Fanny Sigouin</h4>
+            <h4 class="name">Fanny Sigouin</h4>
             <a href="https://www.linkedin.com/in/fannysigouin/" class="link" target="_blank">LinkedIn</a>  
         </div>
         <div class="person-box">
-            <h4 class="lead">Jorge Nardy</h4> 
-            <a href="https://www.linkedin.com/in/fannysigouin/" class="link" target="_blank">LinkedIn</a>   
+            <h4 class="name">Jorge Nardy</h4> 
+            <a href="https://www.linkedin.com/in/jorge-nardy/" class="link" target="_blank">LinkedIn</a>   
         </div>
         <div class="person-box">
-            <h4 class="lead">Kamal Farran</h4> 
-            <a href="https://www.linkedin.com/in/fannysigouin/" class="link" target="_blank">LinkedIn</a>   
+            <h4 class="name">Kamal Farran</h4> 
+            <a href="https://www.linkedin.com/in/kamal-farran/" class="link" target="_blank">LinkedIn</a>   
         </div>
         <div class="person-box">
-            <h4 class="lead">Tania Barrera</h4> 
-            <a href="https://www.linkedin.com/in/fannysigouin/" class="link" target="_blank">LinkedIn</a>   
+            <h4 class="name">Tania Barrera</h4> 
+            <a href="https://www.linkedin.com/in/tania-sofia-barrera/" class="link" target="_blank">LinkedIn</a>   
         </div>
+    <script>
+        function openNav() {
+            document.getElementById("sideNav").style.width = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("sideNav").style.width = "0";
+        }
+    </script>
 </body>
+</html>
