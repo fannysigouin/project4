@@ -89,6 +89,7 @@ The machine learning model is deployed using a cloud-based infrastructure, speci
 ## General
 
 - [SQLAlchemy Documentation](https://docs.sqlalchemy.org/) - Reference for using SQLAlchemy for database interactions.
+- [Side Navigation](https://www.w3schools.com/howto/howto_js_sidenav.asp) - Code used to create the side navigation.
 
 ## Python Libraries
 
