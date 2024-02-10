@@ -103,10 +103,15 @@ def connect_to_database():
 #################################################
 # Routes
 #################################################
-# Render HTML template
+# Render HTML template for home page
 @app.route("/")
 def home():
     return render_template('home.html') 
+
+# Render HTML template for about us page
+@app.route("/about")
+def about():
+    return render_template('about.html') 
 
 # Fetch unique neighbourhoods from DB to fill drop-down
 @app.route("/api/get_neighbourhoods", methods = ['GET'])

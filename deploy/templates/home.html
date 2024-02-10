@@ -80,18 +80,18 @@
 
 <body>
     <div class="container-fluid p-5 bg-primary text-white text-center shadow-sm">
+        <div id="sideNav" class="sidenav">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a href="#">About Us</a>
+            <a href="#">Price Predictor</a>
+        </div>
+        <span style="font-size:30px;cursor:pointer;float:left" onclick="openNav()">&#9776;</span>
         <h1>Toronto Real Estate Price Predictor</h1>
         <p class="lead">
             This project involves the collection, cleaning, and analysis of Toronto real estate listings data.<br/> 
             The goal is to extract valuable insights from the data and create a machine learning model to predict property prices.
         </p>
     </div>
-    <div id="sideNav" class="sidenav">
-        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-        <a href="#">About Us</a>
-        <a href="#">Price Predictor</a>
-    </div>
-    <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
     <div class="container p-5">
         <div class="row">
             <div class="col-sm-12">
