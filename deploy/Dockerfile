@@ -20,4 +20,4 @@ USER postgres
 ENTRYPOINT service postgresql start &&\
     psql --command "CREATE USER docker WITH SUPERUSER PASSWORD 'postgres';" &&\
     python setup_db.py &&\
-    gunicorn --workers 4 --bind 0.0.0.0:80 app:app 
+    gunicorn --workers 4 --bind 0.0.0.0:80 app:app --daemon
