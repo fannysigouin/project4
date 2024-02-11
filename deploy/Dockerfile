@@ -8,6 +8,7 @@ ENV POSTGRES_USER=docker
 # Install system dependencies
 RUN apt-get update && apt-get install -y postgresql postgresql-contrib
 COPY ./app.py /deploy/
+COPY ./setup_db.py /deploy/
 COPY ./requirements.txt /deploy/
 COPY ./templates /deploy/templates
 COPY ./static /deploy/static
@@ -18,4 +19,5 @@ EXPOSE 80
 USER postgres
 ENTRYPOINT service postgresql start &&\
     psql --command "CREATE USER docker WITH SUPERUSER PASSWORD 'postgres';" &&\
+    python setup_db.py &&\
     gunicorn --workers 4 --bind 0.0.0.0:80 app:app 
