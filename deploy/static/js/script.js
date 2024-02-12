@@ -54,7 +54,7 @@ async function generateOutput() {
     outputElement.innerHTML = '<span class="spinner-border spinner-border-sm text-primary"></span> Predicting Price. Please wait...'
     
     d3.json(predict_url).then(function(data) {
-        console.log(data);
+        // console.log(data);
         outputElement.innerText = data
     });
 }
