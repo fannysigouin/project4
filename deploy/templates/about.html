@@ -18,18 +18,12 @@
     <!--script src=""></script-->
     <style>
         /* Style for about us section */
-        .about-container {
-            display: flex;
-            justify-content: space-around;
-            background-color: #fff;
-            padding: 20px;
-        }
 
         .about-box {
-            flex: 0 0 calc(25% - 6px);
+            /* flex: 0 0 calc(25% - 6px); */
             border: 1px solid #ccc;
-            padding: 20px;
-            margin: 10px; 
+            padding: 10px;
+            margin: 10px;
             text-align: center;
             box-sizing: border-box;
             background-color: #0e6efd;
@@ -43,7 +37,7 @@
         }
 
         .name {
-            color:#fff;
+            color: #fff;
             text-decoration: none;
         }
 
@@ -69,11 +63,11 @@
             display: block;
             transition: 0.3s;
         }
-        
+
         .sidenav a:hover {
             color: #f1f1f1;
         }
-        
+
         .sidenav .closebtn {
             position: absolute;
             top: 0;
@@ -81,53 +75,81 @@
             font-size: 36px;
             margin-left: 50px;
         }
-        
+
         @media screen and (max-height: 450px) {
-            .sidenav {padding-top: 15px;}
-            .sidenav a {font-size: 18px;}
+            .sidenav {
+                padding-top: 15px;
+            }
+
+            .sidenav a {
+                font-size: 18px;
+            }
         }
     </style>
 </head>
 
 <body>
-    <div class="container-fluid p-5 bg-primary text-white text-center shadow-sm">
+    <div class="container-fluid px-3 bg-primary text-white text-center shadow-sm">
         <div id="sideNav" class="sidenav">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="/about">About Us</a>
             <a href="/">Price Predictor</a>
+            <a href="/about">About Us</a>
         </div>
         <span style="font-size:30px;cursor:pointer;float:left" onclick="openNav()">&#9776;</span>
-        <h1>Welcome to our Toronto Real Estate Price Predictor project!</h1>
-        <p class="lead">
-            We are a team of aspiring data analysts who created a machine learning model to predict the price of real estate in the city of Toronto.<br/>
-            Visit our price predictor using the side navigation or connect with us on LinkedIn below!<br/> 
-        </p>
+        <div class="p-5">
+            <h1 class="display-5">Welcome to our Toronto Real Estate Price Predictor project!</h1>
+            <p class="lead">
+                We are a team of new data analysts who created a machine learning model to predict the price of real
+                estate in the city of Toronto.<br />
+                Visit our price predictor using the side navigation and connect with us on LinkedIn below!<br />
+            </p>
+        </div>
     </div>
-    <div class="about-container container">
-        <div class="about-box">
-            <h4 class="name">Fanny Sigouin</h4>
-            <a href="https://www.linkedin.com/in/fannysigouin/" class="link" target="_blank">LinkedIn</a>  
+    <div class="container p-5">
+        <div class="row">
+            <div class="col-sm-12">
+                <h3 class="display-6">Connect with the team:</h3>
+            </div>
         </div>
-        <div class="about-box">
-            <h4 class="name">Jorge Nardy</h4> 
-            <a href="https://www.linkedin.com/in/jorge-nardy/" class="link" target="_blank">LinkedIn</a>   
+        <div class="row pt-3">
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="about-box card">
+                    <h4 class="name card-title">Fanny Sigouin</h4>
+                    <a href="https://www.linkedin.com/in/fannysigouin/" class="link card-link card-footer"
+                        target="_blank">LinkedIn</a>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="about-box card">
+                    <h4 class="name card-title">Jorge Nardy</h4>
+                    <a href="https://www.linkedin.com/in/jorge-nardy/" class="link card-link card-footer"
+                        target="_blank">LinkedIn</a>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="about-box card">
+                    <h4 class="name card-title">Kamal Farran</h4>
+                    <a href="https://www.linkedin.com/in/kamal-farran/" class="link card-link card-footer"
+                        target="_blank">LinkedIn</a>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="about-box card">
+                    <h4 class="name card-title">Tania Barrera</h4>
+                    <a href="https://www.linkedin.com/in/tania-sofia-barrera/" class="link card-link card-footer"
+                        target="_blank">LinkedIn</a>
+                </div>
+            </div>
         </div>
-        <div class="about-box">
-            <h4 class="name">Kamal Farran</h4> 
-            <a href="https://www.linkedin.com/in/kamal-farran/" class="link" target="_blank">LinkedIn</a>   
-        </div>
-        <div class="about-box">
-            <h4 class="name">Tania Barrera</h4> 
-            <a href="https://www.linkedin.com/in/tania-sofia-barrera/" class="link" target="_blank">LinkedIn</a>   
-        </div>
-    <script>
-        function openNav() {
-            document.getElementById("sideNav").style.width = "250px";
-        }
+        <script>
+            function openNav() {
+                document.getElementById("sideNav").style.width = "250px";
+            }
 
-        function closeNav() {
-            document.getElementById("sideNav").style.width = "0";
-        }
-    </script>
+            function closeNav() {
+                document.getElementById("sideNav").style.width = "0";
+            }
+        </script>
 </body>
+
 </html>
