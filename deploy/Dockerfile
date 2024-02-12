@@ -14,7 +14,7 @@ COPY ./templates /deploy/templates
 COPY ./static /deploy/static
 COPY ./resources /deploy/resources
 WORKDIR /deploy/
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 80
 USER postgres
 ENTRYPOINT service postgresql start &&\
