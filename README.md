@@ -6,13 +6,22 @@ This project involves the collection, cleaning, and analysis of Toronto real est
 
 ## Table of Contents
 
-- [Data Collection](#data-collection) 
-- [Data Cleaning](#data-cleaning) 
-- [Database Creation](#database-creation) 
-- [Modeling](#modeling) 
-- [Deployment](#deployment) 
-- [Contributors](#contributors) 
-- [References](#references) 
+- [Overview](#overview)
+- [Table of Contents](#table-of-contents)
+- [Data Collection](#data-collection)
+- [Data Cleaning](#data-cleaning)
+- [Database Creation](#database-creation)
+- [Modeling](#modeling)
+- [Deployment](#deployment)
+- [Contributors](#contributors)
+- [Data Collection](#data-collection-1)
+- [Data Cleaning](#data-cleaning-1)
+- [Database Creation](#database-creation-1)
+- [Modeling](#modeling-1)
+- [Deployment](#deployment-1)
+- [Web Development](#web-development)
+- [General](#general)
+- [Python Libraries](#python-libraries)
 
 ## Data Collection
 
@@ -35,16 +44,16 @@ A Random Forest Regressor model has been implemented to predict property prices 
 The machine learning model is deployed using a cloud-based infrastructure, specifically on Amazon Web Services (AWS). The deployment process involves the following steps:
 
 1. **Model Serialization:** The trained Random Forest Regressor model is serialized using the `joblib` library. 
+   
+2. **Flask API Endpoint:** A Flask web application is set up to serve as an API endpoint for the machine learning model. The Flask application uses Flask and Flask-CORS to handle HTTP requests and responses, providing a seamless interaction with the deployed model.
 
-2. **Containerization:** The serialized model is encapsulated within a Docker container, with dependencies specified in the `requirements.txt` file to ensure consistent and reproducible deployment across different environments.
+3. **PostgreSQL Database Interaction:** SQLAlchemy is utilized to interact with the PostgreSQL database named `listings_db`. The database stores relevant information about Toronto real estate listings.
 
-3. **Flask API Endpoint:** A Flask web application is set up to serve as an API endpoint for the machine learning model. The Flask application uses Flask and Flask-CORS to handle HTTP requests and responses, providing a seamless interaction with the deployed model.
+4. **API Usage:** Users can make HTTP POST requests to the Flask API endpoint, providing property features as input in the request body. The API will respond with predicted property prices.
 
-4. **PostgreSQL Database Interaction:** SQLAlchemy is utilized to interact with the PostgreSQL database named `listings_db`. The database stores relevant information about Toronto real estate listings.
+5. **Containerization:** The serialized model, database creation script, and flask application are encapsulated within a Docker container, with dependencies specified in the `requirements.txt` file to ensure consistent and reproducible deployment across different environments. When running the container, the database is created and the flask app is started using gunicorn. The Docker image is then pushed to docker hub.
 
-5. **AWS EC2 Instance:** The Docker container, along with the Flask application, is deployed on an AWS EC2 instance.
-
-6. **API Usage:** Users can make HTTP POST requests to the Flask API endpoint, providing property features as input in the request body. The API will respond with predicted property prices.
+6. **Azure Web App:** The application is deployed using Azure Web App Services and the Docker image that is available via Docker Hub.
 
 7. **URL:** [Toronto Real Estate Price Predictor](https://toronto-real-estate-predictor.azurewebsites.net/) 
 
