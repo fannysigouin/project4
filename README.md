@@ -46,7 +46,7 @@ The machine learning model is deployed using a cloud-based infrastructure, speci
 
 6. **API Usage:** Users can make HTTP POST requests to the Flask API endpoint, providing property features as input in the request body. The API will respond with predicted property prices.
 
-7. **URL:** [Toronto Real Estate Price Predictor](http://ec2-3-12-123-12.us-east-2.compute.amazonaws.com/) 
+7. **URL:** [Toronto Real Estate Price Predictor](https://toronto-real-estate-predictor.azurewebsites.net/) 
 
 ## Contributors
 
