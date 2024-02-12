@@ -1,7 +1,7 @@
 from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS
-from sqlalchemy import create_engine, Date, String, Float, Integer, text
-from sqlalchemy_utils import database_exists, create_database
+from sqlalchemy import create_engine
+from sqlalchemy_utils import database_exists
 import psycopg2
 from joblib import load
 import pandas as pd
