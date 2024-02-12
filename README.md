@@ -87,7 +87,7 @@ The machine learning model is deployed using a cloud-based infrastructure, speci
 
 ## Deployment
 
-- [AWS Documentation](https://docs.aws.amazon.com/) - AWS documentation for setting up instances and deploying applications.
+- [Azure Documentation](https://learn.microsoft.com/en-us/azure/app-service/) - Azure App Service documentation for setting up and deploying the application.
 - [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/) - Flask documentation for setting up API endpoint. 
 - [Docker Documentation](https://docs.docker.com/) - Docker documentation for containerization in deployment. 
 
