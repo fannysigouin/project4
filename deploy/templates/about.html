@@ -17,6 +17,12 @@
     <!--If displaying any graphs, uncomment and insert below-->
     <!--script src=""></script-->
     <style>
+        /* no text decoration for link inside footer */
+        footer a {
+            /* text-decoration: none; */
+            color: #ffffff;
+        }
+
         /* Style for about us section */
 
         .about-box {
@@ -135,15 +141,25 @@
                 </div>
             </div>
         </div>
-        <script>
-            function openNav() {
-                document.getElementById("sideNav").style.width = "250px";
-            }
+    </div>
+    <footer class="container-fluid text-white bg-primary fixed-bottom">
+        <div class="container py-4">
+            <p>
+                <a href="https://github.com/fannysigouin/project4" target="_blank">
+                    <span class="fa-brands fa-github"></span> Read about the project in our GitHub repository.
+                </a>
+            </p>
+        </div>
+    </footer>
+    <script>
+        function openNav() {
+            document.getElementById("sideNav").style.width = "250px";
+        }
 
-            function closeNav() {
-                document.getElementById("sideNav").style.width = "0";
-            }
-        </script>
+        function closeNav() {
+            document.getElementById("sideNav").style.width = "0";
+        }
+    </script>
 </body>
 
 </html>
