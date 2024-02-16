@@ -154,7 +154,7 @@ def predict_Price():
         prediction = housingModel.predict(X)
         prediction_string = f'${"{:,.2f}".format(prediction[0])}'
     except:
-        prediction_string = ["Sorry, Not Enough Data is Available for " + neighbourhood + ". Please choose a different neighbourhood."]
+        prediction_string = ["Sorry, Not Enough Data is Available for " + neighbourhood + ".\nPlease choose a different neighbourhood."]
 
     return jsonify(prediction_string)
     
